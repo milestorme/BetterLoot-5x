@@ -7,21 +7,14 @@ To use this plugin, you need to download and install the latest version of the f
 
 ### INSTALLATION INSTRUCTIONS
 
-1. From the extracted archive, place the BetterLoot.json file located inside the config folder into the following directory:
-/oxide/configs
-or
-/carbon/config
-This file typically has no direct functionality, but it’s recommended to include it to avoid potential issues.
+1. Place the following 2 files located inside the data folder into your oxide/data/BetterLoot folder replacing default ones.
 
+- LootGroups.json
+- LootTables.json
 
-2. Place the following 2 files located inside the data folder into your oxide/data/BetterLoot folder replacing default ones.
+2. Place the following file located inside the config folder into your oxide/config/BetterLoot folder replacing the default one.
 
-LootGroups.json
-LootTables.json
-
-3. Place the following file located inside the config folder into your oxide/config/BetterLoot folder replacing the default one.
-
-BetterLoot.json
+- BetterLoot.json
 
 3. Reload the plugin:
 
