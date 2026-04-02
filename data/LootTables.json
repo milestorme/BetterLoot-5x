@@ -220,14 +220,14 @@
           "Item Minimum": 3,
           "Item Maximum": 5
         },
-        "advancedblueprintfragment": {
+        "basicblueprintfragment": {
           "Allow Duplicates": true,
           "Skin ID (0 = default)": 0,
           "Display Name (empty = none)": "",
           "Item Minimum": 1,
           "Item Maximum": 1
         },
-        "basicblueprintfragment": {
+        "advancedblueprintfragment": {
           "Allow Duplicates": true,
           "Skin ID (0 = default)": 0,
           "Display Name (empty = none)": "",
@@ -5545,25 +5545,14 @@
     },
     "assets/bundled/prefabs/radtown/underwater_labs/crate_elite.prefab": {
       "Item Settings": {
-        "Max Blueprints": 1,
+        "Max Blueprints": 0,
         "Maximum Scrap Amount": 25,
         "Minimum Scrap Amount": 25,
-        "Maximum Amount of Items": 6,
-        "Minimum Amount of Items": 6
+        "Maximum Amount of Items": 9,
+        "Minimum Amount of Items": 9
       },
       "Loot Profiles": [],
       "Ungrouped Items": {
-        "drone": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 1,
-          "Item Durability": {
-            "Maximum Durability": 100,
-            "Minimum Durability": 100
-          }
-        },
         "hmlmg": {
           "Allow Duplicates": true,
           "Skin ID (0 = default)": 0,
@@ -5610,35 +5599,6 @@
             }
           }
         },
-        "hoodie": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 1
-        },
-        "locker": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 1,
-          "Item Durability": {
-            "Maximum Durability": 100,
-            "Minimum Durability": 100
-          }
-        },
-        "skidoo": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 1,
-          "Item Durability": {
-            "Maximum Durability": 100,
-            "Minimum Durability": 100
-          }
-        },
         "smg.mp5": {
           "Allow Duplicates": true,
           "Skin ID (0 = default)": 0,
@@ -5667,38 +5627,9 @@
           "Skin ID (0 = default)": 0,
           "Display Name (empty = none)": "",
           "Item Minimum": 1,
-          "Item Maximum": 1
-        },
-        "catapult": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 1
+          "Item Maximum": 3
         },
         "chainsaw": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 1,
-          "Item Durability": {
-            "Maximum Durability": 100,
-            "Minimum Durability": 100
-          }
-        },
-        "elevator": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 1,
-          "Item Durability": {
-            "Maximum Durability": 100,
-            "Minimum Durability": 100
-          }
-        },
-        "rf_pager": {
           "Allow Duplicates": true,
           "Skin ID (0 = default)": 0,
           "Display Name (empty = none)": "",
@@ -5731,35 +5662,6 @@
               "Ammo Item Shortname": ""
             }
           }
-        },
-        "handcuffs": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 1,
-          "Item Durability": {
-            "Maximum Durability": 100,
-            "Minimum Durability": 100
-          }
-        },
-        "longsword": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 1,
-          "Item Durability": {
-            "Maximum Durability": 100,
-            "Minimum Durability": 100
-          }
-        },
-        "metalpipe": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 5,
-          "Item Maximum": 6
         },
         "parachute": {
           "Allow Duplicates": true,
@@ -5800,21 +5702,14 @@
           "Skin ID (0 = default)": 0,
           "Display Name (empty = none)": "",
           "Item Minimum": 1,
-          "Item Maximum": 1
+          "Item Maximum": 3
         },
         "techparts": {
           "Allow Duplicates": true,
           "Skin ID (0 = default)": 0,
           "Display Name (empty = none)": "",
-          "Item Minimum": 2,
-          "Item Maximum": 4
-        },
-        "waterpump": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 1
+          "Item Minimum": 5,
+          "Item Maximum": 10
         },
         "autoturret": {
           "Allow Duplicates": true,
@@ -5831,26 +5726,15 @@
           "Allow Duplicates": true,
           "Skin ID (0 = default)": 0,
           "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 1
+          "Item Minimum": 20,
+          "Item Maximum": 20
         },
         "grenade.f1": {
           "Allow Duplicates": true,
           "Skin ID (0 = default)": 0,
           "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 1
-        },
-        "hazmatsuit": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 1,
-          "Item Durability": {
-            "Maximum Durability": 100,
-            "Minimum Durability": 100
-          }
+          "Item Minimum": 5,
+          "Item Maximum": 3
         },
         "rifle.bolt": {
           "Allow Duplicates": true,
@@ -5875,20 +5759,6 @@
             }
           }
         },
-        "cctv.camera": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 1
-        },
-        "largemedkit": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 1
-        },
         "revolver.hc": {
           "Allow Duplicates": true,
           "Skin ID (0 = default)": 0,
@@ -5912,45 +5782,6 @@
             }
           }
         },
-        "searchlight": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 1
-        },
-        "shoes.boots": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 1
-        },
-        "smart.alarm": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 1
-        },
-        "axe.salvaged": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 1,
-          "Item Durability": {
-            "Maximum Durability": 100,
-            "Minimum Durability": 100
-          }
-        },
-        "batteringram": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 1
-        },
         "flamethrower": {
           "Allow Duplicates": true,
           "Skin ID (0 = default)": 0,
@@ -5962,81 +5793,6 @@
             "Minimum Durability": 100
           },
           "Item Properties": {
-            "Ammunition Settings": {
-              "Maximum Amount": 0,
-              "Minimum Amount": 0,
-              "Ammo Item Shortname": ""
-            }
-          }
-        },
-        "metal.shield": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 1,
-          "Item Durability": {
-            "Maximum Durability": 100,
-            "Minimum Durability": 100
-          }
-        },
-        "rf.detonator": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 1,
-          "Item Durability": {
-            "Maximum Durability": 100,
-            "Minimum Durability": 100
-          }
-        },
-        "shotgun.pump": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 1,
-          "Item Durability": {
-            "Maximum Durability": 100,
-            "Minimum Durability": 100
-          },
-          "Item Properties": {
-            "Weapon Attachments": {
-              "Maximum Mod Amount": 1,
-              "Minimum Mod Amount": 1,
-              "Available Attachments": {}
-            },
-            "Ammunition Settings": {
-              "Maximum Amount": 0,
-              "Minimum Amount": 0,
-              "Ammo Item Shortname": ""
-            }
-          }
-        },
-        "smart.switch": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 1
-        },
-        "smg.thompson": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 1,
-          "Item Durability": {
-            "Maximum Durability": 100,
-            "Minimum Durability": 100
-          },
-          "Item Properties": {
-            "Weapon Attachments": {
-              "Maximum Mod Amount": 1,
-              "Minimum Mod Amount": 1,
-              "Available Attachments": {}
-            },
             "Ammunition Settings": {
               "Maximum Amount": 0,
               "Minimum Amount": 0,
@@ -6058,11 +5814,18 @@
           "Item Minimum": 1,
           "Item Maximum": 1
         },
+        "largebackpack": {
+          "Allow Duplicates": true,
+          "Skin ID (0 = default)": 0,
+          "Display Name (empty = none)": "",
+          "Item Minimum": 1,
+          "Item Maximum": 1
+        },
         "metal.refined": {
           "Allow Duplicates": true,
           "Skin ID (0 = default)": 0,
           "Display Name (empty = none)": "",
-          "Item Minimum": 15,
+          "Item Minimum": 25,
           "Item Maximum": 25
         },
         "pistol.python": {
@@ -6088,91 +5851,14 @@
             }
           }
         },
-        "roadsign.kilt": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 1,
-          "Item Durability": {
-            "Maximum Durability": 100,
-            "Minimum Durability": 100
-          }
-        },
         "supply.signal": {
           "Allow Duplicates": true,
           "Skin ID (0 = default)": 0,
           "Display Name (empty = none)": "",
           "Item Minimum": 1,
-          "Item Maximum": 1
-        },
-        "trap.landmine": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 1
+          "Item Maximum": 2
         },
         "metal.facemask": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 1,
-          "Item Durability": {
-            "Maximum Durability": 100,
-            "Minimum Durability": 100
-          }
-        },
-        "modularcarlift": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 1
-        },
-        "rifle.semiauto": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 1,
-          "Item Durability": {
-            "Maximum Durability": 100,
-            "Minimum Durability": 100
-          },
-          "Item Properties": {
-            "Weapon Attachments": {
-              "Maximum Mod Amount": 1,
-              "Minimum Mod Amount": 1,
-              "Available Attachments": {}
-            },
-            "Ammunition Settings": {
-              "Maximum Amount": 0,
-              "Minimum Amount": 0,
-              "Ammo Item Shortname": ""
-            }
-          }
-        },
-        "ballista.static": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 1,
-          "Item Durability": {
-            "Maximum Durability": 100,
-            "Minimum Durability": 100
-          }
-        },
-        "barricade.metal": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 1
-        },
-        "computerstation": {
           "Allow Duplicates": true,
           "Skin ID (0 = default)": 0,
           "Display Name (empty = none)": "",
@@ -6188,66 +5874,14 @@
           "Skin ID (0 = default)": 0,
           "Display Name (empty = none)": "",
           "Item Minimum": 1,
-          "Item Maximum": 1
+          "Item Maximum": 2
         },
         "grenade.molotov": {
           "Allow Duplicates": true,
           "Skin ID (0 = default)": 0,
           "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 1
-        },
-        "pistol.semiauto": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 1,
-          "Item Durability": {
-            "Maximum Durability": 100,
-            "Minimum Durability": 100
-          },
-          "Item Properties": {
-            "Weapon Attachments": {
-              "Maximum Mod Amount": 1,
-              "Minimum Mod Amount": 1,
-              "Available Attachments": {}
-            },
-            "Ammunition Settings": {
-              "Maximum Amount": 0,
-              "Minimum Amount": 0,
-              "Ammo Item Shortname": ""
-            }
-          }
-        },
-        "ptz.cctv.camera": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 1,
-          "Item Durability": {
-            "Maximum Durability": 100,
-            "Minimum Durability": 100
-          }
-        },
-        "roadsign.gloves": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 1
-        },
-        "roadsign.jacket": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 1,
-          "Item Durability": {
-            "Maximum Durability": 100,
-            "Minimum Durability": 100
-          }
+          "Item Minimum": 5,
+          "Item Maximum": 5
         },
         "rocket.launcher": {
           "Allow Duplicates": true,
@@ -6266,95 +5900,12 @@
             }
           }
         },
-        "storage.monitor": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 1
-        },
-        "syringe.medical": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 1
-        },
-        "wall.frame.cell": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 1,
-          "Item Durability": {
-            "Maximum Durability": 100,
-            "Minimum Durability": 100
-          }
-        },
-        "ballista.mounted": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 1
-        },
-        "coffeecan.helmet": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 1,
-          "Item Durability": {
-            "Maximum Durability": 100,
-            "Minimum Durability": 100
-          }
-        },
-        "electric.counter": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 1
-        },
-        "electric.furnace": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 1,
-          "Item Durability": {
-            "Maximum Durability": 100,
-            "Minimum Durability": 100
-          }
-        },
-        "icepick.salvaged": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 1,
-          "Item Durability": {
-            "Maximum Durability": 100,
-            "Minimum Durability": 100
-          }
-        },
         "grenade.flashbang": {
           "Allow Duplicates": true,
           "Skin ID (0 = default)": 0,
           "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 1
-        },
-        "heavy.plate.pants": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 1,
-          "Item Durability": {
-            "Maximum Durability": 100,
-            "Minimum Durability": 100
-          }
+          "Item Minimum": 5,
+          "Item Maximum": 5
         },
         "metal.plate.torso": {
           "Allow Duplicates": true,
@@ -6367,70 +5918,16 @@
             "Minimum Durability": 100
           }
         },
-        "barricade.concrete": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 1
-        },
-        "electric.andswitch": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 1
-        },
         "electric.teslacoil": {
           "Allow Duplicates": true,
           "Skin ID (0 = default)": 0,
           "Display Name (empty = none)": "",
           "Item Minimum": 1,
-          "Item Maximum": 1,
+          "Item Maximum": 5,
           "Item Durability": {
             "Maximum Durability": 100,
             "Minimum Durability": 100
           }
-        },
-        "floor.ladder.hatch": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 1,
-          "Item Durability": {
-            "Maximum Durability": 100,
-            "Minimum Durability": 100
-          }
-        },
-        "heavy.plate.helmet": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 1,
-          "Item Durability": {
-            "Maximum Durability": 100,
-            "Minimum Durability": 100
-          }
-        },
-        "heavy.plate.jacket": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 1,
-          "Item Durability": {
-            "Maximum Durability": 100,
-            "Minimum Durability": 100
-          }
-        },
-        "industrial.crafter": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 1
         },
         "nightvisiongoggles": {
           "Allow Duplicates": true,
@@ -6455,32 +5952,7 @@
           "Skin ID (0 = default)": 0,
           "Display Name (empty = none)": "",
           "Item Minimum": 1,
-          "Item Maximum": 1
-        },
-        "door.hinged.toptier": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 1,
-          "Item Durability": {
-            "Maximum Durability": 100,
-            "Minimum Durability": 100
-          }
-        },
-        "electric.hbhfsensor": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 1
-        },
-        "water.catcher.large": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 1
+          "Item Maximum": 5
         },
         "weapon.mod.silencer": {
           "Allow Duplicates": true,
@@ -6493,52 +5965,12 @@
             "Minimum Durability": 100
           }
         },
-        "electric.rf.receiver": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 1
-        },
         "generator.wind.scrap": {
           "Allow Duplicates": true,
           "Skin ID (0 = default)": 0,
           "Display Name (empty = none)": "",
           "Item Minimum": 1,
           "Item Maximum": 1
-        },
-        "horse.armor.roadsign": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 1,
-          "Item Durability": {
-            "Maximum Durability": 100,
-            "Minimum Durability": 100
-          }
-        },
-        "horse.shoes.advanced": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 1,
-          "Item Durability": {
-            "Maximum Durability": 100,
-            "Minimum Durability": 100
-          }
-        },
-        "wall.frame.cell.gate": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 1,
-          "Item Durability": {
-            "Maximum Durability": 100,
-            "Minimum Durability": 100
-          }
         },
         "weapon.mod.holosight": {
           "Allow Duplicates": true,
@@ -6547,53 +5979,7 @@
           "Item Minimum": 1,
           "Item Maximum": 1
         },
-        "electric.digitalclock": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 1
-        },
-        "electrical.memorycell": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 1
-        },
-        "wall.frame.garagedoor": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 1,
-          "Item Durability": {
-            "Maximum Durability": 100,
-            "Minimum Durability": 100
-          }
-        },
         "weapon.mod.lasersight": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 1
-        },
-        "electric.laserdetector": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 1
-        },
-        "electric.random.switch": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 1
-        },
-        "electric.seismicsensor": {
           "Allow Duplicates": true,
           "Skin ID (0 = default)": 0,
           "Display Name (empty = none)": "",
@@ -6617,35 +6003,6 @@
             }
           }
         },
-        "powered.water.purifier": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 1
-        },
-        "weapon.mod.muzzleboost": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 1,
-          "Item Durability": {
-            "Maximum Durability": 100,
-            "Minimum Durability": 100
-          }
-        },
-        "weapon.mod.muzzlebrake": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 1,
-          "Item Durability": {
-            "Maximum Durability": 100,
-            "Minimum Durability": 100
-          }
-        },
         "weapon.mod.small.scope": {
           "Allow Duplicates": true,
           "Skin ID (0 = default)": 0,
@@ -6653,126 +6010,14 @@
           "Item Minimum": 1,
           "Item Maximum": 1
         },
-        "electric.rf.broadcaster": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 1
-        },
-        "weapon.mod.extendedmags": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 1
-        },
-        "wall.external.high.stone": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 1
-        },
-        "wall.window.bars.toptier": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 1,
-          "Item Durability": {
-            "Maximum Durability": 100,
-            "Minimum Durability": 100
-          }
-        },
-        "gates.external.high.stone": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 1
-        },
-        "shutter.metal.embrasure.a": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 1,
-          "Item Durability": {
-            "Maximum Durability": 100,
-            "Minimum Durability": 100
-          }
-        },
-        "shutter.metal.embrasure.b": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 1,
-          "Item Durability": {
-            "Maximum Durability": 100,
-            "Minimum Durability": 100
-          }
-        },
-        "door.double.hinged.toptier": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 1,
-          "Item Durability": {
-            "Maximum Durability": 100,
-            "Minimum Durability": 100
-          }
-        },
-        "floor.triangle.ladder.hatch": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 1,
-          "Item Durability": {
-            "Maximum Durability": 100,
-            "Minimum Durability": 100
-          }
-        },
-        "electric.fuelgenerator.small": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 1,
-          "Item Durability": {
-            "Maximum Durability": 100,
-            "Minimum Durability": 100
-          }
-        },
-        "wall.window.glass.reinforced": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 1,
-          "Item Durability": {
-            "Maximum Durability": 100,
-            "Minimum Durability": 100
-          }
-        },
         "clothing.mod.armorinsert_lead": {
           "Allow Duplicates": true,
           "Skin ID (0 = default)": 0,
           "Display Name (empty = none)": "",
           "Item Minimum": 1,
-          "Item Maximum": 1
+          "Item Maximum": 3
         },
-        "clothing.mod.armorinsert_asbestos": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 1
-        },
-        "weapon.mod.gascompressionovedrive": {
+        "hazmatsuit_scientist_peacekeeper": {
           "Allow Duplicates": true,
           "Skin ID (0 = default)": 0,
           "Display Name (empty = none)": "",
@@ -7059,25 +6304,14 @@
     },
     "assets/bundled/prefabs/radtown/underwater_labs/crate_normal.prefab": {
       "Item Settings": {
-        "Max Blueprints": 1,
+        "Max Blueprints": 0,
         "Maximum Scrap Amount": 8,
         "Minimum Scrap Amount": 8,
-        "Maximum Amount of Items": 6,
+        "Maximum Amount of Items": 9,
         "Minimum Amount of Items": 6
       },
       "Loot Profiles": [],
       "Ungrouped Items": {
-        "drone": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 1,
-          "Item Durability": {
-            "Maximum Durability": 100,
-            "Minimum Durability": 100
-          }
-        },
         "smg.2": {
           "Allow Duplicates": true,
           "Skin ID (0 = default)": 0,
@@ -7108,105 +6342,14 @@
           "Item Minimum": 1,
           "Item Maximum": 1
         },
-        "locker": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 1,
-          "Item Durability": {
-            "Maximum Durability": 100,
-            "Minimum Durability": 100
-          }
-        },
-        "skidoo": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 1,
-          "Item Durability": {
-            "Maximum Durability": 100,
-            "Minimum Durability": 100
-          }
-        },
         "smgbody": {
           "Allow Duplicates": true,
           "Skin ID (0 = default)": 0,
           "Display Name (empty = none)": "",
           "Item Minimum": 1,
-          "Item Maximum": 1
-        },
-        "catapult": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 1
+          "Item Maximum": 5
         },
         "chainsaw": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 1,
-          "Item Durability": {
-            "Maximum Durability": 100,
-            "Minimum Durability": 100
-          }
-        },
-        "elevator": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 1,
-          "Item Durability": {
-            "Maximum Durability": 100,
-            "Minimum Durability": 100
-          }
-        },
-        "rf_pager": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 1,
-          "Item Durability": {
-            "Maximum Durability": 100,
-            "Minimum Durability": 100
-          }
-        },
-        "handcuffs": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 1,
-          "Item Durability": {
-            "Maximum Durability": 100,
-            "Minimum Durability": 100
-          }
-        },
-        "longsword": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 1,
-          "Item Durability": {
-            "Maximum Durability": 100,
-            "Minimum Durability": 100
-          }
-        },
-        "metalpipe": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 5,
-          "Item Maximum": 6
-        },
-        "parachute": {
           "Allow Duplicates": true,
           "Skin ID (0 = default)": 0,
           "Display Name (empty = none)": "",
@@ -7222,21 +6365,14 @@
           "Skin ID (0 = default)": 0,
           "Display Name (empty = none)": "",
           "Item Minimum": 1,
-          "Item Maximum": 1
+          "Item Maximum": 5
         },
         "techparts": {
           "Allow Duplicates": true,
           "Skin ID (0 = default)": 0,
           "Display Name (empty = none)": "",
           "Item Minimum": 2,
-          "Item Maximum": 4
-        },
-        "waterpump": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 1
+          "Item Maximum": 6
         },
         "autoturret": {
           "Allow Duplicates": true,
@@ -7272,14 +6408,14 @@
           "Skin ID (0 = default)": 0,
           "Display Name (empty = none)": "",
           "Item Minimum": 1,
-          "Item Maximum": 1
+          "Item Maximum": 5
         },
         "largemedkit": {
           "Allow Duplicates": true,
           "Skin ID (0 = default)": 0,
           "Display Name (empty = none)": "",
           "Item Minimum": 1,
-          "Item Maximum": 1
+          "Item Maximum": 3
         },
         "revolver.hc": {
           "Allow Duplicates": true,
@@ -7304,39 +6440,7 @@
             }
           }
         },
-        "searchlight": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 1
-        },
         "shoes.boots": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 1
-        },
-        "smart.alarm": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 1
-        },
-        "axe.salvaged": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 1,
-          "Item Durability": {
-            "Maximum Durability": 100,
-            "Minimum Durability": 100
-          }
-        },
-        "batteringram": {
           "Allow Duplicates": true,
           "Skin ID (0 = default)": 0,
           "Display Name (empty = none)": "",
@@ -7372,17 +6476,6 @@
             "Minimum Durability": 100
           }
         },
-        "rf.detonator": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 1,
-          "Item Durability": {
-            "Maximum Durability": 100,
-            "Minimum Durability": 100
-          }
-        },
         "shotgun.pump": {
           "Allow Duplicates": true,
           "Skin ID (0 = default)": 0,
@@ -7405,13 +6498,6 @@
               "Ammo Item Shortname": ""
             }
           }
-        },
-        "smart.switch": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 1
         },
         "smg.thompson": {
           "Allow Duplicates": true,
@@ -7436,19 +6522,12 @@
             }
           }
         },
-        "furnace.large": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 1
-        },
         "grenade.smoke": {
           "Allow Duplicates": true,
           "Skin ID (0 = default)": 0,
           "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 1
+          "Item Minimum": 5,
+          "Item Maximum": 5
         },
         "metal.refined": {
           "Allow Duplicates": true,
@@ -7491,21 +6570,14 @@
             "Minimum Durability": 100
           }
         },
+        "smallbackpack": {
+          "Allow Duplicates": true,
+          "Skin ID (0 = default)": 0,
+          "Display Name (empty = none)": "",
+          "Item Minimum": 1,
+          "Item Maximum": 1
+        },
         "supply.signal": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 1
-        },
-        "trap.landmine": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 1
-        },
-        "modularcarlift": {
           "Allow Duplicates": true,
           "Skin ID (0 = default)": 0,
           "Display Name (empty = none)": "",
@@ -7533,35 +6605,6 @@
               "Minimum Amount": 0,
               "Ammo Item Shortname": ""
             }
-          }
-        },
-        "ballista.static": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 1,
-          "Item Durability": {
-            "Maximum Durability": 100,
-            "Minimum Durability": 100
-          }
-        },
-        "barricade.metal": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 1
-        },
-        "computerstation": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 1,
-          "Item Durability": {
-            "Maximum Durability": 100,
-            "Minimum Durability": 100
           }
         },
         "grenade.molotov": {
@@ -7592,17 +6635,6 @@
               "Minimum Amount": 0,
               "Ammo Item Shortname": ""
             }
-          }
-        },
-        "ptz.cctv.camera": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 1,
-          "Item Durability": {
-            "Maximum Durability": 100,
-            "Minimum Durability": 100
           }
         },
         "roadsign.gloves": {
@@ -7640,68 +6672,14 @@
             }
           }
         },
-        "storage.monitor": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 1
-        },
         "syringe.medical": {
           "Allow Duplicates": true,
           "Skin ID (0 = default)": 0,
           "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 1
-        },
-        "wall.frame.cell": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 1,
-          "Item Durability": {
-            "Maximum Durability": 100,
-            "Minimum Durability": 100
-          }
-        },
-        "ballista.mounted": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 1
+          "Item Minimum": 5,
+          "Item Maximum": 5
         },
         "coffeecan.helmet": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 1,
-          "Item Durability": {
-            "Maximum Durability": 100,
-            "Minimum Durability": 100
-          }
-        },
-        "electric.counter": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 1
-        },
-        "electric.furnace": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 1,
-          "Item Durability": {
-            "Maximum Durability": 100,
-            "Minimum Durability": 100
-          }
-        },
-        "icepick.salvaged": {
           "Allow Duplicates": true,
           "Skin ID (0 = default)": 0,
           "Display Name (empty = none)": "",
@@ -7730,32 +6708,7 @@
             "Minimum Durability": 100
           }
         },
-        "barricade.concrete": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 1
-        },
-        "electric.andswitch": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 1
-        },
         "electric.teslacoil": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 1,
-          "Item Durability": {
-            "Maximum Durability": 100,
-            "Minimum Durability": 100
-          }
-        },
-        "floor.ladder.hatch": {
           "Allow Duplicates": true,
           "Skin ID (0 = default)": 0,
           "Display Name (empty = none)": "",
@@ -7788,13 +6741,6 @@
             "Minimum Durability": 100
           }
         },
-        "industrial.crafter": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 1
-        },
         "nightvisiongoggles": {
           "Allow Duplicates": true,
           "Skin ID (0 = default)": 0,
@@ -7806,40 +6752,12 @@
             "Minimum Durability": 100
           }
         },
-        "small.oil.refinery": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 1
-        },
         "targeting.computer": {
           "Allow Duplicates": true,
           "Skin ID (0 = default)": 0,
           "Display Name (empty = none)": "",
           "Item Minimum": 1,
-          "Item Maximum": 1
-        },
-        "electric.hbhfsensor": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 1
-        },
-        "water.catcher.large": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 1
-        },
-        "electric.rf.receiver": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 1
+          "Item Maximum": 5
         },
         "generator.wind.scrap": {
           "Allow Duplicates": true,
@@ -7848,54 +6766,7 @@
           "Item Minimum": 1,
           "Item Maximum": 1
         },
-        "horse.armor.roadsign": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 1,
-          "Item Durability": {
-            "Maximum Durability": 100,
-            "Minimum Durability": 100
-          }
-        },
-        "horse.shoes.advanced": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 1,
-          "Item Durability": {
-            "Maximum Durability": 100,
-            "Minimum Durability": 100
-          }
-        },
-        "wall.frame.cell.gate": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 1,
-          "Item Durability": {
-            "Maximum Durability": 100,
-            "Minimum Durability": 100
-          }
-        },
         "weapon.mod.holosight": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 1
-        },
-        "electric.digitalclock": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 1
-        },
-        "electrical.memorycell": {
           "Allow Duplicates": true,
           "Skin ID (0 = default)": 0,
           "Display Name (empty = none)": "",
@@ -7912,27 +6783,6 @@
             "Maximum Durability": 100,
             "Minimum Durability": 100
           }
-        },
-        "electric.laserdetector": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 1
-        },
-        "electric.random.switch": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 1
-        },
-        "electric.seismicsensor": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 1
         },
         "homingmissile.launcher": {
           "Allow Duplicates": true,
@@ -7951,133 +6801,14 @@
             }
           }
         },
-        "powered.water.purifier": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 1
-        },
-        "weapon.mod.muzzleboost": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 1,
-          "Item Durability": {
-            "Maximum Durability": 100,
-            "Minimum Durability": 100
-          }
-        },
-        "weapon.mod.muzzlebrake": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 1,
-          "Item Durability": {
-            "Maximum Durability": 100,
-            "Minimum Durability": 100
-          }
-        },
-        "electric.rf.broadcaster": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 1
-        },
-        "weapon.mod.extendedmags": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 1
-        },
         "wall.external.high.stone": {
           "Allow Duplicates": true,
           "Skin ID (0 = default)": 0,
           "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 1
-        },
-        "gates.external.high.stone": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 1
-        },
-        "shutter.metal.embrasure.a": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 1,
-          "Item Durability": {
-            "Maximum Durability": 100,
-            "Minimum Durability": 100
-          }
-        },
-        "shutter.metal.embrasure.b": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 1,
-          "Item Durability": {
-            "Maximum Durability": 100,
-            "Minimum Durability": 100
-          }
-        },
-        "floor.triangle.ladder.hatch": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 1,
-          "Item Durability": {
-            "Maximum Durability": 100,
-            "Minimum Durability": 100
-          }
-        },
-        "electric.fuelgenerator.small": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 1,
-          "Item Durability": {
-            "Maximum Durability": 100,
-            "Minimum Durability": 100
-          }
-        },
-        "wall.window.glass.reinforced": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 1,
-          "Item Durability": {
-            "Maximum Durability": 100,
-            "Minimum Durability": 100
-          }
+          "Item Minimum": 3,
+          "Item Maximum": 5
         },
         "clothing.mod.armorinsert_lead": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 1
-        },
-        "clothing.mod.armorinsert_asbestos": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 1
-        },
-        "weapon.mod.gascompressionovedrive": {
           "Allow Duplicates": true,
           "Skin ID (0 = default)": 0,
           "Display Name (empty = none)": "",
@@ -8112,25 +6843,14 @@
     },
     "assets/bundled/prefabs/radtown/underwater_labs/crate_normal_2.prefab": {
       "Item Settings": {
-        "Max Blueprints": 1,
+        "Max Blueprints": 0,
         "Maximum Scrap Amount": 5,
         "Minimum Scrap Amount": 5,
-        "Maximum Amount of Items": 10,
+        "Maximum Amount of Items": 5,
         "Minimum Amount of Items": 5
       },
       "Loot Profiles": [],
       "Ungrouped Items": {
-        "bed": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 1,
-          "Item Durability": {
-            "Maximum Durability": 100,
-            "Minimum Durability": 100
-          }
-        },
         "fuse": {
           "Allow Duplicates": true,
           "Skin ID (0 = default)": 0,
@@ -8152,63 +6872,6 @@
             "Maximum Durability": 100,
             "Minimum Durability": 100
           }
-        },
-        "chair": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 1
-        },
-        "flare": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 4,
-          "Item Maximum": 6
-        },
-        "gears": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 2,
-          "Item Maximum": 3
-        },
-        "kayak": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 1,
-          "Item Durability": {
-            "Maximum Durability": 100,
-            "Minimum Durability": 100
-          }
-        },
-        "pants": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 1
-        },
-        "fridge": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 1,
-          "Item Durability": {
-            "Maximum Durability": 100,
-            "Minimum Durability": 100
-          }
-        },
-        "hopper": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 1
         },
         "jacket": {
           "Allow Duplicates": true,
@@ -8247,54 +6910,7 @@
           "Item Minimum": 1,
           "Item Maximum": 1
         },
-        "beehive": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 1
-        },
-        "dropbox": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 1
-        },
         "guntrap": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 1,
-          "Item Durability": {
-            "Maximum Durability": 100,
-            "Minimum Durability": 100
-          }
-        },
-        "hatchet": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 1,
-          "Item Durability": {
-            "Maximum Durability": 100,
-            "Minimum Durability": 100
-          }
-        },
-        "iotable": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 1,
-          "Item Durability": {
-            "Maximum Durability": 100,
-            "Minimum Durability": 100
-          }
-        },
-        "pickaxe": {
           "Allow Duplicates": true,
           "Skin ID (0 = default)": 0,
           "Display Name (empty = none)": "",
@@ -8310,7 +6926,7 @@
           "Skin ID (0 = default)": 0,
           "Display Name (empty = none)": "",
           "Item Minimum": 1,
-          "Item Maximum": 1
+          "Item Maximum": 3
         },
         "speargun": {
           "Allow Duplicates": true,
@@ -8329,111 +6945,18 @@
             }
           }
         },
-        "boomerang": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 1,
-          "Item Durability": {
-            "Maximum Durability": 100,
-            "Minimum Durability": 100
-          }
-        },
-        "hab.armor": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 1,
-          "Item Durability": {
-            "Maximum Durability": 100,
-            "Minimum Durability": 100
-          }
-        },
-        "hat.miner": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 1
-        },
-        "metalpipe": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 5
-        },
-        "roadsigns": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 2,
-          "Item Maximum": 4
-        },
-        "telephone": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 1
-        },
         "trap.bear": {
           "Allow Duplicates": true,
           "Skin ID (0 = default)": 0,
           "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 1,
-          "Item Durability": {
-            "Maximum Durability": 100,
-            "Minimum Durability": 100
-          }
-        },
-        "autoturret": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 1,
+          "Item Minimum": 3,
+          "Item Maximum": 3,
           "Item Durability": {
             "Maximum Durability": 100,
             "Minimum Durability": 100
           }
         },
         "hazmatsuit": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 1,
-          "Item Durability": {
-            "Maximum Durability": 100,
-            "Minimum Durability": 100
-          }
-        },
-        "sheetmetal": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 2
-        },
-        "siegetower": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 1
-        },
-        "cctv.camera": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 1
-        },
-        "chickencoop": {
           "Allow Duplicates": true,
           "Skin ID (0 = default)": 0,
           "Display Name (empty = none)": "",
@@ -8455,23 +6978,12 @@
             "Minimum Durability": 100
           }
         },
-        "floor.grill": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 1,
-          "Item Durability": {
-            "Maximum Durability": 100,
-            "Minimum Durability": 100
-          }
-        },
         "grenade.bee": {
           "Allow Duplicates": true,
           "Skin ID (0 = default)": 0,
           "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 1
+          "Item Minimum": 3,
+          "Item Maximum": 3
         },
         "jacket.snow": {
           "Allow Duplicates": true,
@@ -8479,24 +6991,6 @@
           "Display Name (empty = none)": "",
           "Item Minimum": 1,
           "Item Maximum": 1
-        },
-        "metalspring": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 2
-        },
-        "mixingtable": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 1,
-          "Item Durability": {
-            "Maximum Durability": 100,
-            "Minimum Durability": 100
-          }
         },
         "riot.helmet": {
           "Allow Duplicates": true,
@@ -8509,7 +7003,7 @@
             "Minimum Durability": 100
           }
         },
-        "tshirt.long": {
+        "axe.salvaged": {
           "Allow Duplicates": true,
           "Skin ID (0 = default)": 0,
           "Display Name (empty = none)": "",
@@ -8533,109 +7027,7 @@
             }
           }
         },
-        "ceilinglight": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 1
-        },
-        "fluid.switch": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 1
-        },
         "knife.combat": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 1,
-          "Item Durability": {
-            "Maximum Durability": 100,
-            "Minimum Durability": 100
-          }
-        },
-        "minicrossbow": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 1,
-          "Item Durability": {
-            "Maximum Durability": 100,
-            "Minimum Durability": 100
-          },
-          "Item Properties": {
-            "Weapon Attachments": {
-              "Maximum Mod Amount": 1,
-              "Minimum Mod Amount": 1,
-              "Available Attachments": {}
-            },
-            "Ammunition Settings": {
-              "Maximum Amount": 0,
-              "Minimum Amount": 0,
-              "Ammo Item Shortname": ""
-            }
-          }
-        },
-        "prisonerhood": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 1,
-          "Item Durability": {
-            "Maximum Durability": 100,
-            "Minimum Durability": 100
-          }
-        },
-        "tincan.alarm": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 1,
-          "Item Durability": {
-            "Maximum Durability": 100,
-            "Minimum Durability": 100
-          }
-        },
-        "bucket.helmet": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 1,
-          "Item Durability": {
-            "Maximum Durability": 100,
-            "Minimum Durability": 100
-          }
-        },
-        "electric.timer": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 1
-        },
-        "fluid.combiner": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 1
-        },
-        "fluid.splitter": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 1
-        },
-        "metal.detector": {
           "Allow Duplicates": true,
           "Skin ID (0 = default)": 0,
           "Display Name (empty = none)": "",
@@ -8656,13 +7048,6 @@
             "Maximum Durability": 100,
             "Minimum Durability": 100
           }
-        },
-        "shirt.collared": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 1
         },
         "shotgun.double": {
           "Allow Duplicates": true,
@@ -8687,40 +7072,12 @@
             }
           }
         },
-        "storageadaptor": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 1
-        },
-        "electric.button": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 1
-        },
-        "electric.heater": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 1
-        },
-        "electric.switch": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 1
-        },
         "grenade.beancan": {
           "Allow Duplicates": true,
           "Skin ID (0 = default)": 0,
           "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 1
+          "Item Minimum": 3,
+          "Item Maximum": 3
         },
         "hammer.salvaged": {
           "Allow Duplicates": true,
@@ -8756,32 +7113,7 @@
             }
           }
         },
-        "target.reactive": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 1
-        },
-        "watchtower.wood": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 1
-        },
-        "cookingworkbench": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 1,
-          "Item Durability": {
-            "Maximum Durability": 100,
-            "Minimum Durability": 100
-          }
-        },
-        "electric.blocker": {
+        "icepick.salvaged": {
           "Allow Duplicates": true,
           "Skin ID (0 = default)": 0,
           "Display Name (empty = none)": "",
@@ -8799,101 +7131,19 @@
             "Minimum Durability": 100
           }
         },
-        "wall.frame.fence": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 1,
-          "Item Durability": {
-            "Maximum Durability": 100,
-            "Minimum Durability": 100
-          }
-        },
-        "electric.orswitch": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 1
-        },
-        "electric.splitter": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 1
-        },
-        "electrical.branch": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 1
-        },
         "explosive.satchel": {
           "Allow Duplicates": true,
           "Skin ID (0 = default)": 0,
           "Display Name (empty = none)": "",
           "Item Minimum": 1,
-          "Item Maximum": 1
-        },
-        "shotgun.waterpipe": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 1,
-          "Item Durability": {
-            "Maximum Durability": 100,
-            "Minimum Durability": 100
-          },
-          "Item Properties": {
-            "Weapon Attachments": {
-              "Maximum Mod Amount": 1,
-              "Minimum Mod Amount": 1,
-              "Available Attachments": {}
-            },
-            "Ammunition Settings": {
-              "Spawn Probability": 0,
-              "Ammo Item Shortname": ""
-            }
-          }
-        },
-        "barricade.sandbags": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 1
-        },
-        "barricade.woodwire": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 1
-        },
-        "electric.sprinkler": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 1
-        },
-        "electric.xorswitch": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 1
+          "Item Maximum": 3
         },
         "ladder.wooden.wall": {
           "Allow Duplicates": true,
           "Skin ID (0 = default)": 0,
           "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 1,
+          "Item Minimum": 3,
+          "Item Maximum": 3,
           "Item Durability": {
             "Maximum Durability": 100,
             "Minimum Durability": 100
@@ -8903,57 +7153,8 @@
           "Allow Duplicates": true,
           "Skin ID (0 = default)": 0,
           "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 1
-        },
-        "wall.external.high": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 1
-        },
-        "electric.audioalarm": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 1
-        },
-        "electric.sirenlight": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 1
-        },
-        "electrical.combiner": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 1
-        },
-        "industrial.combiner": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 1
-        },
-        "industrial.conveyor": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 1
-        },
-        "industrial.splitter": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 1
+          "Item Minimum": 2,
+          "Item Maximum": 2
         },
         "water.catcher.small": {
           "Allow Duplicates": true,
@@ -8962,42 +7163,6 @@
           "Item Minimum": 1,
           "Item Maximum": 1
         },
-        "electric.pressurepad": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 1
-        },
-        "floor.triangle.grill": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 1,
-          "Item Durability": {
-            "Maximum Durability": 100,
-            "Minimum Durability": 100
-          }
-        },
-        "electric.flasherlight": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 1
-        },
-        "wall.frame.fence.gate": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 1,
-          "Item Durability": {
-            "Maximum Durability": 100,
-            "Minimum Durability": 100
-          }
-        },
         "weapon.mod.flashlight": {
           "Allow Duplicates": true,
           "Skin ID (0 = default)": 0,
@@ -9005,61 +7170,7 @@
           "Item Minimum": 1,
           "Item Maximum": 1
         },
-        "wall.window.bars.metal": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 1,
-          "Item Durability": {
-            "Maximum Durability": 100,
-            "Minimum Durability": 100
-          }
-        },
-        "electric.doorcontroller": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 1
-        },
-        "gates.external.high.wood": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 1
-        },
-        "reinforced.wooden.shield": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 1,
-          "Item Durability": {
-            "Maximum Durability": 100,
-            "Minimum Durability": 100
-          }
-        },
         "electric.solarpanel.large": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 1,
-          "Item Durability": {
-            "Maximum Durability": 100,
-            "Minimum Durability": 100
-          }
-        },
-        "clothing.mod.armorinsert_wood": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 1
-        },
-        "electric.battery.rechargable.small": {
           "Allow Duplicates": true,
           "Skin ID (0 = default)": 0,
           "Display Name (empty = none)": "",
@@ -9185,17 +7296,6 @@
           "Item Minimum": 3,
           "Item Maximum": 6
         },
-        "autoturret": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 1,
-          "Item Durability": {
-            "Maximum Durability": 100,
-            "Minimum Durability": 100
-          }
-        },
         "jackhammer": {
           "Allow Duplicates": true,
           "Skin ID (0 = default)": 0,
@@ -9281,13 +7381,6 @@
           "Item Minimum": 6,
           "Item Maximum": 6
         },
-        "arrow.wooden": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 5,
-          "Item Maximum": 5
-        },
         "axe.salvaged": {
           "Allow Duplicates": true,
           "Skin ID (0 = default)": 0,
@@ -9309,13 +7402,6 @@
             "Maximum Durability": 100,
             "Minimum Durability": 100
           }
-        },
-        "lowgradefuel": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 20,
-          "Item Maximum": 40
         },
         "ammo.rifle.hv": {
           "Allow Duplicates": true,
@@ -9378,17 +7464,6 @@
             "Minimum Durability": 100
           }
         },
-        "wood.armor.pants": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 1,
-          "Item Durability": {
-            "Maximum Durability": 100,
-            "Minimum Durability": 100
-          }
-        },
         "ammo.shotgun.fire": {
           "Allow Duplicates": true,
           "Skin ID (0 = default)": 0,
@@ -9402,17 +7477,6 @@
           "Display Name (empty = none)": "",
           "Item Minimum": 4,
           "Item Maximum": 4
-        },
-        "wood.armor.jacket": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 1,
-          "Item Durability": {
-            "Maximum Durability": 100,
-            "Minimum Durability": 100
-          }
         },
         "targeting.computer": {
           "Allow Duplicates": true,
@@ -10340,6 +8404,48 @@
           "Display Name (empty = none)": "",
           "Item Minimum": 60,
           "Item Maximum": 60
+        },
+        "ammo.grenadelauncher.smoke": {
+          "Allow Duplicates": true,
+          "Skin ID (0 = default)": 0,
+          "Display Name (empty = none)": "",
+          "Item Minimum": 5,
+          "Item Maximum": 5
+        },
+        "ammo.rocket.basic": {
+          "Allow Duplicates": true,
+          "Skin ID (0 = default)": 0,
+          "Display Name (empty = none)": "",
+          "Item Minimum": 3,
+          "Item Maximum": 5
+        },
+        "ammo.rocket.hv": {
+          "Allow Duplicates": true,
+          "Skin ID (0 = default)": 0,
+          "Display Name (empty = none)": "",
+          "Item Minimum": 3,
+          "Item Maximum": 5
+        },
+        "ammo.rocket.mlrs": {
+          "Allow Duplicates": true,
+          "Skin ID (0 = default)": 0,
+          "Display Name (empty = none)": "",
+          "Item Minimum": 3,
+          "Item Maximum": 3
+        },
+        "ammo.grenadelauncher.he": {
+          "Allow Duplicates": true,
+          "Skin ID (0 = default)": 0,
+          "Display Name (empty = none)": "",
+          "Item Minimum": 5,
+          "Item Maximum": 5
+        },
+        "multiplegrenadelauncher": {
+          "Allow Duplicates": true,
+          "Skin ID (0 = default)": 0,
+          "Display Name (empty = none)": "",
+          "Item Minimum": 1,
+          "Item Maximum": 1
         }
       },
       "Guaranteed Items": {},
@@ -10651,14 +8757,14 @@
           "Skin ID (0 = default)": 0,
           "Display Name (empty = none)": "",
           "Item Minimum": 1,
-          "Item Maximum": 5
+          "Item Maximum": 3
         },
         "ammo.rocket.mlrs": {
           "Allow Duplicates": true,
           "Skin ID (0 = default)": 0,
           "Display Name (empty = none)": "",
           "Item Minimum": 5,
-          "Item Maximum": 10
+          "Item Maximum": 5
         },
         "ammo.rocket.basic": {
           "Allow Duplicates": true,
@@ -10721,6 +8827,27 @@
           "Display Name (empty = none)": "",
           "Item Minimum": 60,
           "Item Maximum": 60
+        },
+        "minigun": {
+          "Allow Duplicates": false,
+          "Skin ID (0 = default)": 0,
+          "Display Name (empty = none)": "",
+          "Item Minimum": 1,
+          "Item Maximum": 1
+        },
+        "multiplegrenadelauncher": {
+          "Allow Duplicates": true,
+          "Skin ID (0 = default)": 0,
+          "Display Name (empty = none)": "",
+          "Item Minimum": 1,
+          "Item Maximum": 1
+        },
+        "ammo.grenadelauncher.buckshot": {
+          "Allow Duplicates": true,
+          "Skin ID (0 = default)": 0,
+          "Display Name (empty = none)": "",
+          "Item Minimum": 10,
+          "Item Maximum": 20
         }
       },
       "Guaranteed Items": {},
@@ -10795,29 +8922,6 @@
           "Display Name (empty = none)": "",
           "Item Minimum": 1,
           "Item Maximum": 1
-        },
-        "rifle.ak": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 1,
-          "Item Durability": {
-            "Maximum Durability": 100,
-            "Minimum Durability": 100
-          },
-          "Item Properties": {
-            "Weapon Attachments": {
-              "Maximum Mod Amount": 1,
-              "Minimum Mod Amount": 1,
-              "Available Attachments": {}
-            },
-            "Ammunition Settings": {
-              "Maximum Amount": 0,
-              "Minimum Amount": 0,
-              "Ammo Item Shortname": ""
-            }
-          }
         },
         "rifle.m39": {
           "Allow Duplicates": true,
@@ -11012,8 +9116,8 @@
           "Allow Duplicates": true,
           "Skin ID (0 = default)": 0,
           "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 10
+          "Item Minimum": 2,
+          "Item Maximum": 5
         },
         "shotgun.spas12": {
           "Allow Duplicates": true,
@@ -11042,15 +9146,15 @@
           "Allow Duplicates": true,
           "Skin ID (0 = default)": 0,
           "Display Name (empty = none)": "",
-          "Item Minimum": 1,
+          "Item Minimum": 2,
           "Item Maximum": 5
         },
         "ammo.rocket.mlrs": {
           "Allow Duplicates": true,
           "Skin ID (0 = default)": 0,
           "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 10
+          "Item Minimum": 5,
+          "Item Maximum": 5
         },
         "ammo.rocket.basic": {
           "Allow Duplicates": true,
@@ -11114,8 +9218,22 @@
           "Item Minimum": 60,
           "Item Maximum": 160
         },
-        "clothing.mod.armorinsert_metal": {
+        "rifle.ak.jungle": {
           "Allow Duplicates": true,
+          "Skin ID (0 = default)": 0,
+          "Display Name (empty = none)": "",
+          "Item Minimum": 1,
+          "Item Maximum": 1
+        },
+        "multiplegrenadelauncher": {
+          "Allow Duplicates": true,
+          "Skin ID (0 = default)": 0,
+          "Display Name (empty = none)": "",
+          "Item Minimum": 1,
+          "Item Maximum": 1
+        },
+        "minigun": {
+          "Allow Duplicates": false,
           "Skin ID (0 = default)": 0,
           "Display Name (empty = none)": "",
           "Item Minimum": 1,
@@ -11507,13 +9625,6 @@
           "Display Name (empty = none)": "",
           "Item Minimum": 5,
           "Item Maximum": 5
-        },
-        "weapon.mod.extendedmags": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 1
         }
       },
       "Guaranteed Items": {},
@@ -11816,13 +9927,6 @@
           "Display Name (empty = none)": "",
           "Item Minimum": 30,
           "Item Maximum": 30
-        },
-        "weapon.mod.extendedmags": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 1
         }
       },
       "Guaranteed Items": {},
@@ -12322,13 +10426,6 @@
           "Item Maximum": 60
         },
         "weapon.mod.lasersight": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 1
-        },
-        "weapon.mod.extendedmags": {
           "Allow Duplicates": true,
           "Skin ID (0 = default)": 0,
           "Display Name (empty = none)": "",
@@ -32467,8 +30564,8 @@
           "Allow Duplicates": true,
           "Skin ID (0 = default)": 0,
           "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 1
+          "Item Minimum": 10,
+          "Item Maximum": 10
         },
         "grenade.f1": {
           "Allow Duplicates": true,
@@ -32516,14 +30613,14 @@
           "Skin ID (0 = default)": 0,
           "Display Name (empty = none)": "",
           "Item Minimum": 30,
-          "Item Maximum": 30
+          "Item Maximum": 130
         },
         "largemedkit": {
           "Allow Duplicates": true,
           "Skin ID (0 = default)": 0,
           "Display Name (empty = none)": "",
           "Item Minimum": 1,
-          "Item Maximum": 1
+          "Item Maximum": 3
         },
         "ammo.shotgun": {
           "Allow Duplicates": true,
@@ -32531,17 +30628,6 @@
           "Display Name (empty = none)": "",
           "Item Minimum": 8,
           "Item Maximum": 12
-        },
-        "keycard_green": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 1,
-          "Item Durability": {
-            "Maximum Durability": 100,
-            "Minimum Durability": 100
-          }
         },
         "shotgun.spas12": {
           "Allow Duplicates": true,
@@ -32570,8 +30656,8 @@
           "Allow Duplicates": true,
           "Skin ID (0 = default)": 0,
           "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 1
+          "Item Minimum": 3,
+          "Item Maximum": 3
         },
         "ammo.shotgun.fire": {
           "Allow Duplicates": true,
@@ -32607,13 +30693,6 @@
           "Display Name (empty = none)": "",
           "Item Minimum": 1,
           "Item Maximum": 1
-        },
-        "clothing.mod.armorinsert_asbestos": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 1
         }
       },
       "Guaranteed Items": {},
@@ -32629,17 +30708,6 @@
       },
       "Loot Profiles": [],
       "Ungrouped Items": {
-        "drone": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 1,
-          "Item Durability": {
-            "Maximum Durability": 100,
-            "Minimum Durability": 100
-          }
-        },
         "hmlmg": {
           "Allow Duplicates": true,
           "Skin ID (0 = default)": 0,
@@ -32693,34 +30761,12 @@
           "Item Minimum": 1,
           "Item Maximum": 1
         },
-        "locker": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 1,
-          "Item Durability": {
-            "Maximum Durability": 100,
-            "Minimum Durability": 100
-          }
-        },
-        "skidoo": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 1,
-          "Item Durability": {
-            "Maximum Durability": 100,
-            "Minimum Durability": 100
-          }
-        },
         "bandage": {
           "Allow Duplicates": true,
           "Skin ID (0 = default)": 0,
           "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 1
+          "Item Minimum": 15,
+          "Item Maximum": 5
         },
         "smg.mp5": {
           "Allow Duplicates": true,
@@ -32745,43 +30791,7 @@
             }
           }
         },
-        "smgbody": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 1
-        },
-        "catapult": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 1
-        },
         "chainsaw": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 1,
-          "Item Durability": {
-            "Maximum Durability": 100,
-            "Minimum Durability": 100
-          }
-        },
-        "elevator": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 1,
-          "Item Durability": {
-            "Maximum Durability": 100,
-            "Minimum Durability": 100
-          }
-        },
-        "rf_pager": {
           "Allow Duplicates": true,
           "Skin ID (0 = default)": 0,
           "Display Name (empty = none)": "",
@@ -32815,17 +30825,6 @@
             }
           }
         },
-        "handcuffs": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 1,
-          "Item Durability": {
-            "Maximum Durability": 100,
-            "Minimum Durability": 100
-          }
-        },
         "longsword": {
           "Allow Duplicates": true,
           "Skin ID (0 = default)": 0,
@@ -32836,13 +30835,6 @@
             "Maximum Durability": 100,
             "Minimum Durability": 100
           }
-        },
-        "metalpipe": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 5,
-          "Item Maximum": 6
         },
         "parachute": {
           "Allow Duplicates": true,
@@ -32891,31 +30883,6 @@
           "Display Name (empty = none)": "",
           "Item Minimum": 2,
           "Item Maximum": 4
-        },
-        "waterpump": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 1
-        },
-        "autoturret": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 1,
-          "Item Durability": {
-            "Maximum Durability": 100,
-            "Minimum Durability": 100
-          }
-        },
-        "explosives": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 1
         },
         "grenade.f1": {
           "Allow Duplicates": true,
@@ -32986,7 +30953,7 @@
           "Skin ID (0 = default)": 0,
           "Display Name (empty = none)": "",
           "Item Minimum": 30,
-          "Item Maximum": 30
+          "Item Maximum": 130
         },
         "cctv.camera": {
           "Allow Duplicates": true,
@@ -33025,21 +30992,7 @@
             }
           }
         },
-        "searchlight": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 1
-        },
         "shoes.boots": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 1
-        },
-        "smart.alarm": {
           "Allow Duplicates": true,
           "Skin ID (0 = default)": 0,
           "Display Name (empty = none)": "",
@@ -33063,13 +31016,6 @@
             "Maximum Durability": 100,
             "Minimum Durability": 100
           }
-        },
-        "batteringram": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 1
         },
         "flamethrower": {
           "Allow Duplicates": true,
@@ -33111,36 +31057,6 @@
             "Minimum Durability": 100
           }
         },
-        "shotgun.pump": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 1,
-          "Item Durability": {
-            "Maximum Durability": 100,
-            "Minimum Durability": 100
-          },
-          "Item Properties": {
-            "Weapon Attachments": {
-              "Maximum Mod Amount": 1,
-              "Minimum Mod Amount": 1,
-              "Available Attachments": {}
-            },
-            "Ammunition Settings": {
-              "Maximum Amount": 0,
-              "Minimum Amount": 0,
-              "Ammo Item Shortname": ""
-            }
-          }
-        },
-        "smart.switch": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 1
-        },
         "smg.thompson": {
           "Allow Duplicates": true,
           "Skin ID (0 = default)": 0,
@@ -33164,19 +31080,12 @@
             }
           }
         },
-        "furnace.large": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 1
-        },
         "grenade.smoke": {
           "Allow Duplicates": true,
           "Skin ID (0 = default)": 0,
           "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 1
+          "Item Minimum": 3,
+          "Item Maximum": 3
         },
         "metal.refined": {
           "Allow Duplicates": true,
@@ -33244,13 +31153,6 @@
             "Minimum Durability": 100
           }
         },
-        "modularcarlift": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 1
-        },
         "rifle.semiauto": {
           "Allow Duplicates": true,
           "Skin ID (0 = default)": 0,
@@ -33297,35 +31199,6 @@
             }
           }
         },
-        "ballista.static": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 1,
-          "Item Durability": {
-            "Maximum Durability": 100,
-            "Minimum Durability": 100
-          }
-        },
-        "barricade.metal": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 1
-        },
-        "computerstation": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 1,
-          "Item Durability": {
-            "Maximum Durability": 100,
-            "Minimum Durability": 100
-          }
-        },
         "explosive.timed": {
           "Allow Duplicates": true,
           "Skin ID (0 = default)": 0,
@@ -33337,8 +31210,8 @@
           "Allow Duplicates": true,
           "Skin ID (0 = default)": 0,
           "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 1
+          "Item Minimum": 3,
+          "Item Maximum": 3
         },
         "pistol.semiauto": {
           "Allow Duplicates": true,
@@ -33361,17 +31234,6 @@
               "Minimum Amount": 0,
               "Ammo Item Shortname": ""
             }
-          }
-        },
-        "ptz.cctv.camera": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 1,
-          "Item Durability": {
-            "Maximum Durability": 100,
-            "Minimum Durability": 100
           }
         },
         "roadsign.gloves": {
@@ -33409,32 +31271,7 @@
             }
           }
         },
-        "storage.monitor": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 1
-        },
         "syringe.medical": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 1
-        },
-        "wall.frame.cell": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 1,
-          "Item Durability": {
-            "Maximum Durability": 100,
-            "Minimum Durability": 100
-          }
-        },
-        "ballista.mounted": {
           "Allow Duplicates": true,
           "Skin ID (0 = default)": 0,
           "Display Name (empty = none)": "",
@@ -33451,13 +31288,6 @@
             "Maximum Durability": 100,
             "Minimum Durability": 100
           }
-        },
-        "electric.counter": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 1
         },
         "electric.furnace": {
           "Allow Duplicates": true,
@@ -33481,13 +31311,6 @@
             "Minimum Durability": 100
           }
         },
-        "grenade.flashbang": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 1
-        },
         "heavy.plate.pants": {
           "Allow Duplicates": true,
           "Skin ID (0 = default)": 0,
@@ -33500,42 +31323,6 @@
           }
         },
         "metal.plate.torso": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 1,
-          "Item Durability": {
-            "Maximum Durability": 100,
-            "Minimum Durability": 100
-          }
-        },
-        "barricade.concrete": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 1
-        },
-        "electric.andswitch": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 1
-        },
-        "electric.teslacoil": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 1,
-          "Item Durability": {
-            "Maximum Durability": 100,
-            "Minimum Durability": 100
-          }
-        },
-        "floor.ladder.hatch": {
           "Allow Duplicates": true,
           "Skin ID (0 = default)": 0,
           "Display Name (empty = none)": "",
@@ -33568,13 +31355,6 @@
             "Minimum Durability": 100
           }
         },
-        "industrial.crafter": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 1
-        },
         "nightvisiongoggles": {
           "Allow Duplicates": true,
           "Skin ID (0 = default)": 0,
@@ -33586,93 +31366,7 @@
             "Minimum Durability": 100
           }
         },
-        "small.oil.refinery": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 1
-        },
-        "targeting.computer": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 1
-        },
-        "door.hinged.toptier": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 1,
-          "Item Durability": {
-            "Maximum Durability": 100,
-            "Minimum Durability": 100
-          }
-        },
-        "electric.hbhfsensor": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 1
-        },
-        "water.catcher.large": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 1
-        },
         "weapon.mod.silencer": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 1,
-          "Item Durability": {
-            "Maximum Durability": 100,
-            "Minimum Durability": 100
-          }
-        },
-        "electric.rf.receiver": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 1
-        },
-        "generator.wind.scrap": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 1
-        },
-        "horse.armor.roadsign": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 1,
-          "Item Durability": {
-            "Maximum Durability": 100,
-            "Minimum Durability": 100
-          }
-        },
-        "horse.shoes.advanced": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 1,
-          "Item Durability": {
-            "Maximum Durability": 100,
-            "Minimum Durability": 100
-          }
-        },
-        "wall.frame.cell.gate": {
           "Allow Duplicates": true,
           "Skin ID (0 = default)": 0,
           "Display Name (empty = none)": "",
@@ -33690,53 +31384,7 @@
           "Item Minimum": 1,
           "Item Maximum": 1
         },
-        "electric.digitalclock": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 1
-        },
-        "electrical.memorycell": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 1
-        },
-        "wall.frame.garagedoor": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 1,
-          "Item Durability": {
-            "Maximum Durability": 100,
-            "Minimum Durability": 100
-          }
-        },
         "weapon.mod.lasersight": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 1
-        },
-        "electric.laserdetector": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 1
-        },
-        "electric.random.switch": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 1
-        },
-        "electric.seismicsensor": {
           "Allow Duplicates": true,
           "Skin ID (0 = default)": 0,
           "Display Name (empty = none)": "",
@@ -33759,13 +31407,6 @@
               "Ammo Item Shortname": ""
             }
           }
-        },
-        "powered.water.purifier": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 1
         },
         "weapon.mod.muzzleboost": {
           "Allow Duplicates": true,
@@ -33796,119 +31437,7 @@
           "Item Minimum": 1,
           "Item Maximum": 1
         },
-        "electric.rf.broadcaster": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 1
-        },
-        "weapon.mod.extendedmags": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 1
-        },
-        "wall.external.high.stone": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 1
-        },
-        "wall.window.bars.toptier": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 1,
-          "Item Durability": {
-            "Maximum Durability": 100,
-            "Minimum Durability": 100
-          }
-        },
-        "gates.external.high.stone": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 1
-        },
-        "shutter.metal.embrasure.a": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 1,
-          "Item Durability": {
-            "Maximum Durability": 100,
-            "Minimum Durability": 100
-          }
-        },
-        "shutter.metal.embrasure.b": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 1,
-          "Item Durability": {
-            "Maximum Durability": 100,
-            "Minimum Durability": 100
-          }
-        },
-        "door.double.hinged.toptier": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 1,
-          "Item Durability": {
-            "Maximum Durability": 100,
-            "Minimum Durability": 100
-          }
-        },
-        "floor.triangle.ladder.hatch": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 1,
-          "Item Durability": {
-            "Maximum Durability": 100,
-            "Minimum Durability": 100
-          }
-        },
-        "electric.fuelgenerator.small": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 1,
-          "Item Durability": {
-            "Maximum Durability": 100,
-            "Minimum Durability": 100
-          }
-        },
-        "wall.window.glass.reinforced": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 1,
-          "Item Durability": {
-            "Maximum Durability": 100,
-            "Minimum Durability": 100
-          }
-        },
         "clothing.mod.armorinsert_lead": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 1
-        },
-        "clothing.mod.armorinsert_asbestos": {
           "Allow Duplicates": true,
           "Skin ID (0 = default)": 0,
           "Display Name (empty = none)": "",
@@ -33921,28 +31450,6 @@
           "Display Name (empty = none)": "",
           "Item Minimum": 1,
           "Item Maximum": 1
-        },
-        "electric.battery.rechargable.large": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 1,
-          "Item Durability": {
-            "Maximum Durability": 100,
-            "Minimum Durability": 100
-          }
-        },
-        "electric.battery.rechargable.medium": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 1,
-          "Item Durability": {
-            "Maximum Durability": 100,
-            "Minimum Durability": 100
-          }
         }
       },
       "Guaranteed Items": {},
