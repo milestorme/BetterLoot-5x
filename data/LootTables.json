@@ -6716,10 +6716,10 @@
     "assets/content/props/roadsigns/roadsign1.prefab": {
       "Item Settings": {
         "Max Blueprints": 0,
-        "Maximum Scrap Amount": 4,
-        "Minimum Scrap Amount": 3,
+        "Maximum Scrap Amount": 0,
+        "Minimum Scrap Amount": 0,
         "Maximum Amount of Items": 2,
-        "Minimum Amount of Items": 1
+        "Minimum Amount of Items": 2
       },
       "Loot Profiles": [
         {
@@ -6728,120 +6728,31 @@
           "Loot Profile Probability (1% - 100%)": 30
         }
       ],
-      "Ungrouped Items": {
-        "fuse": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 2,
-          "Item Durability": {
-            "Maximum Durability": 100,
-            "Minimum Durability": 100
-          }
-        },
-        "rope": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 2,
-          "Item Maximum": 6
-        },
-        "tarp": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 3
-        },
-        "gears": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 2
-        },
-        "smgbody": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 2
-        },
-        "semibody": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 2
-        },
+      "Ungrouped Items": {},
+      "Guaranteed Items": {
         "metalpipe": {
-          "Allow Duplicates": true,
           "Skin ID (0 = default)": 0,
           "Display Name (empty = none)": "",
           "Item Minimum": 1,
-          "Item Maximum": 3
+          "Item Maximum": 5
         },
         "roadsigns": {
-          "Allow Duplicates": true,
           "Skin ID (0 = default)": 0,
           "Display Name (empty = none)": "",
           "Item Minimum": 1,
-          "Item Maximum": 3
-        },
-        "sewingkit": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 2,
-          "Item Maximum": 4
-        },
-        "metalblade": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 3
-        },
-        "sheetmetal": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 3
-        },
-        "metalspring": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 2
-        },
-        "propanetank": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 1
-        },
-        "basicblueprintfragment": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 1
+          "Item Maximum": 5
         }
       },
-      "Guaranteed Items": {},
-      "Is Prefab Enabled?": true
+      "Is Prefab Enabled?": true,
+      "LootProfiles": []
     },
     "assets/content/props/roadsigns/roadsign2.prefab": {
       "Item Settings": {
         "Max Blueprints": 0,
-        "Maximum Scrap Amount": 4,
-        "Minimum Scrap Amount": 3,
+        "Maximum Scrap Amount": 0,
+        "Minimum Scrap Amount": 0,
         "Maximum Amount of Items": 2,
-        "Minimum Amount of Items": 1
+        "Minimum Amount of Items": 2
       },
       "Loot Profiles": [
         {
@@ -6850,120 +6761,31 @@
           "Loot Profile Probability (1% - 100%)": 30
         }
       ],
-      "Ungrouped Items": {
-        "fuse": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 2,
-          "Item Durability": {
-            "Maximum Durability": 100,
-            "Minimum Durability": 100
-          }
-        },
-        "rope": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 2,
-          "Item Maximum": 6
-        },
-        "tarp": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 3
-        },
-        "gears": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 2
-        },
-        "smgbody": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 2
-        },
-        "semibody": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 2
-        },
+      "Ungrouped Items": {},
+      "Guaranteed Items": {
         "metalpipe": {
-          "Allow Duplicates": true,
           "Skin ID (0 = default)": 0,
           "Display Name (empty = none)": "",
           "Item Minimum": 1,
-          "Item Maximum": 3
+          "Item Maximum": 5
         },
         "roadsigns": {
-          "Allow Duplicates": true,
           "Skin ID (0 = default)": 0,
           "Display Name (empty = none)": "",
           "Item Minimum": 1,
-          "Item Maximum": 3
-        },
-        "sewingkit": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 2,
-          "Item Maximum": 4
-        },
-        "metalblade": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 3
-        },
-        "sheetmetal": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 3
-        },
-        "metalspring": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 2
-        },
-        "propanetank": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 1
-        },
-        "basicblueprintfragment": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 1
+          "Item Maximum": 5
         }
       },
-      "Guaranteed Items": {},
-      "Is Prefab Enabled?": true
+      "Is Prefab Enabled?": true,
+      "LootProfiles": []
     },
     "assets/content/props/roadsigns/roadsign3.prefab": {
       "Item Settings": {
         "Max Blueprints": 0,
-        "Maximum Scrap Amount": 4,
-        "Minimum Scrap Amount": 3,
+        "Maximum Scrap Amount": 0,
+        "Minimum Scrap Amount": 0,
         "Maximum Amount of Items": 2,
-        "Minimum Amount of Items": 1
+        "Minimum Amount of Items": 2
       },
       "Loot Profiles": [
         {
@@ -6972,120 +6794,31 @@
           "Loot Profile Probability (1% - 100%)": 30
         }
       ],
-      "Ungrouped Items": {
-        "fuse": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 2,
-          "Item Durability": {
-            "Maximum Durability": 100,
-            "Minimum Durability": 100
-          }
-        },
-        "rope": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 2,
-          "Item Maximum": 6
-        },
-        "tarp": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 3
-        },
-        "gears": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 2
-        },
-        "smgbody": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 2
-        },
-        "semibody": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 2
-        },
+      "Ungrouped Items": {},
+      "Guaranteed Items": {
         "metalpipe": {
-          "Allow Duplicates": true,
           "Skin ID (0 = default)": 0,
           "Display Name (empty = none)": "",
           "Item Minimum": 1,
-          "Item Maximum": 3
+          "Item Maximum": 5
         },
         "roadsigns": {
-          "Allow Duplicates": true,
           "Skin ID (0 = default)": 0,
           "Display Name (empty = none)": "",
           "Item Minimum": 1,
-          "Item Maximum": 3
-        },
-        "sewingkit": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 2,
-          "Item Maximum": 4
-        },
-        "metalblade": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 3
-        },
-        "sheetmetal": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 3
-        },
-        "metalspring": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 2
-        },
-        "propanetank": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 1
-        },
-        "basicblueprintfragment": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 1
+          "Item Maximum": 5
         }
       },
-      "Guaranteed Items": {},
-      "Is Prefab Enabled?": true
+      "Is Prefab Enabled?": true,
+      "LootProfiles": []
     },
     "assets/content/props/roadsigns/roadsign4.prefab": {
       "Item Settings": {
         "Max Blueprints": 0,
-        "Maximum Scrap Amount": 4,
-        "Minimum Scrap Amount": 3,
+        "Maximum Scrap Amount": 0,
+        "Minimum Scrap Amount": 0,
         "Maximum Amount of Items": 2,
-        "Minimum Amount of Items": 1
+        "Minimum Amount of Items": 2
       },
       "Loot Profiles": [
         {
@@ -7094,120 +6827,31 @@
           "Loot Profile Probability (1% - 100%)": 30
         }
       ],
-      "Ungrouped Items": {
-        "fuse": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 2,
-          "Item Durability": {
-            "Maximum Durability": 100,
-            "Minimum Durability": 100
-          }
-        },
-        "rope": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 2,
-          "Item Maximum": 6
-        },
-        "tarp": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 3
-        },
-        "gears": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 2
-        },
-        "smgbody": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 2
-        },
-        "semibody": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 2
-        },
+      "Ungrouped Items": {},
+      "Guaranteed Items": {
         "metalpipe": {
-          "Allow Duplicates": true,
           "Skin ID (0 = default)": 0,
           "Display Name (empty = none)": "",
           "Item Minimum": 1,
-          "Item Maximum": 3
+          "Item Maximum": 5
         },
         "roadsigns": {
-          "Allow Duplicates": true,
           "Skin ID (0 = default)": 0,
           "Display Name (empty = none)": "",
           "Item Minimum": 1,
-          "Item Maximum": 3
-        },
-        "sewingkit": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 2,
-          "Item Maximum": 4
-        },
-        "metalblade": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 3
-        },
-        "sheetmetal": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 3
-        },
-        "metalspring": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 2
-        },
-        "propanetank": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 1
-        },
-        "basicblueprintfragment": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 1
+          "Item Maximum": 5
         }
       },
-      "Guaranteed Items": {},
-      "Is Prefab Enabled?": true
+      "Is Prefab Enabled?": true,
+      "LootProfiles": []
     },
     "assets/content/props/roadsigns/roadsign5.prefab": {
       "Item Settings": {
         "Max Blueprints": 0,
-        "Maximum Scrap Amount": 4,
-        "Minimum Scrap Amount": 3,
+        "Maximum Scrap Amount": 0,
+        "Minimum Scrap Amount": 0,
         "Maximum Amount of Items": 2,
-        "Minimum Amount of Items": 1
+        "Minimum Amount of Items": 2
       },
       "Loot Profiles": [
         {
@@ -7216,120 +6860,31 @@
           "Loot Profile Probability (1% - 100%)": 30
         }
       ],
-      "Ungrouped Items": {
-        "fuse": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 2,
-          "Item Durability": {
-            "Maximum Durability": 100,
-            "Minimum Durability": 100
-          }
-        },
-        "rope": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 2,
-          "Item Maximum": 6
-        },
-        "tarp": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 3
-        },
-        "gears": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 2
-        },
-        "smgbody": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 2
-        },
-        "semibody": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 2
-        },
+      "Ungrouped Items": {},
+      "Guaranteed Items": {
         "metalpipe": {
-          "Allow Duplicates": true,
           "Skin ID (0 = default)": 0,
           "Display Name (empty = none)": "",
           "Item Minimum": 1,
-          "Item Maximum": 3
+          "Item Maximum": 5
         },
         "roadsigns": {
-          "Allow Duplicates": true,
           "Skin ID (0 = default)": 0,
           "Display Name (empty = none)": "",
           "Item Minimum": 1,
-          "Item Maximum": 3
-        },
-        "sewingkit": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 2,
-          "Item Maximum": 4
-        },
-        "metalblade": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 3
-        },
-        "sheetmetal": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 3
-        },
-        "metalspring": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 2
-        },
-        "propanetank": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 1
-        },
-        "basicblueprintfragment": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 1
+          "Item Maximum": 5
         }
       },
-      "Guaranteed Items": {},
-      "Is Prefab Enabled?": true
+      "Is Prefab Enabled?": true,
+      "LootProfiles": []
     },
     "assets/content/props/roadsigns/roadsign6.prefab": {
       "Item Settings": {
         "Max Blueprints": 0,
-        "Maximum Scrap Amount": 4,
-        "Minimum Scrap Amount": 3,
+        "Maximum Scrap Amount": 0,
+        "Minimum Scrap Amount": 0,
         "Maximum Amount of Items": 2,
-        "Minimum Amount of Items": 1
+        "Minimum Amount of Items": 2
       },
       "Loot Profiles": [
         {
@@ -7338,120 +6893,31 @@
           "Loot Profile Probability (1% - 100%)": 30
         }
       ],
-      "Ungrouped Items": {
-        "fuse": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 2,
-          "Item Durability": {
-            "Maximum Durability": 100,
-            "Minimum Durability": 100
-          }
-        },
-        "rope": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 2,
-          "Item Maximum": 6
-        },
-        "tarp": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 3
-        },
-        "gears": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 2
-        },
-        "smgbody": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 2
-        },
-        "semibody": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 2
-        },
+      "Ungrouped Items": {},
+      "Guaranteed Items": {
         "metalpipe": {
-          "Allow Duplicates": true,
           "Skin ID (0 = default)": 0,
           "Display Name (empty = none)": "",
           "Item Minimum": 1,
-          "Item Maximum": 3
+          "Item Maximum": 5
         },
         "roadsigns": {
-          "Allow Duplicates": true,
           "Skin ID (0 = default)": 0,
           "Display Name (empty = none)": "",
           "Item Minimum": 1,
-          "Item Maximum": 3
-        },
-        "sewingkit": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 2,
-          "Item Maximum": 4
-        },
-        "metalblade": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 3
-        },
-        "sheetmetal": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 3
-        },
-        "metalspring": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 2
-        },
-        "propanetank": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 1
-        },
-        "basicblueprintfragment": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 1
+          "Item Maximum": 5
         }
       },
-      "Guaranteed Items": {},
-      "Is Prefab Enabled?": true
+      "Is Prefab Enabled?": true,
+      "LootProfiles": []
     },
     "assets/content/props/roadsigns/roadsign7.prefab": {
       "Item Settings": {
         "Max Blueprints": 0,
-        "Maximum Scrap Amount": 4,
-        "Minimum Scrap Amount": 3,
+        "Maximum Scrap Amount": 0,
+        "Minimum Scrap Amount": 0,
         "Maximum Amount of Items": 2,
-        "Minimum Amount of Items": 1
+        "Minimum Amount of Items": 2
       },
       "Loot Profiles": [
         {
@@ -7460,120 +6926,31 @@
           "Loot Profile Probability (1% - 100%)": 30
         }
       ],
-      "Ungrouped Items": {
-        "fuse": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 2,
-          "Item Durability": {
-            "Maximum Durability": 100,
-            "Minimum Durability": 100
-          }
-        },
-        "rope": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 2,
-          "Item Maximum": 6
-        },
-        "tarp": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 3
-        },
-        "gears": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 2
-        },
-        "smgbody": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 2
-        },
-        "semibody": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 2
-        },
+      "Ungrouped Items": {},
+      "Guaranteed Items": {
         "metalpipe": {
-          "Allow Duplicates": true,
           "Skin ID (0 = default)": 0,
           "Display Name (empty = none)": "",
           "Item Minimum": 1,
-          "Item Maximum": 3
+          "Item Maximum": 5
         },
         "roadsigns": {
-          "Allow Duplicates": true,
           "Skin ID (0 = default)": 0,
           "Display Name (empty = none)": "",
           "Item Minimum": 1,
-          "Item Maximum": 3
-        },
-        "sewingkit": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 2,
-          "Item Maximum": 4
-        },
-        "metalblade": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 3
-        },
-        "sheetmetal": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 3
-        },
-        "metalspring": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 2
-        },
-        "propanetank": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 1
-        },
-        "basicblueprintfragment": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 1
+          "Item Maximum": 5
         }
       },
-      "Guaranteed Items": {},
-      "Is Prefab Enabled?": true
+      "Is Prefab Enabled?": true,
+      "LootProfiles": []
     },
     "assets/content/props/roadsigns/roadsign8.prefab": {
       "Item Settings": {
         "Max Blueprints": 0,
-        "Maximum Scrap Amount": 4,
-        "Minimum Scrap Amount": 3,
+        "Maximum Scrap Amount": 0,
+        "Minimum Scrap Amount": 0,
         "Maximum Amount of Items": 2,
-        "Minimum Amount of Items": 1
+        "Minimum Amount of Items": 2
       },
       "Loot Profiles": [
         {
@@ -7582,120 +6959,31 @@
           "Loot Profile Probability (1% - 100%)": 30
         }
       ],
-      "Ungrouped Items": {
-        "fuse": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 2,
-          "Item Durability": {
-            "Maximum Durability": 100,
-            "Minimum Durability": 100
-          }
-        },
-        "rope": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 2,
-          "Item Maximum": 6
-        },
-        "tarp": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 3
-        },
-        "gears": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 2
-        },
-        "smgbody": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 2
-        },
-        "semibody": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 2
-        },
+      "Ungrouped Items": {},
+      "Guaranteed Items": {
         "metalpipe": {
-          "Allow Duplicates": true,
           "Skin ID (0 = default)": 0,
           "Display Name (empty = none)": "",
           "Item Minimum": 1,
-          "Item Maximum": 3
+          "Item Maximum": 5
         },
         "roadsigns": {
-          "Allow Duplicates": true,
           "Skin ID (0 = default)": 0,
           "Display Name (empty = none)": "",
           "Item Minimum": 1,
-          "Item Maximum": 3
-        },
-        "sewingkit": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 2,
-          "Item Maximum": 4
-        },
-        "metalblade": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 3
-        },
-        "sheetmetal": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 3
-        },
-        "metalspring": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 2
-        },
-        "propanetank": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 1
-        },
-        "basicblueprintfragment": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 1
+          "Item Maximum": 5
         }
       },
-      "Guaranteed Items": {},
-      "Is Prefab Enabled?": true
+      "Is Prefab Enabled?": true,
+      "LootProfiles": []
     },
     "assets/content/props/roadsigns/roadsign9.prefab": {
       "Item Settings": {
         "Max Blueprints": 0,
-        "Maximum Scrap Amount": 4,
-        "Minimum Scrap Amount": 3,
+        "Maximum Scrap Amount": 0,
+        "Minimum Scrap Amount": 0,
         "Maximum Amount of Items": 2,
-        "Minimum Amount of Items": 1
+        "Minimum Amount of Items": 2
       },
       "Loot Profiles": [
         {
@@ -7704,112 +6992,23 @@
           "Loot Profile Probability (1% - 100%)": 30
         }
       ],
-      "Ungrouped Items": {
-        "fuse": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 2,
-          "Item Durability": {
-            "Maximum Durability": 100,
-            "Minimum Durability": 100
-          }
-        },
-        "rope": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 2,
-          "Item Maximum": 6
-        },
-        "tarp": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 3
-        },
-        "gears": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 2
-        },
-        "smgbody": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 2
-        },
-        "semibody": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 2
-        },
+      "Ungrouped Items": {},
+      "Guaranteed Items": {
         "metalpipe": {
-          "Allow Duplicates": true,
           "Skin ID (0 = default)": 0,
           "Display Name (empty = none)": "",
           "Item Minimum": 1,
-          "Item Maximum": 3
+          "Item Maximum": 5
         },
         "roadsigns": {
-          "Allow Duplicates": true,
           "Skin ID (0 = default)": 0,
           "Display Name (empty = none)": "",
           "Item Minimum": 1,
-          "Item Maximum": 3
-        },
-        "sewingkit": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 2,
-          "Item Maximum": 4
-        },
-        "metalblade": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 3
-        },
-        "sheetmetal": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 3
-        },
-        "metalspring": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 2
-        },
-        "propanetank": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 1
-        },
-        "basicblueprintfragment": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 1
+          "Item Maximum": 5
         }
       },
-      "Guaranteed Items": {},
-      "Is Prefab Enabled?": true
+      "Is Prefab Enabled?": true,
+      "LootProfiles": []
     },
     "assets/prefabs/deployable/chinooklockedcrate/codelockedhackablecrate.prefab": {
       "Item Settings": {
