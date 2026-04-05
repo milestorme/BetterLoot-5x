@@ -1,36 +1,3 @@
 {
-  "Loot Groups": {
-    "example_group": {
-      "Enabled?": false,
-      "Guaranteed Items": {},
-      "Item List": {
-        "lmg.m249": {
-          "Item Probability (1-100)": 100,
-          "Item Amount": {
-            "Allow Duplicates": true,
-            "Skin ID (0 = default)": 0,
-            "Display Name (empty = none)": "",
-            "Item Minimum": 1,
-            "Item Maximum": 2,
-            "Item Durability": {
-              "Maximum Durability": 100,
-              "Minimum Durability": 100
-            },
-            "Item Properties": {
-              "Weapon Attachments": {
-                "Maximum Mod Amount": 1,
-                "Minimum Mod Amount": 1,
-                "Available Attachments": {}
-              },
-              "Ammunition Settings": {
-                "Maximum Amount": 0,
-                "Minimum Amount": 0,
-                "Ammo Item Shortname": ""
-              }
-            }
-          }
-        }
-      }
-    }
-  }
+  "Loot Groups": {}
 }
