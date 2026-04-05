@@ -6716,299 +6716,236 @@
     "assets/content/props/roadsigns/roadsign1.prefab": {
       "Item Settings": {
         "Max Blueprints": 0,
-        "Maximum Scrap Amount": 0,
-        "Minimum Scrap Amount": 0,
-        "Maximum Amount of Items": 2,
-        "Minimum Amount of Items": 2
+        "Maximum Scrap Amount": 5,
+        "Minimum Scrap Amount": 3,
+        "Maximum Amount of Items": 0,
+        "Minimum Amount of Items": 0
       },
-      "Loot Profiles": [
-        {
-          "Loot Profile Name": "example_group",
-          "Group Enabled?": false,
-          "Loot Profile Probability (1% - 100%)": 30
-        }
-      ],
+      "Loot Profiles": [],
       "Ungrouped Items": {},
       "Guaranteed Items": {
         "metalpipe": {
           "Skin ID (0 = default)": 0,
           "Display Name (empty = none)": "",
           "Item Minimum": 1,
-          "Item Maximum": 5
+          "Item Maximum": 3
         },
         "roadsigns": {
           "Skin ID (0 = default)": 0,
           "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 5
+          "Item Minimum": 2,
+          "Item Maximum": 4
         }
       },
-      "Is Prefab Enabled?": true,
-      "LootProfiles": []
+      "Is Prefab Enabled?": true
     },
     "assets/content/props/roadsigns/roadsign2.prefab": {
       "Item Settings": {
         "Max Blueprints": 0,
-        "Maximum Scrap Amount": 0,
-        "Minimum Scrap Amount": 0,
-        "Maximum Amount of Items": 2,
-        "Minimum Amount of Items": 2
+        "Maximum Scrap Amount": 5,
+        "Minimum Scrap Amount": 3,
+        "Maximum Amount of Items": 0,
+        "Minimum Amount of Items": 0
       },
-      "Loot Profiles": [
-        {
-          "Loot Profile Name": "example_group",
-          "Group Enabled?": false,
-          "Loot Profile Probability (1% - 100%)": 30
-        }
-      ],
+      "Loot Profiles": [],
       "Ungrouped Items": {},
       "Guaranteed Items": {
         "metalpipe": {
           "Skin ID (0 = default)": 0,
           "Display Name (empty = none)": "",
           "Item Minimum": 1,
-          "Item Maximum": 5
+          "Item Maximum": 3
         },
         "roadsigns": {
           "Skin ID (0 = default)": 0,
           "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 5
+          "Item Minimum": 2,
+          "Item Maximum": 4
         }
       },
-      "Is Prefab Enabled?": true,
-      "LootProfiles": []
+      "Is Prefab Enabled?": true
     },
     "assets/content/props/roadsigns/roadsign3.prefab": {
       "Item Settings": {
         "Max Blueprints": 0,
-        "Maximum Scrap Amount": 0,
-        "Minimum Scrap Amount": 0,
-        "Maximum Amount of Items": 2,
-        "Minimum Amount of Items": 2
+        "Maximum Scrap Amount": 5,
+        "Minimum Scrap Amount": 3,
+        "Maximum Amount of Items": 0,
+        "Minimum Amount of Items": 0
       },
-      "Loot Profiles": [
-        {
-          "Loot Profile Name": "example_group",
-          "Group Enabled?": false,
-          "Loot Profile Probability (1% - 100%)": 30
-        }
-      ],
+      "Loot Profiles": [],
       "Ungrouped Items": {},
       "Guaranteed Items": {
         "metalpipe": {
           "Skin ID (0 = default)": 0,
           "Display Name (empty = none)": "",
           "Item Minimum": 1,
-          "Item Maximum": 5
+          "Item Maximum": 3
         },
         "roadsigns": {
           "Skin ID (0 = default)": 0,
           "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 5
+          "Item Minimum": 2,
+          "Item Maximum": 4
         }
       },
-      "Is Prefab Enabled?": true,
-      "LootProfiles": []
+      "Is Prefab Enabled?": true
     },
     "assets/content/props/roadsigns/roadsign4.prefab": {
       "Item Settings": {
         "Max Blueprints": 0,
-        "Maximum Scrap Amount": 0,
-        "Minimum Scrap Amount": 0,
-        "Maximum Amount of Items": 2,
-        "Minimum Amount of Items": 2
+        "Maximum Scrap Amount": 5,
+        "Minimum Scrap Amount": 3,
+        "Maximum Amount of Items": 0,
+        "Minimum Amount of Items": 0
       },
-      "Loot Profiles": [
-        {
-          "Loot Profile Name": "example_group",
-          "Group Enabled?": false,
-          "Loot Profile Probability (1% - 100%)": 30
-        }
-      ],
+      "Loot Profiles": [],
       "Ungrouped Items": {},
       "Guaranteed Items": {
         "metalpipe": {
           "Skin ID (0 = default)": 0,
           "Display Name (empty = none)": "",
           "Item Minimum": 1,
-          "Item Maximum": 5
+          "Item Maximum": 3
         },
         "roadsigns": {
           "Skin ID (0 = default)": 0,
           "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 5
+          "Item Minimum": 2,
+          "Item Maximum": 4
         }
       },
-      "Is Prefab Enabled?": true,
-      "LootProfiles": []
+      "Is Prefab Enabled?": true
     },
     "assets/content/props/roadsigns/roadsign5.prefab": {
       "Item Settings": {
         "Max Blueprints": 0,
-        "Maximum Scrap Amount": 0,
-        "Minimum Scrap Amount": 0,
-        "Maximum Amount of Items": 2,
-        "Minimum Amount of Items": 2
+        "Maximum Scrap Amount": 5,
+        "Minimum Scrap Amount": 3,
+        "Maximum Amount of Items": 0,
+        "Minimum Amount of Items": 0
       },
-      "Loot Profiles": [
-        {
-          "Loot Profile Name": "example_group",
-          "Group Enabled?": false,
-          "Loot Profile Probability (1% - 100%)": 30
-        }
-      ],
+      "Loot Profiles": [],
       "Ungrouped Items": {},
       "Guaranteed Items": {
         "metalpipe": {
           "Skin ID (0 = default)": 0,
           "Display Name (empty = none)": "",
           "Item Minimum": 1,
-          "Item Maximum": 5
+          "Item Maximum": 3
         },
         "roadsigns": {
           "Skin ID (0 = default)": 0,
           "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 5
+          "Item Minimum": 2,
+          "Item Maximum": 4
         }
       },
-      "Is Prefab Enabled?": true,
-      "LootProfiles": []
+      "Is Prefab Enabled?": true
     },
     "assets/content/props/roadsigns/roadsign6.prefab": {
       "Item Settings": {
         "Max Blueprints": 0,
-        "Maximum Scrap Amount": 0,
-        "Minimum Scrap Amount": 0,
-        "Maximum Amount of Items": 2,
-        "Minimum Amount of Items": 2
+        "Maximum Scrap Amount": 5,
+        "Minimum Scrap Amount": 3,
+        "Maximum Amount of Items": 0,
+        "Minimum Amount of Items": 0
       },
-      "Loot Profiles": [
-        {
-          "Loot Profile Name": "example_group",
-          "Group Enabled?": false,
-          "Loot Profile Probability (1% - 100%)": 30
-        }
-      ],
+      "Loot Profiles": [],
       "Ungrouped Items": {},
       "Guaranteed Items": {
         "metalpipe": {
           "Skin ID (0 = default)": 0,
           "Display Name (empty = none)": "",
           "Item Minimum": 1,
-          "Item Maximum": 5
+          "Item Maximum": 3
         },
         "roadsigns": {
           "Skin ID (0 = default)": 0,
           "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 5
+          "Item Minimum": 2,
+          "Item Maximum": 4
         }
       },
-      "Is Prefab Enabled?": true,
-      "LootProfiles": []
+      "Is Prefab Enabled?": true
     },
     "assets/content/props/roadsigns/roadsign7.prefab": {
       "Item Settings": {
         "Max Blueprints": 0,
-        "Maximum Scrap Amount": 0,
-        "Minimum Scrap Amount": 0,
-        "Maximum Amount of Items": 2,
-        "Minimum Amount of Items": 2
+        "Maximum Scrap Amount": 5,
+        "Minimum Scrap Amount": 3,
+        "Maximum Amount of Items": 0,
+        "Minimum Amount of Items": 0
       },
-      "Loot Profiles": [
-        {
-          "Loot Profile Name": "example_group",
-          "Group Enabled?": false,
-          "Loot Profile Probability (1% - 100%)": 30
-        }
-      ],
+      "Loot Profiles": [],
       "Ungrouped Items": {},
       "Guaranteed Items": {
         "metalpipe": {
           "Skin ID (0 = default)": 0,
           "Display Name (empty = none)": "",
           "Item Minimum": 1,
-          "Item Maximum": 5
+          "Item Maximum": 3
         },
         "roadsigns": {
           "Skin ID (0 = default)": 0,
           "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 5
+          "Item Minimum": 2,
+          "Item Maximum": 4
         }
       },
-      "Is Prefab Enabled?": true,
-      "LootProfiles": []
+      "Is Prefab Enabled?": true
     },
     "assets/content/props/roadsigns/roadsign8.prefab": {
       "Item Settings": {
         "Max Blueprints": 0,
-        "Maximum Scrap Amount": 0,
-        "Minimum Scrap Amount": 0,
-        "Maximum Amount of Items": 2,
-        "Minimum Amount of Items": 2
+        "Maximum Scrap Amount": 5,
+        "Minimum Scrap Amount": 3,
+        "Maximum Amount of Items": 0,
+        "Minimum Amount of Items": 0
       },
-      "Loot Profiles": [
-        {
-          "Loot Profile Name": "example_group",
-          "Group Enabled?": false,
-          "Loot Profile Probability (1% - 100%)": 30
-        }
-      ],
+      "Loot Profiles": [],
       "Ungrouped Items": {},
       "Guaranteed Items": {
         "metalpipe": {
           "Skin ID (0 = default)": 0,
           "Display Name (empty = none)": "",
           "Item Minimum": 1,
-          "Item Maximum": 5
+          "Item Maximum": 3
         },
         "roadsigns": {
           "Skin ID (0 = default)": 0,
           "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 5
+          "Item Minimum": 2,
+          "Item Maximum": 4
         }
       },
-      "Is Prefab Enabled?": true,
-      "LootProfiles": []
+      "Is Prefab Enabled?": true
     },
     "assets/content/props/roadsigns/roadsign9.prefab": {
       "Item Settings": {
         "Max Blueprints": 0,
-        "Maximum Scrap Amount": 0,
-        "Minimum Scrap Amount": 0,
-        "Maximum Amount of Items": 2,
-        "Minimum Amount of Items": 2
+        "Maximum Scrap Amount": 5,
+        "Minimum Scrap Amount": 3,
+        "Maximum Amount of Items": 0,
+        "Minimum Amount of Items": 0
       },
-      "Loot Profiles": [
-        {
-          "Loot Profile Name": "example_group",
-          "Group Enabled?": false,
-          "Loot Profile Probability (1% - 100%)": 30
-        }
-      ],
+      "Loot Profiles": [],
       "Ungrouped Items": {},
       "Guaranteed Items": {
         "metalpipe": {
           "Skin ID (0 = default)": 0,
           "Display Name (empty = none)": "",
           "Item Minimum": 1,
-          "Item Maximum": 5
+          "Item Maximum": 3
         },
         "roadsigns": {
           "Skin ID (0 = default)": 0,
           "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 5
+          "Item Minimum": 2,
+          "Item Maximum": 4
         }
       },
-      "Is Prefab Enabled?": true,
-      "LootProfiles": []
+      "Is Prefab Enabled?": true
     },
     "assets/prefabs/deployable/chinooklockedcrate/codelockedhackablecrate.prefab": {
       "Item Settings": {
