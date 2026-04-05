@@ -4793,23 +4793,21 @@
         "Minimum Amount of Items": 2
       },
       "Loot Profiles": [],
-      "Ungrouped Items": {
+      "Ungrouped Items": {},
+      "Guaranteed Items": {
         "crude.oil": {
-          "Allow Duplicates": true,
           "Skin ID (0 = default)": 0,
           "Display Name (empty = none)": "",
           "Item Minimum": 15,
           "Item Maximum": 50
         },
         "lowgradefuel": {
-          "Allow Duplicates": true,
           "Skin ID (0 = default)": 0,
           "Display Name (empty = none)": "",
           "Item Minimum": 10,
           "Item Maximum": 50
         }
       },
-      "Guaranteed Items": {},
       "Is Prefab Enabled?": true
     },
     "assets/bundled/prefabs/radtown/underwater_labs/crate_ammunition.prefab": {
@@ -5385,23 +5383,21 @@
         "Minimum Amount of Items": 2
       },
       "Loot Profiles": [],
-      "Ungrouped Items": {
+      "Ungrouped Items": {},
+      "Guaranteed Items": {
         "crude.oil": {
-          "Allow Duplicates": true,
           "Skin ID (0 = default)": 0,
           "Display Name (empty = none)": "",
           "Item Minimum": 15,
           "Item Maximum": 200
         },
         "lowgradefuel": {
-          "Allow Duplicates": true,
           "Skin ID (0 = default)": 0,
           "Display Name (empty = none)": "",
           "Item Minimum": 5,
           "Item Maximum": 100
         }
       },
-      "Guaranteed Items": {},
       "Is Prefab Enabled?": true
     },
     "assets/bundled/prefabs/radtown/underwater_labs/crate_medical.prefab": {
@@ -7338,6 +7334,13 @@
           "Display Name (empty = none)": "",
           "Item Minimum": 1,
           "Item Maximum": 1
+        },
+        "advancedblueprintfragment": {
+          "Allow Duplicates": true,
+          "Skin ID (0 = default)": 0,
+          "Display Name (empty = none)": "",
+          "Item Minimum": 1,
+          "Item Maximum": 2
         }
       },
       "Guaranteed Items": {},
@@ -7729,6 +7732,20 @@
           "Item Maximum": 24
         },
         "multiplegrenadelauncher": {
+          "Allow Duplicates": true,
+          "Skin ID (0 = default)": 0,
+          "Display Name (empty = none)": "",
+          "Item Minimum": 1,
+          "Item Maximum": 1
+        },
+        "advancedblueprintfragment": {
+          "Allow Duplicates": true,
+          "Skin ID (0 = default)": 0,
+          "Display Name (empty = none)": "",
+          "Item Minimum": 1,
+          "Item Maximum": 2
+        },
+        "lmg.m249": {
           "Allow Duplicates": true,
           "Skin ID (0 = default)": 0,
           "Display Name (empty = none)": "",
@@ -8130,6 +8147,20 @@
           "Display Name (empty = none)": "",
           "Item Minimum": 1,
           "Item Maximum": 1
+        },
+        "advancedblueprintfragment": {
+          "Allow Duplicates": true,
+          "Skin ID (0 = default)": 0,
+          "Display Name (empty = none)": "",
+          "Item Minimum": 1,
+          "Item Maximum": 2
+        },
+        "lmg.m249": {
+          "Allow Duplicates": true,
+          "Skin ID (0 = default)": 0,
+          "Display Name (empty = none)": "",
+          "Item Minimum": 1,
+          "Item Maximum": 1
         }
       },
       "Guaranteed Items": {},
@@ -8452,6 +8483,13 @@
           "Display Name (empty = none)": "",
           "Item Minimum": 4,
           "Item Maximum": 8
+        },
+        "advancedblueprintfragment": {
+          "Allow Duplicates": true,
+          "Skin ID (0 = default)": 0,
+          "Display Name (empty = none)": "",
+          "Item Minimum": 1,
+          "Item Maximum": 2
         }
       },
       "Guaranteed Items": {},
@@ -9128,6 +9166,13 @@
           "Item Maximum": 24
         },
         "weapon.mod.lasersight": {
+          "Allow Duplicates": true,
+          "Skin ID (0 = default)": 0,
+          "Display Name (empty = none)": "",
+          "Item Minimum": 1,
+          "Item Maximum": 1
+        },
+        "minigun": {
           "Allow Duplicates": true,
           "Skin ID (0 = default)": 0,
           "Display Name (empty = none)": "",
@@ -31203,56 +31248,35 @@
           "Skin ID (0 = default)": 0,
           "Display Name (empty = none)": "",
           "Item Minimum": 1,
-          "Item Maximum": 1
+          "Item Maximum": 3
         },
         "apple": {
           "Allow Duplicates": true,
           "Skin ID (0 = default)": 0,
           "Display Name (empty = none)": "",
           "Item Minimum": 1,
-          "Item Maximum": 1
-        },
-        "oretea": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 1
+          "Item Maximum": 3
         },
         "potato": {
           "Allow Duplicates": true,
           "Skin ID (0 = default)": 0,
           "Display Name (empty = none)": "",
           "Item Minimum": 1,
-          "Item Maximum": 1
+          "Item Maximum": 3
         },
         "pumpkin": {
           "Allow Duplicates": true,
           "Skin ID (0 = default)": 0,
           "Display Name (empty = none)": "",
           "Item Minimum": 1,
-          "Item Maximum": 1
-        },
-        "woodtea": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 1
+          "Item Maximum": 3
         },
         "can.tuna": {
           "Allow Duplicates": true,
           "Skin ID (0 = default)": 0,
           "Display Name (empty = none)": "",
           "Item Minimum": 1,
-          "Item Maximum": 1
-        },
-        "scraptea": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 1
+          "Item Maximum": 3
         },
         "waterjug": {
           "Allow Duplicates": true,
@@ -31266,119 +31290,42 @@
           "Skin ID (0 = default)": 0,
           "Display Name (empty = none)": "",
           "Item Minimum": 1,
-          "Item Maximum": 1
+          "Item Maximum": 3
         },
         "chocolate": {
           "Allow Duplicates": true,
           "Skin ID (0 = default)": 0,
           "Display Name (empty = none)": "",
           "Item Minimum": 1,
-          "Item Maximum": 1
+          "Item Maximum": 3
         },
         "honeycomb": {
           "Allow Duplicates": true,
           "Skin ID (0 = default)": 0,
           "Display Name (empty = none)": "",
           "Item Minimum": 1,
-          "Item Maximum": 1
-        },
-        "red.berry": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 1
+          "Item Maximum": 3
         },
         "bread.loaf": {
           "Allow Duplicates": true,
           "Skin ID (0 = default)": 0,
           "Display Name (empty = none)": "",
           "Item Minimum": 1,
-          "Item Maximum": 1
+          "Item Maximum": 3
         },
         "granolabar": {
           "Allow Duplicates": true,
           "Skin ID (0 = default)": 0,
           "Display Name (empty = none)": "",
           "Item Minimum": 1,
-          "Item Maximum": 1
-        },
-        "healingtea": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 1
-        },
-        "green.berry": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 1
-        },
-        "white.berry": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 1
-        },
-        "yellow.berry": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 1
-        },
-        "chicken.cooked": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 1
-        },
-        "bearmeat.cooked": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 1
-        },
-        "deermeat.cooked": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 1
-        },
-        "wolfmeat.cooked": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 1
-        },
-        "meat.pork.cooked": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 1
+          "Item Maximum": 3
         },
         "smallwaterbottle": {
           "Allow Duplicates": true,
           "Skin ID (0 = default)": 0,
           "Display Name (empty = none)": "",
           "Item Minimum": 1,
-          "Item Maximum": 1
-        },
-        "radiationresisttea": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 1
+          "Item Maximum": 3
         }
       },
       "Guaranteed Items": {},
@@ -31399,182 +31346,84 @@
           "Skin ID (0 = default)": 0,
           "Display Name (empty = none)": "",
           "Item Minimum": 1,
-          "Item Maximum": 1
+          "Item Maximum": 3
         },
         "apple": {
           "Allow Duplicates": true,
           "Skin ID (0 = default)": 0,
           "Display Name (empty = none)": "",
           "Item Minimum": 1,
-          "Item Maximum": 1
-        },
-        "oretea": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 1
+          "Item Maximum": 3
         },
         "potato": {
           "Allow Duplicates": true,
           "Skin ID (0 = default)": 0,
           "Display Name (empty = none)": "",
           "Item Minimum": 1,
-          "Item Maximum": 1
+          "Item Maximum": 3
         },
         "pumpkin": {
           "Allow Duplicates": true,
           "Skin ID (0 = default)": 0,
           "Display Name (empty = none)": "",
           "Item Minimum": 1,
-          "Item Maximum": 1
-        },
-        "woodtea": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 1
+          "Item Maximum": 3
         },
         "can.tuna": {
           "Allow Duplicates": true,
           "Skin ID (0 = default)": 0,
           "Display Name (empty = none)": "",
           "Item Minimum": 1,
-          "Item Maximum": 1
-        },
-        "scraptea": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 1
+          "Item Maximum": 5
         },
         "waterjug": {
           "Allow Duplicates": true,
           "Skin ID (0 = default)": 0,
           "Display Name (empty = none)": "",
           "Item Minimum": 1,
-          "Item Maximum": 1
+          "Item Maximum": 3
         },
         "can.beans": {
           "Allow Duplicates": true,
           "Skin ID (0 = default)": 0,
           "Display Name (empty = none)": "",
           "Item Minimum": 1,
-          "Item Maximum": 1
+          "Item Maximum": 3
         },
         "chocolate": {
           "Allow Duplicates": true,
           "Skin ID (0 = default)": 0,
           "Display Name (empty = none)": "",
           "Item Minimum": 1,
-          "Item Maximum": 1
+          "Item Maximum": 3
         },
         "honeycomb": {
           "Allow Duplicates": true,
           "Skin ID (0 = default)": 0,
           "Display Name (empty = none)": "",
           "Item Minimum": 1,
-          "Item Maximum": 1
-        },
-        "red.berry": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 1
+          "Item Maximum": 3
         },
         "bread.loaf": {
           "Allow Duplicates": true,
           "Skin ID (0 = default)": 0,
           "Display Name (empty = none)": "",
           "Item Minimum": 1,
-          "Item Maximum": 1
+          "Item Maximum": 3
         },
         "granolabar": {
           "Allow Duplicates": true,
           "Skin ID (0 = default)": 0,
           "Display Name (empty = none)": "",
           "Item Minimum": 1,
-          "Item Maximum": 1
-        },
-        "healingtea": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 1
-        },
-        "green.berry": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 1
-        },
-        "white.berry": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 1
-        },
-        "yellow.berry": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 1
-        },
-        "chicken.cooked": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 1
-        },
-        "bearmeat.cooked": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 1
-        },
-        "deermeat.cooked": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 1
-        },
-        "wolfmeat.cooked": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 1
-        },
-        "meat.pork.cooked": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 1
+          "Item Maximum": 3
         },
         "smallwaterbottle": {
           "Allow Duplicates": true,
           "Skin ID (0 = default)": 0,
           "Display Name (empty = none)": "",
           "Item Minimum": 1,
-          "Item Maximum": 1
-        },
-        "radiationresisttea": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 1
+          "Item Maximum": 3
         }
       },
       "Guaranteed Items": {},
@@ -31595,56 +31444,35 @@
           "Skin ID (0 = default)": 0,
           "Display Name (empty = none)": "",
           "Item Minimum": 1,
-          "Item Maximum": 1
+          "Item Maximum": 3
         },
         "apple": {
           "Allow Duplicates": true,
           "Skin ID (0 = default)": 0,
           "Display Name (empty = none)": "",
           "Item Minimum": 1,
-          "Item Maximum": 1
-        },
-        "oretea": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 1
+          "Item Maximum": 3
         },
         "potato": {
           "Allow Duplicates": true,
           "Skin ID (0 = default)": 0,
           "Display Name (empty = none)": "",
           "Item Minimum": 1,
-          "Item Maximum": 1
+          "Item Maximum": 3
         },
         "pumpkin": {
           "Allow Duplicates": true,
           "Skin ID (0 = default)": 0,
           "Display Name (empty = none)": "",
           "Item Minimum": 1,
-          "Item Maximum": 1
-        },
-        "woodtea": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 1
+          "Item Maximum": 3
         },
         "can.tuna": {
           "Allow Duplicates": true,
           "Skin ID (0 = default)": 0,
           "Display Name (empty = none)": "",
           "Item Minimum": 1,
-          "Item Maximum": 1
-        },
-        "scraptea": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 1
+          "Item Maximum": 3
         },
         "waterjug": {
           "Allow Duplicates": true,
@@ -31658,119 +31486,42 @@
           "Skin ID (0 = default)": 0,
           "Display Name (empty = none)": "",
           "Item Minimum": 1,
-          "Item Maximum": 1
+          "Item Maximum": 3
         },
         "chocolate": {
           "Allow Duplicates": true,
           "Skin ID (0 = default)": 0,
           "Display Name (empty = none)": "",
           "Item Minimum": 1,
-          "Item Maximum": 1
+          "Item Maximum": 3
         },
         "honeycomb": {
           "Allow Duplicates": true,
           "Skin ID (0 = default)": 0,
           "Display Name (empty = none)": "",
           "Item Minimum": 1,
-          "Item Maximum": 1
-        },
-        "red.berry": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 1
+          "Item Maximum": 3
         },
         "bread.loaf": {
           "Allow Duplicates": true,
           "Skin ID (0 = default)": 0,
           "Display Name (empty = none)": "",
           "Item Minimum": 1,
-          "Item Maximum": 1
+          "Item Maximum": 3
         },
         "granolabar": {
           "Allow Duplicates": true,
           "Skin ID (0 = default)": 0,
           "Display Name (empty = none)": "",
           "Item Minimum": 1,
-          "Item Maximum": 1
-        },
-        "healingtea": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 1
-        },
-        "green.berry": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 1
-        },
-        "white.berry": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 1
-        },
-        "yellow.berry": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 1
-        },
-        "chicken.cooked": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 1
-        },
-        "bearmeat.cooked": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 1
-        },
-        "deermeat.cooked": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 1
-        },
-        "wolfmeat.cooked": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 1
-        },
-        "meat.pork.cooked": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 1
+          "Item Maximum": 3
         },
         "smallwaterbottle": {
           "Allow Duplicates": true,
           "Skin ID (0 = default)": 0,
           "Display Name (empty = none)": "",
           "Item Minimum": 1,
-          "Item Maximum": 1
-        },
-        "radiationresisttea": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 1
+          "Item Maximum": 3
         }
       },
       "Guaranteed Items": {},
@@ -31791,182 +31542,91 @@
           "Skin ID (0 = default)": 0,
           "Display Name (empty = none)": "",
           "Item Minimum": 1,
-          "Item Maximum": 1
+          "Item Maximum": 3
         },
         "apple": {
           "Allow Duplicates": true,
           "Skin ID (0 = default)": 0,
           "Display Name (empty = none)": "",
           "Item Minimum": 1,
-          "Item Maximum": 1
+          "Item Maximum": 3
         },
         "oretea": {
           "Allow Duplicates": true,
           "Skin ID (0 = default)": 0,
           "Display Name (empty = none)": "",
           "Item Minimum": 1,
-          "Item Maximum": 1
+          "Item Maximum": 3
         },
         "potato": {
           "Allow Duplicates": true,
           "Skin ID (0 = default)": 0,
           "Display Name (empty = none)": "",
           "Item Minimum": 1,
-          "Item Maximum": 1
+          "Item Maximum": 3
         },
         "pumpkin": {
           "Allow Duplicates": true,
           "Skin ID (0 = default)": 0,
           "Display Name (empty = none)": "",
           "Item Minimum": 1,
-          "Item Maximum": 1
-        },
-        "woodtea": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 1
+          "Item Maximum": 3
         },
         "can.tuna": {
           "Allow Duplicates": true,
           "Skin ID (0 = default)": 0,
           "Display Name (empty = none)": "",
           "Item Minimum": 1,
-          "Item Maximum": 1
-        },
-        "scraptea": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 1
+          "Item Maximum": 3
         },
         "waterjug": {
           "Allow Duplicates": true,
           "Skin ID (0 = default)": 0,
           "Display Name (empty = none)": "",
           "Item Minimum": 1,
-          "Item Maximum": 1
+          "Item Maximum": 3
         },
         "can.beans": {
           "Allow Duplicates": true,
           "Skin ID (0 = default)": 0,
           "Display Name (empty = none)": "",
           "Item Minimum": 1,
-          "Item Maximum": 1
+          "Item Maximum": 3
         },
         "chocolate": {
           "Allow Duplicates": true,
           "Skin ID (0 = default)": 0,
           "Display Name (empty = none)": "",
           "Item Minimum": 1,
-          "Item Maximum": 1
+          "Item Maximum": 3
         },
         "honeycomb": {
           "Allow Duplicates": true,
           "Skin ID (0 = default)": 0,
           "Display Name (empty = none)": "",
           "Item Minimum": 1,
-          "Item Maximum": 1
-        },
-        "red.berry": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 1
+          "Item Maximum": 3
         },
         "bread.loaf": {
           "Allow Duplicates": true,
           "Skin ID (0 = default)": 0,
           "Display Name (empty = none)": "",
           "Item Minimum": 1,
-          "Item Maximum": 1
+          "Item Maximum": 3
         },
         "granolabar": {
           "Allow Duplicates": true,
           "Skin ID (0 = default)": 0,
           "Display Name (empty = none)": "",
           "Item Minimum": 1,
-          "Item Maximum": 1
-        },
-        "healingtea": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 1
-        },
-        "green.berry": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 1
-        },
-        "white.berry": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 1
-        },
-        "yellow.berry": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 1
-        },
-        "chicken.cooked": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 1
-        },
-        "bearmeat.cooked": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 1
-        },
-        "deermeat.cooked": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 1
-        },
-        "wolfmeat.cooked": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 1
-        },
-        "meat.pork.cooked": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 1
+          "Item Maximum": 3
         },
         "smallwaterbottle": {
           "Allow Duplicates": true,
           "Skin ID (0 = default)": 0,
           "Display Name (empty = none)": "",
           "Item Minimum": 1,
-          "Item Maximum": 1
-        },
-        "radiationresisttea": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 1
+          "Item Maximum": 3
         }
       },
       "Guaranteed Items": {},
