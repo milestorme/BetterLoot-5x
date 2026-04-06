@@ -1524,6 +1524,20 @@
             "Minimum Durability": 100
           }
         },
+        "pants": {
+          "Allow Duplicates": true,
+          "Skin ID (0 = default)": 0,
+          "Display Name (empty = none)": "",
+          "Item Minimum": 1,
+          "Item Maximum": 1
+        },
+        "hoodie": {
+          "Allow Duplicates": true,
+          "Skin ID (0 = default)": 0,
+          "Display Name (empty = none)": "",
+          "Item Minimum": 1,
+          "Item Maximum": 1
+        },
         "jacket": {
           "Allow Duplicates": true,
           "Skin ID (0 = default)": 0,
@@ -1654,6 +1668,13 @@
             "Minimum Durability": 100
           }
         },
+        "shoes.boots": {
+          "Allow Duplicates": true,
+          "Skin ID (0 = default)": 0,
+          "Display Name (empty = none)": "",
+          "Item Minimum": 1,
+          "Item Maximum": 1
+        },
         "bow.compound": {
           "Allow Duplicates": true,
           "Skin ID (0 = default)": 0,
@@ -1681,6 +1702,20 @@
             "Maximum Durability": 100,
             "Minimum Durability": 100
           }
+        },
+        "roadsign.kilt": {
+          "Allow Duplicates": true,
+          "Skin ID (0 = default)": 0,
+          "Display Name (empty = none)": "",
+          "Item Minimum": 1,
+          "Item Maximum": 1
+        },
+        "smallbackpack": {
+          "Allow Duplicates": true,
+          "Skin ID (0 = default)": 0,
+          "Display Name (empty = none)": "",
+          "Item Minimum": 1,
+          "Item Maximum": 1
         },
         "salvaged.sword": {
           "Allow Duplicates": true,
@@ -1746,6 +1781,27 @@
             }
           }
         },
+        "roadsign.gloves": {
+          "Allow Duplicates": true,
+          "Skin ID (0 = default)": 0,
+          "Display Name (empty = none)": "",
+          "Item Minimum": 1,
+          "Item Maximum": 1
+        },
+        "roadsign.jacket": {
+          "Allow Duplicates": true,
+          "Skin ID (0 = default)": 0,
+          "Display Name (empty = none)": "",
+          "Item Minimum": 1,
+          "Item Maximum": 1
+        },
+        "coffeecan.helmet": {
+          "Allow Duplicates": true,
+          "Skin ID (0 = default)": 0,
+          "Display Name (empty = none)": "",
+          "Item Minimum": 1,
+          "Item Maximum": 1
+        },
         "salvaged.cleaver": {
           "Allow Duplicates": true,
           "Skin ID (0 = default)": 0,
@@ -1776,62 +1832,6 @@
           "Item Maximum": 1
         },
         "weapon.mod.flashlight": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 1
-        },
-        "coffeecan.helmet": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 1
-        },
-        "hoodie": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 1
-        },
-        "pants": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 1
-        },
-        "roadsign.gloves": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 1
-        },
-        "roadsign.jacket": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 1
-        },
-        "smallbackpack": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 1
-        },
-        "roadsign.kilt": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 1
-        },
-        "shoes.boots": {
           "Allow Duplicates": true,
           "Skin ID (0 = default)": 0,
           "Display Name (empty = none)": "",
@@ -5838,6 +5838,20 @@
             "Minimum Durability": 100
           }
         },
+        "pants": {
+          "Allow Duplicates": true,
+          "Skin ID (0 = default)": 0,
+          "Display Name (empty = none)": "",
+          "Item Minimum": 1,
+          "Item Maximum": 1
+        },
+        "hoodie": {
+          "Allow Duplicates": true,
+          "Skin ID (0 = default)": 0,
+          "Display Name (empty = none)": "",
+          "Item Minimum": 1,
+          "Item Maximum": 1
+        },
         "jacket": {
           "Allow Duplicates": true,
           "Skin ID (0 = default)": 0,
@@ -5968,6 +5982,13 @@
             "Minimum Durability": 100
           }
         },
+        "shoes.boots": {
+          "Allow Duplicates": true,
+          "Skin ID (0 = default)": 0,
+          "Display Name (empty = none)": "",
+          "Item Minimum": 1,
+          "Item Maximum": 1
+        },
         "bow.compound": {
           "Allow Duplicates": true,
           "Skin ID (0 = default)": 0,
@@ -5995,6 +6016,20 @@
             "Maximum Durability": 100,
             "Minimum Durability": 100
           }
+        },
+        "roadsign.kilt": {
+          "Allow Duplicates": true,
+          "Skin ID (0 = default)": 0,
+          "Display Name (empty = none)": "",
+          "Item Minimum": 1,
+          "Item Maximum": 1
+        },
+        "smallbackpack": {
+          "Allow Duplicates": true,
+          "Skin ID (0 = default)": 0,
+          "Display Name (empty = none)": "",
+          "Item Minimum": 1,
+          "Item Maximum": 1
         },
         "salvaged.sword": {
           "Allow Duplicates": true,
@@ -6060,6 +6095,27 @@
             }
           }
         },
+        "roadsign.gloves": {
+          "Allow Duplicates": true,
+          "Skin ID (0 = default)": 0,
+          "Display Name (empty = none)": "",
+          "Item Minimum": 1,
+          "Item Maximum": 1
+        },
+        "roadsign.jacket": {
+          "Allow Duplicates": true,
+          "Skin ID (0 = default)": 0,
+          "Display Name (empty = none)": "",
+          "Item Minimum": 1,
+          "Item Maximum": 1
+        },
+        "coffeecan.helmet": {
+          "Allow Duplicates": true,
+          "Skin ID (0 = default)": 0,
+          "Display Name (empty = none)": "",
+          "Item Minimum": 1,
+          "Item Maximum": 1
+        },
         "salvaged.cleaver": {
           "Allow Duplicates": true,
           "Skin ID (0 = default)": 0,
@@ -6090,62 +6146,6 @@
           "Item Maximum": 1
         },
         "weapon.mod.flashlight": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 1
-        },
-        "coffeecan.helmet": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 1
-        },
-        "hoodie": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 1
-        },
-        "pants": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 1
-        },
-        "roadsign.gloves": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 1
-        },
-        "roadsign.jacket": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 1
-        },
-        "smallbackpack": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 1
-        },
-        "roadsign.kilt": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 1
-        },
-        "shoes.boots": {
           "Allow Duplicates": true,
           "Skin ID (0 = default)": 0,
           "Display Name (empty = none)": "",
@@ -7409,6 +7409,13 @@
             }
           }
         },
+        "lmg.m249": {
+          "Allow Duplicates": true,
+          "Skin ID (0 = default)": 0,
+          "Display Name (empty = none)": "",
+          "Item Minimum": 1,
+          "Item Maximum": 1
+        },
         "rifle.ak": {
           "Allow Duplicates": true,
           "Skin ID (0 = default)": 0,
@@ -7744,13 +7751,6 @@
           "Display Name (empty = none)": "",
           "Item Minimum": 1,
           "Item Maximum": 2
-        },
-        "lmg.m249": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 1
         }
       },
       "Guaranteed Items": {},
@@ -7819,6 +7819,13 @@
             }
           }
         },
+        "lmg.m249": {
+          "Allow Duplicates": true,
+          "Skin ID (0 = default)": 0,
+          "Display Name (empty = none)": "",
+          "Item Minimum": 1,
+          "Item Maximum": 1
+        },
         "rifle.ak": {
           "Allow Duplicates": true,
           "Skin ID (0 = default)": 0,
@@ -8154,13 +8161,6 @@
           "Display Name (empty = none)": "",
           "Item Minimum": 1,
           "Item Maximum": 2
-        },
-        "lmg.m249": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 1
         }
       },
       "Guaranteed Items": {},
@@ -8440,12 +8440,19 @@
             }
           }
         },
-        "basicblueprintfragment": {
+        "ammo.shotgun.fire": {
           "Allow Duplicates": true,
           "Skin ID (0 = default)": 0,
           "Display Name (empty = none)": "",
-          "Item Minimum": 2,
-          "Item Maximum": 4
+          "Item Minimum": 4,
+          "Item Maximum": 8
+        },
+        "ammo.shotgun.slug": {
+          "Allow Duplicates": true,
+          "Skin ID (0 = default)": 0,
+          "Display Name (empty = none)": "",
+          "Item Minimum": 6,
+          "Item Maximum": 12
         },
         "pistol.prototype17": {
           "Allow Duplicates": true,
@@ -8470,19 +8477,12 @@
             }
           }
         },
-        "ammo.shotgun.slug": {
+        "basicblueprintfragment": {
           "Allow Duplicates": true,
           "Skin ID (0 = default)": 0,
           "Display Name (empty = none)": "",
-          "Item Minimum": 6,
-          "Item Maximum": 12
-        },
-        "ammo.shotgun.fire": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 4,
-          "Item Maximum": 8
+          "Item Minimum": 2,
+          "Item Maximum": 4
         },
         "advancedblueprintfragment": {
           "Allow Duplicates": true,
@@ -8815,6 +8815,13 @@
               "Ammo Item Shortname": ""
             }
           }
+        },
+        "minigun": {
+          "Allow Duplicates": true,
+          "Skin ID (0 = default)": 0,
+          "Display Name (empty = none)": "",
+          "Item Minimum": 1,
+          "Item Maximum": 1
         },
         "smg.mp5": {
           "Allow Duplicates": true,
@@ -9166,13 +9173,6 @@
           "Item Maximum": 24
         },
         "weapon.mod.lasersight": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 1
-        },
-        "minigun": {
           "Allow Duplicates": true,
           "Skin ID (0 = default)": 0,
           "Display Name (empty = none)": "",
@@ -11055,29 +11055,6 @@
             "Minimum Durability": 100
           }
         },
-        "minicrossbow": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 1,
-          "Item Durability": {
-            "Maximum Durability": 100,
-            "Minimum Durability": 100
-          },
-          "Item Properties": {
-            "Weapon Attachments": {
-              "Maximum Mod Amount": 1,
-              "Minimum Mod Amount": 1,
-              "Available Attachments": {}
-            },
-            "Ammunition Settings": {
-              "Maximum Amount": 0,
-              "Minimum Amount": 0,
-              "Ammo Item Shortname": ""
-            }
-          }
-        },
         "shotgun.pump": {
           "Allow Duplicates": true,
           "Skin ID (0 = default)": 0,
@@ -11630,17 +11607,6 @@
           "Item Minimum": 6,
           "Item Maximum": 6
         },
-        "axe.salvaged": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 1,
-          "Item Durability": {
-            "Maximum Durability": 100,
-            "Minimum Durability": 100
-          }
-        },
         "flamethrower": {
           "Allow Duplicates": true,
           "Skin ID (0 = default)": 0,
@@ -11973,28 +11939,6 @@
           "Display Name (empty = none)": "",
           "Item Minimum": 10,
           "Item Maximum": 10
-        },
-        "icepick.salvaged": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 1,
-          "Item Durability": {
-            "Maximum Durability": 100,
-            "Minimum Durability": 100
-          }
-        },
-        "salvaged.cleaver": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 1,
-          "Item Durability": {
-            "Maximum Durability": 100,
-            "Minimum Durability": 100
-          }
         },
         "ammo.shotgun.fire": {
           "Allow Duplicates": true,
@@ -12285,29 +12229,6 @@
             "Minimum Durability": 100
           }
         },
-        "minicrossbow": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 1,
-          "Item Durability": {
-            "Maximum Durability": 100,
-            "Minimum Durability": 100
-          },
-          "Item Properties": {
-            "Weapon Attachments": {
-              "Maximum Mod Amount": 1,
-              "Minimum Mod Amount": 1,
-              "Available Attachments": {}
-            },
-            "Ammunition Settings": {
-              "Maximum Amount": 0,
-              "Minimum Amount": 0,
-              "Ammo Item Shortname": ""
-            }
-          }
-        },
         "shotgun.pump": {
           "Allow Duplicates": true,
           "Skin ID (0 = default)": 0,
@@ -12588,28 +12509,6 @@
           "Display Name (empty = none)": "",
           "Item Minimum": 10,
           "Item Maximum": 10
-        },
-        "icepick.salvaged": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 1,
-          "Item Durability": {
-            "Maximum Durability": 100,
-            "Minimum Durability": 100
-          }
-        },
-        "salvaged.cleaver": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 1,
-          "Item Durability": {
-            "Maximum Durability": 100,
-            "Minimum Durability": 100
-          }
         },
         "ammo.shotgun.fire": {
           "Allow Duplicates": true,
@@ -12860,17 +12759,6 @@
           "Item Minimum": 6,
           "Item Maximum": 6
         },
-        "axe.salvaged": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 1,
-          "Item Durability": {
-            "Maximum Durability": 100,
-            "Minimum Durability": 100
-          }
-        },
         "flamethrower": {
           "Allow Duplicates": true,
           "Skin ID (0 = default)": 0,
@@ -12898,29 +12786,6 @@
           "Item Durability": {
             "Maximum Durability": 100,
             "Minimum Durability": 100
-          }
-        },
-        "minicrossbow": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 1,
-          "Item Durability": {
-            "Maximum Durability": 100,
-            "Minimum Durability": 100
-          },
-          "Item Properties": {
-            "Weapon Attachments": {
-              "Maximum Mod Amount": 1,
-              "Minimum Mod Amount": 1,
-              "Available Attachments": {}
-            },
-            "Ammunition Settings": {
-              "Maximum Amount": 0,
-              "Minimum Amount": 0,
-              "Ammo Item Shortname": ""
-            }
           }
         },
         "shotgun.pump": {
@@ -13203,28 +13068,6 @@
           "Display Name (empty = none)": "",
           "Item Minimum": 10,
           "Item Maximum": 10
-        },
-        "icepick.salvaged": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 1,
-          "Item Durability": {
-            "Maximum Durability": 100,
-            "Minimum Durability": 100
-          }
-        },
-        "salvaged.cleaver": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 1,
-          "Item Durability": {
-            "Maximum Durability": 100,
-            "Minimum Durability": 100
-          }
         },
         "ammo.shotgun.fire": {
           "Allow Duplicates": true,
@@ -13475,17 +13318,6 @@
           "Item Minimum": 6,
           "Item Maximum": 6
         },
-        "axe.salvaged": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 1,
-          "Item Durability": {
-            "Maximum Durability": 100,
-            "Minimum Durability": 100
-          }
-        },
         "flamethrower": {
           "Allow Duplicates": true,
           "Skin ID (0 = default)": 0,
@@ -13513,29 +13345,6 @@
           "Item Durability": {
             "Maximum Durability": 100,
             "Minimum Durability": 100
-          }
-        },
-        "minicrossbow": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 1,
-          "Item Durability": {
-            "Maximum Durability": 100,
-            "Minimum Durability": 100
-          },
-          "Item Properties": {
-            "Weapon Attachments": {
-              "Maximum Mod Amount": 1,
-              "Minimum Mod Amount": 1,
-              "Available Attachments": {}
-            },
-            "Ammunition Settings": {
-              "Maximum Amount": 0,
-              "Minimum Amount": 0,
-              "Ammo Item Shortname": ""
-            }
           }
         },
         "shotgun.pump": {
@@ -13818,28 +13627,6 @@
           "Display Name (empty = none)": "",
           "Item Minimum": 10,
           "Item Maximum": 10
-        },
-        "icepick.salvaged": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 1,
-          "Item Durability": {
-            "Maximum Durability": 100,
-            "Minimum Durability": 100
-          }
-        },
-        "salvaged.cleaver": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 1,
-          "Item Durability": {
-            "Maximum Durability": 100,
-            "Minimum Durability": 100
-          }
         },
         "ammo.shotgun.fire": {
           "Allow Duplicates": true,
@@ -14090,17 +13877,6 @@
           "Item Minimum": 6,
           "Item Maximum": 6
         },
-        "axe.salvaged": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 1,
-          "Item Durability": {
-            "Maximum Durability": 100,
-            "Minimum Durability": 100
-          }
-        },
         "flamethrower": {
           "Allow Duplicates": true,
           "Skin ID (0 = default)": 0,
@@ -14128,29 +13904,6 @@
           "Item Durability": {
             "Maximum Durability": 100,
             "Minimum Durability": 100
-          }
-        },
-        "minicrossbow": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 1,
-          "Item Durability": {
-            "Maximum Durability": 100,
-            "Minimum Durability": 100
-          },
-          "Item Properties": {
-            "Weapon Attachments": {
-              "Maximum Mod Amount": 1,
-              "Minimum Mod Amount": 1,
-              "Available Attachments": {}
-            },
-            "Ammunition Settings": {
-              "Maximum Amount": 0,
-              "Minimum Amount": 0,
-              "Ammo Item Shortname": ""
-            }
           }
         },
         "shotgun.pump": {
@@ -14433,28 +14186,6 @@
           "Display Name (empty = none)": "",
           "Item Minimum": 10,
           "Item Maximum": 10
-        },
-        "icepick.salvaged": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 1,
-          "Item Durability": {
-            "Maximum Durability": 100,
-            "Minimum Durability": 100
-          }
-        },
-        "salvaged.cleaver": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 1,
-          "Item Durability": {
-            "Maximum Durability": 100,
-            "Minimum Durability": 100
-          }
         },
         "ammo.shotgun.fire": {
           "Allow Duplicates": true,
@@ -14705,17 +14436,6 @@
           "Item Minimum": 6,
           "Item Maximum": 6
         },
-        "axe.salvaged": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 1,
-          "Item Durability": {
-            "Maximum Durability": 100,
-            "Minimum Durability": 100
-          }
-        },
         "flamethrower": {
           "Allow Duplicates": true,
           "Skin ID (0 = default)": 0,
@@ -14743,29 +14463,6 @@
           "Item Durability": {
             "Maximum Durability": 100,
             "Minimum Durability": 100
-          }
-        },
-        "minicrossbow": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 1,
-          "Item Durability": {
-            "Maximum Durability": 100,
-            "Minimum Durability": 100
-          },
-          "Item Properties": {
-            "Weapon Attachments": {
-              "Maximum Mod Amount": 1,
-              "Minimum Mod Amount": 1,
-              "Available Attachments": {}
-            },
-            "Ammunition Settings": {
-              "Maximum Amount": 0,
-              "Minimum Amount": 0,
-              "Ammo Item Shortname": ""
-            }
           }
         },
         "shotgun.pump": {
@@ -15048,28 +14745,6 @@
           "Display Name (empty = none)": "",
           "Item Minimum": 10,
           "Item Maximum": 10
-        },
-        "icepick.salvaged": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 1,
-          "Item Durability": {
-            "Maximum Durability": 100,
-            "Minimum Durability": 100
-          }
-        },
-        "salvaged.cleaver": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 1,
-          "Item Durability": {
-            "Maximum Durability": 100,
-            "Minimum Durability": 100
-          }
         },
         "ammo.shotgun.fire": {
           "Allow Duplicates": true,
@@ -15320,17 +14995,6 @@
           "Item Minimum": 6,
           "Item Maximum": 6
         },
-        "axe.salvaged": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 1,
-          "Item Durability": {
-            "Maximum Durability": 100,
-            "Minimum Durability": 100
-          }
-        },
         "flamethrower": {
           "Allow Duplicates": true,
           "Skin ID (0 = default)": 0,
@@ -15358,29 +15022,6 @@
           "Item Durability": {
             "Maximum Durability": 100,
             "Minimum Durability": 100
-          }
-        },
-        "minicrossbow": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 1,
-          "Item Durability": {
-            "Maximum Durability": 100,
-            "Minimum Durability": 100
-          },
-          "Item Properties": {
-            "Weapon Attachments": {
-              "Maximum Mod Amount": 1,
-              "Minimum Mod Amount": 1,
-              "Available Attachments": {}
-            },
-            "Ammunition Settings": {
-              "Maximum Amount": 0,
-              "Minimum Amount": 0,
-              "Ammo Item Shortname": ""
-            }
           }
         },
         "shotgun.pump": {
@@ -15663,28 +15304,6 @@
           "Display Name (empty = none)": "",
           "Item Minimum": 10,
           "Item Maximum": 10
-        },
-        "icepick.salvaged": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 1,
-          "Item Durability": {
-            "Maximum Durability": 100,
-            "Minimum Durability": 100
-          }
-        },
-        "salvaged.cleaver": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 1,
-          "Item Durability": {
-            "Maximum Durability": 100,
-            "Minimum Durability": 100
-          }
         },
         "ammo.shotgun.fire": {
           "Allow Duplicates": true,
@@ -15935,17 +15554,6 @@
           "Item Minimum": 6,
           "Item Maximum": 6
         },
-        "axe.salvaged": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 1,
-          "Item Durability": {
-            "Maximum Durability": 100,
-            "Minimum Durability": 100
-          }
-        },
         "flamethrower": {
           "Allow Duplicates": true,
           "Skin ID (0 = default)": 0,
@@ -15973,29 +15581,6 @@
           "Item Durability": {
             "Maximum Durability": 100,
             "Minimum Durability": 100
-          }
-        },
-        "minicrossbow": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 1,
-          "Item Durability": {
-            "Maximum Durability": 100,
-            "Minimum Durability": 100
-          },
-          "Item Properties": {
-            "Weapon Attachments": {
-              "Maximum Mod Amount": 1,
-              "Minimum Mod Amount": 1,
-              "Available Attachments": {}
-            },
-            "Ammunition Settings": {
-              "Maximum Amount": 0,
-              "Minimum Amount": 0,
-              "Ammo Item Shortname": ""
-            }
           }
         },
         "shotgun.pump": {
@@ -16278,28 +15863,6 @@
           "Display Name (empty = none)": "",
           "Item Minimum": 10,
           "Item Maximum": 10
-        },
-        "icepick.salvaged": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 1,
-          "Item Durability": {
-            "Maximum Durability": 100,
-            "Minimum Durability": 100
-          }
-        },
-        "salvaged.cleaver": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 1,
-          "Item Durability": {
-            "Maximum Durability": 100,
-            "Minimum Durability": 100
-          }
         },
         "ammo.shotgun.fire": {
           "Allow Duplicates": true,
@@ -16550,17 +16113,6 @@
           "Item Minimum": 6,
           "Item Maximum": 6
         },
-        "axe.salvaged": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 1,
-          "Item Durability": {
-            "Maximum Durability": 100,
-            "Minimum Durability": 100
-          }
-        },
         "flamethrower": {
           "Allow Duplicates": true,
           "Skin ID (0 = default)": 0,
@@ -16588,29 +16140,6 @@
           "Item Durability": {
             "Maximum Durability": 100,
             "Minimum Durability": 100
-          }
-        },
-        "minicrossbow": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 1,
-          "Item Durability": {
-            "Maximum Durability": 100,
-            "Minimum Durability": 100
-          },
-          "Item Properties": {
-            "Weapon Attachments": {
-              "Maximum Mod Amount": 1,
-              "Minimum Mod Amount": 1,
-              "Available Attachments": {}
-            },
-            "Ammunition Settings": {
-              "Maximum Amount": 0,
-              "Minimum Amount": 0,
-              "Ammo Item Shortname": ""
-            }
           }
         },
         "shotgun.pump": {
@@ -16893,28 +16422,6 @@
           "Display Name (empty = none)": "",
           "Item Minimum": 10,
           "Item Maximum": 10
-        },
-        "icepick.salvaged": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 1,
-          "Item Durability": {
-            "Maximum Durability": 100,
-            "Minimum Durability": 100
-          }
-        },
-        "salvaged.cleaver": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 1,
-          "Item Durability": {
-            "Maximum Durability": 100,
-            "Minimum Durability": 100
-          }
         },
         "ammo.shotgun.fire": {
           "Allow Duplicates": true,
@@ -17165,17 +16672,6 @@
           "Item Minimum": 6,
           "Item Maximum": 6
         },
-        "axe.salvaged": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 1,
-          "Item Durability": {
-            "Maximum Durability": 100,
-            "Minimum Durability": 100
-          }
-        },
         "flamethrower": {
           "Allow Duplicates": true,
           "Skin ID (0 = default)": 0,
@@ -17203,29 +16699,6 @@
           "Item Durability": {
             "Maximum Durability": 100,
             "Minimum Durability": 100
-          }
-        },
-        "minicrossbow": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 1,
-          "Item Durability": {
-            "Maximum Durability": 100,
-            "Minimum Durability": 100
-          },
-          "Item Properties": {
-            "Weapon Attachments": {
-              "Maximum Mod Amount": 1,
-              "Minimum Mod Amount": 1,
-              "Available Attachments": {}
-            },
-            "Ammunition Settings": {
-              "Maximum Amount": 0,
-              "Minimum Amount": 0,
-              "Ammo Item Shortname": ""
-            }
           }
         },
         "shotgun.pump": {
@@ -17508,28 +16981,6 @@
           "Display Name (empty = none)": "",
           "Item Minimum": 10,
           "Item Maximum": 10
-        },
-        "icepick.salvaged": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 1,
-          "Item Durability": {
-            "Maximum Durability": 100,
-            "Minimum Durability": 100
-          }
-        },
-        "salvaged.cleaver": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 1,
-          "Item Durability": {
-            "Maximum Durability": 100,
-            "Minimum Durability": 100
-          }
         },
         "ammo.shotgun.fire": {
           "Allow Duplicates": true,
@@ -17780,17 +17231,6 @@
           "Item Minimum": 6,
           "Item Maximum": 6
         },
-        "axe.salvaged": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 1,
-          "Item Durability": {
-            "Maximum Durability": 100,
-            "Minimum Durability": 100
-          }
-        },
         "flamethrower": {
           "Allow Duplicates": true,
           "Skin ID (0 = default)": 0,
@@ -17818,29 +17258,6 @@
           "Item Durability": {
             "Maximum Durability": 100,
             "Minimum Durability": 100
-          }
-        },
-        "minicrossbow": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 1,
-          "Item Durability": {
-            "Maximum Durability": 100,
-            "Minimum Durability": 100
-          },
-          "Item Properties": {
-            "Weapon Attachments": {
-              "Maximum Mod Amount": 1,
-              "Minimum Mod Amount": 1,
-              "Available Attachments": {}
-            },
-            "Ammunition Settings": {
-              "Maximum Amount": 0,
-              "Minimum Amount": 0,
-              "Ammo Item Shortname": ""
-            }
           }
         },
         "shotgun.pump": {
@@ -18123,28 +17540,6 @@
           "Display Name (empty = none)": "",
           "Item Minimum": 10,
           "Item Maximum": 10
-        },
-        "icepick.salvaged": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 1,
-          "Item Durability": {
-            "Maximum Durability": 100,
-            "Minimum Durability": 100
-          }
-        },
-        "salvaged.cleaver": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 1,
-          "Item Durability": {
-            "Maximum Durability": 100,
-            "Minimum Durability": 100
-          }
         },
         "ammo.shotgun.fire": {
           "Allow Duplicates": true,
@@ -18395,17 +17790,6 @@
           "Item Minimum": 6,
           "Item Maximum": 6
         },
-        "axe.salvaged": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 1,
-          "Item Durability": {
-            "Maximum Durability": 100,
-            "Minimum Durability": 100
-          }
-        },
         "flamethrower": {
           "Allow Duplicates": true,
           "Skin ID (0 = default)": 0,
@@ -18433,29 +17817,6 @@
           "Item Durability": {
             "Maximum Durability": 100,
             "Minimum Durability": 100
-          }
-        },
-        "minicrossbow": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 1,
-          "Item Durability": {
-            "Maximum Durability": 100,
-            "Minimum Durability": 100
-          },
-          "Item Properties": {
-            "Weapon Attachments": {
-              "Maximum Mod Amount": 1,
-              "Minimum Mod Amount": 1,
-              "Available Attachments": {}
-            },
-            "Ammunition Settings": {
-              "Maximum Amount": 0,
-              "Minimum Amount": 0,
-              "Ammo Item Shortname": ""
-            }
           }
         },
         "shotgun.pump": {
@@ -18738,28 +18099,6 @@
           "Display Name (empty = none)": "",
           "Item Minimum": 10,
           "Item Maximum": 10
-        },
-        "icepick.salvaged": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 1,
-          "Item Durability": {
-            "Maximum Durability": 100,
-            "Minimum Durability": 100
-          }
-        },
-        "salvaged.cleaver": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 1,
-          "Item Durability": {
-            "Maximum Durability": 100,
-            "Minimum Durability": 100
-          }
         },
         "ammo.shotgun.fire": {
           "Allow Duplicates": true,
@@ -19010,17 +18349,6 @@
           "Item Minimum": 6,
           "Item Maximum": 6
         },
-        "axe.salvaged": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 1,
-          "Item Durability": {
-            "Maximum Durability": 100,
-            "Minimum Durability": 100
-          }
-        },
         "flamethrower": {
           "Allow Duplicates": true,
           "Skin ID (0 = default)": 0,
@@ -19048,29 +18376,6 @@
           "Item Durability": {
             "Maximum Durability": 100,
             "Minimum Durability": 100
-          }
-        },
-        "minicrossbow": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 1,
-          "Item Durability": {
-            "Maximum Durability": 100,
-            "Minimum Durability": 100
-          },
-          "Item Properties": {
-            "Weapon Attachments": {
-              "Maximum Mod Amount": 1,
-              "Minimum Mod Amount": 1,
-              "Available Attachments": {}
-            },
-            "Ammunition Settings": {
-              "Maximum Amount": 0,
-              "Minimum Amount": 0,
-              "Ammo Item Shortname": ""
-            }
           }
         },
         "shotgun.pump": {
@@ -19353,28 +18658,6 @@
           "Display Name (empty = none)": "",
           "Item Minimum": 10,
           "Item Maximum": 10
-        },
-        "icepick.salvaged": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 1,
-          "Item Durability": {
-            "Maximum Durability": 100,
-            "Minimum Durability": 100
-          }
-        },
-        "salvaged.cleaver": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 1,
-          "Item Durability": {
-            "Maximum Durability": 100,
-            "Minimum Durability": 100
-          }
         },
         "ammo.shotgun.fire": {
           "Allow Duplicates": true,
@@ -19625,17 +18908,6 @@
           "Item Minimum": 6,
           "Item Maximum": 6
         },
-        "axe.salvaged": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 1,
-          "Item Durability": {
-            "Maximum Durability": 100,
-            "Minimum Durability": 100
-          }
-        },
         "flamethrower": {
           "Allow Duplicates": true,
           "Skin ID (0 = default)": 0,
@@ -19663,29 +18935,6 @@
           "Item Durability": {
             "Maximum Durability": 100,
             "Minimum Durability": 100
-          }
-        },
-        "minicrossbow": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 1,
-          "Item Durability": {
-            "Maximum Durability": 100,
-            "Minimum Durability": 100
-          },
-          "Item Properties": {
-            "Weapon Attachments": {
-              "Maximum Mod Amount": 1,
-              "Minimum Mod Amount": 1,
-              "Available Attachments": {}
-            },
-            "Ammunition Settings": {
-              "Maximum Amount": 0,
-              "Minimum Amount": 0,
-              "Ammo Item Shortname": ""
-            }
           }
         },
         "shotgun.pump": {
@@ -19968,28 +19217,6 @@
           "Display Name (empty = none)": "",
           "Item Minimum": 10,
           "Item Maximum": 10
-        },
-        "icepick.salvaged": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 1,
-          "Item Durability": {
-            "Maximum Durability": 100,
-            "Minimum Durability": 100
-          }
-        },
-        "salvaged.cleaver": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 1,
-          "Item Durability": {
-            "Maximum Durability": 100,
-            "Minimum Durability": 100
-          }
         },
         "ammo.shotgun.fire": {
           "Allow Duplicates": true,
@@ -20240,17 +19467,6 @@
           "Item Minimum": 6,
           "Item Maximum": 6
         },
-        "axe.salvaged": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 1,
-          "Item Durability": {
-            "Maximum Durability": 100,
-            "Minimum Durability": 100
-          }
-        },
         "flamethrower": {
           "Allow Duplicates": true,
           "Skin ID (0 = default)": 0,
@@ -20278,29 +19494,6 @@
           "Item Durability": {
             "Maximum Durability": 100,
             "Minimum Durability": 100
-          }
-        },
-        "minicrossbow": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 1,
-          "Item Durability": {
-            "Maximum Durability": 100,
-            "Minimum Durability": 100
-          },
-          "Item Properties": {
-            "Weapon Attachments": {
-              "Maximum Mod Amount": 1,
-              "Minimum Mod Amount": 1,
-              "Available Attachments": {}
-            },
-            "Ammunition Settings": {
-              "Maximum Amount": 0,
-              "Minimum Amount": 0,
-              "Ammo Item Shortname": ""
-            }
           }
         },
         "shotgun.pump": {
@@ -20583,28 +19776,6 @@
           "Display Name (empty = none)": "",
           "Item Minimum": 10,
           "Item Maximum": 10
-        },
-        "icepick.salvaged": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 1,
-          "Item Durability": {
-            "Maximum Durability": 100,
-            "Minimum Durability": 100
-          }
-        },
-        "salvaged.cleaver": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 1,
-          "Item Durability": {
-            "Maximum Durability": 100,
-            "Minimum Durability": 100
-          }
         },
         "ammo.shotgun.fire": {
           "Allow Duplicates": true,
@@ -20855,17 +20026,6 @@
           "Item Minimum": 6,
           "Item Maximum": 6
         },
-        "axe.salvaged": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 1,
-          "Item Durability": {
-            "Maximum Durability": 100,
-            "Minimum Durability": 100
-          }
-        },
         "flamethrower": {
           "Allow Duplicates": true,
           "Skin ID (0 = default)": 0,
@@ -20893,29 +20053,6 @@
           "Item Durability": {
             "Maximum Durability": 100,
             "Minimum Durability": 100
-          }
-        },
-        "minicrossbow": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 1,
-          "Item Durability": {
-            "Maximum Durability": 100,
-            "Minimum Durability": 100
-          },
-          "Item Properties": {
-            "Weapon Attachments": {
-              "Maximum Mod Amount": 1,
-              "Minimum Mod Amount": 1,
-              "Available Attachments": {}
-            },
-            "Ammunition Settings": {
-              "Maximum Amount": 0,
-              "Minimum Amount": 0,
-              "Ammo Item Shortname": ""
-            }
           }
         },
         "shotgun.pump": {
@@ -21198,28 +20335,6 @@
           "Display Name (empty = none)": "",
           "Item Minimum": 10,
           "Item Maximum": 10
-        },
-        "icepick.salvaged": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 1,
-          "Item Durability": {
-            "Maximum Durability": 100,
-            "Minimum Durability": 100
-          }
-        },
-        "salvaged.cleaver": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 1,
-          "Item Durability": {
-            "Maximum Durability": 100,
-            "Minimum Durability": 100
-          }
         },
         "ammo.shotgun.fire": {
           "Allow Duplicates": true,
@@ -21470,17 +20585,6 @@
           "Item Minimum": 6,
           "Item Maximum": 6
         },
-        "axe.salvaged": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 1,
-          "Item Durability": {
-            "Maximum Durability": 100,
-            "Minimum Durability": 100
-          }
-        },
         "flamethrower": {
           "Allow Duplicates": true,
           "Skin ID (0 = default)": 0,
@@ -21508,29 +20612,6 @@
           "Item Durability": {
             "Maximum Durability": 100,
             "Minimum Durability": 100
-          }
-        },
-        "minicrossbow": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 1,
-          "Item Durability": {
-            "Maximum Durability": 100,
-            "Minimum Durability": 100
-          },
-          "Item Properties": {
-            "Weapon Attachments": {
-              "Maximum Mod Amount": 1,
-              "Minimum Mod Amount": 1,
-              "Available Attachments": {}
-            },
-            "Ammunition Settings": {
-              "Maximum Amount": 0,
-              "Minimum Amount": 0,
-              "Ammo Item Shortname": ""
-            }
           }
         },
         "shotgun.pump": {
@@ -21813,28 +20894,6 @@
           "Display Name (empty = none)": "",
           "Item Minimum": 10,
           "Item Maximum": 10
-        },
-        "icepick.salvaged": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 1,
-          "Item Durability": {
-            "Maximum Durability": 100,
-            "Minimum Durability": 100
-          }
-        },
-        "salvaged.cleaver": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 1,
-          "Item Durability": {
-            "Maximum Durability": 100,
-            "Minimum Durability": 100
-          }
         },
         "ammo.shotgun.fire": {
           "Allow Duplicates": true,
@@ -22085,17 +21144,6 @@
           "Item Minimum": 6,
           "Item Maximum": 6
         },
-        "axe.salvaged": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 1,
-          "Item Durability": {
-            "Maximum Durability": 100,
-            "Minimum Durability": 100
-          }
-        },
         "flamethrower": {
           "Allow Duplicates": true,
           "Skin ID (0 = default)": 0,
@@ -22123,29 +21171,6 @@
           "Item Durability": {
             "Maximum Durability": 100,
             "Minimum Durability": 100
-          }
-        },
-        "minicrossbow": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 1,
-          "Item Durability": {
-            "Maximum Durability": 100,
-            "Minimum Durability": 100
-          },
-          "Item Properties": {
-            "Weapon Attachments": {
-              "Maximum Mod Amount": 1,
-              "Minimum Mod Amount": 1,
-              "Available Attachments": {}
-            },
-            "Ammunition Settings": {
-              "Maximum Amount": 0,
-              "Minimum Amount": 0,
-              "Ammo Item Shortname": ""
-            }
           }
         },
         "shotgun.pump": {
@@ -22428,28 +21453,6 @@
           "Display Name (empty = none)": "",
           "Item Minimum": 10,
           "Item Maximum": 10
-        },
-        "icepick.salvaged": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 1,
-          "Item Durability": {
-            "Maximum Durability": 100,
-            "Minimum Durability": 100
-          }
-        },
-        "salvaged.cleaver": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 1,
-          "Item Durability": {
-            "Maximum Durability": 100,
-            "Minimum Durability": 100
-          }
         },
         "ammo.shotgun.fire": {
           "Allow Duplicates": true,
@@ -22700,17 +21703,6 @@
           "Item Minimum": 6,
           "Item Maximum": 6
         },
-        "axe.salvaged": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 1,
-          "Item Durability": {
-            "Maximum Durability": 100,
-            "Minimum Durability": 100
-          }
-        },
         "flamethrower": {
           "Allow Duplicates": true,
           "Skin ID (0 = default)": 0,
@@ -22738,29 +21730,6 @@
           "Item Durability": {
             "Maximum Durability": 100,
             "Minimum Durability": 100
-          }
-        },
-        "minicrossbow": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 1,
-          "Item Durability": {
-            "Maximum Durability": 100,
-            "Minimum Durability": 100
-          },
-          "Item Properties": {
-            "Weapon Attachments": {
-              "Maximum Mod Amount": 1,
-              "Minimum Mod Amount": 1,
-              "Available Attachments": {}
-            },
-            "Ammunition Settings": {
-              "Maximum Amount": 0,
-              "Minimum Amount": 0,
-              "Ammo Item Shortname": ""
-            }
           }
         },
         "shotgun.pump": {
@@ -23043,28 +22012,6 @@
           "Display Name (empty = none)": "",
           "Item Minimum": 10,
           "Item Maximum": 10
-        },
-        "icepick.salvaged": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 1,
-          "Item Durability": {
-            "Maximum Durability": 100,
-            "Minimum Durability": 100
-          }
-        },
-        "salvaged.cleaver": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 1,
-          "Item Durability": {
-            "Maximum Durability": 100,
-            "Minimum Durability": 100
-          }
         },
         "ammo.shotgun.fire": {
           "Allow Duplicates": true,
@@ -23315,17 +22262,6 @@
           "Item Minimum": 6,
           "Item Maximum": 6
         },
-        "axe.salvaged": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 1,
-          "Item Durability": {
-            "Maximum Durability": 100,
-            "Minimum Durability": 100
-          }
-        },
         "flamethrower": {
           "Allow Duplicates": true,
           "Skin ID (0 = default)": 0,
@@ -23353,29 +22289,6 @@
           "Item Durability": {
             "Maximum Durability": 100,
             "Minimum Durability": 100
-          }
-        },
-        "minicrossbow": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 1,
-          "Item Durability": {
-            "Maximum Durability": 100,
-            "Minimum Durability": 100
-          },
-          "Item Properties": {
-            "Weapon Attachments": {
-              "Maximum Mod Amount": 1,
-              "Minimum Mod Amount": 1,
-              "Available Attachments": {}
-            },
-            "Ammunition Settings": {
-              "Maximum Amount": 0,
-              "Minimum Amount": 0,
-              "Ammo Item Shortname": ""
-            }
           }
         },
         "shotgun.pump": {
@@ -23658,28 +22571,6 @@
           "Display Name (empty = none)": "",
           "Item Minimum": 10,
           "Item Maximum": 10
-        },
-        "icepick.salvaged": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 1,
-          "Item Durability": {
-            "Maximum Durability": 100,
-            "Minimum Durability": 100
-          }
-        },
-        "salvaged.cleaver": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 1,
-          "Item Durability": {
-            "Maximum Durability": 100,
-            "Minimum Durability": 100
-          }
         },
         "ammo.shotgun.fire": {
           "Allow Duplicates": true,
@@ -23930,17 +22821,6 @@
           "Item Minimum": 6,
           "Item Maximum": 6
         },
-        "axe.salvaged": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 1,
-          "Item Durability": {
-            "Maximum Durability": 100,
-            "Minimum Durability": 100
-          }
-        },
         "flamethrower": {
           "Allow Duplicates": true,
           "Skin ID (0 = default)": 0,
@@ -23968,29 +22848,6 @@
           "Item Durability": {
             "Maximum Durability": 100,
             "Minimum Durability": 100
-          }
-        },
-        "minicrossbow": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 1,
-          "Item Durability": {
-            "Maximum Durability": 100,
-            "Minimum Durability": 100
-          },
-          "Item Properties": {
-            "Weapon Attachments": {
-              "Maximum Mod Amount": 1,
-              "Minimum Mod Amount": 1,
-              "Available Attachments": {}
-            },
-            "Ammunition Settings": {
-              "Maximum Amount": 0,
-              "Minimum Amount": 0,
-              "Ammo Item Shortname": ""
-            }
           }
         },
         "shotgun.pump": {
@@ -24273,28 +23130,6 @@
           "Display Name (empty = none)": "",
           "Item Minimum": 10,
           "Item Maximum": 10
-        },
-        "icepick.salvaged": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 1,
-          "Item Durability": {
-            "Maximum Durability": 100,
-            "Minimum Durability": 100
-          }
-        },
-        "salvaged.cleaver": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 1,
-          "Item Durability": {
-            "Maximum Durability": 100,
-            "Minimum Durability": 100
-          }
         },
         "ammo.shotgun.fire": {
           "Allow Duplicates": true,
@@ -24545,17 +23380,6 @@
           "Item Minimum": 6,
           "Item Maximum": 6
         },
-        "axe.salvaged": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 1,
-          "Item Durability": {
-            "Maximum Durability": 100,
-            "Minimum Durability": 100
-          }
-        },
         "flamethrower": {
           "Allow Duplicates": true,
           "Skin ID (0 = default)": 0,
@@ -24583,29 +23407,6 @@
           "Item Durability": {
             "Maximum Durability": 100,
             "Minimum Durability": 100
-          }
-        },
-        "minicrossbow": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 1,
-          "Item Durability": {
-            "Maximum Durability": 100,
-            "Minimum Durability": 100
-          },
-          "Item Properties": {
-            "Weapon Attachments": {
-              "Maximum Mod Amount": 1,
-              "Minimum Mod Amount": 1,
-              "Available Attachments": {}
-            },
-            "Ammunition Settings": {
-              "Maximum Amount": 0,
-              "Minimum Amount": 0,
-              "Ammo Item Shortname": ""
-            }
           }
         },
         "shotgun.pump": {
@@ -24888,28 +23689,6 @@
           "Display Name (empty = none)": "",
           "Item Minimum": 10,
           "Item Maximum": 10
-        },
-        "icepick.salvaged": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 1,
-          "Item Durability": {
-            "Maximum Durability": 100,
-            "Minimum Durability": 100
-          }
-        },
-        "salvaged.cleaver": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 1,
-          "Item Durability": {
-            "Maximum Durability": 100,
-            "Minimum Durability": 100
-          }
         },
         "ammo.shotgun.fire": {
           "Allow Duplicates": true,
@@ -25160,17 +23939,6 @@
           "Item Minimum": 6,
           "Item Maximum": 6
         },
-        "axe.salvaged": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 1,
-          "Item Durability": {
-            "Maximum Durability": 100,
-            "Minimum Durability": 100
-          }
-        },
         "flamethrower": {
           "Allow Duplicates": true,
           "Skin ID (0 = default)": 0,
@@ -25198,29 +23966,6 @@
           "Item Durability": {
             "Maximum Durability": 100,
             "Minimum Durability": 100
-          }
-        },
-        "minicrossbow": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 1,
-          "Item Durability": {
-            "Maximum Durability": 100,
-            "Minimum Durability": 100
-          },
-          "Item Properties": {
-            "Weapon Attachments": {
-              "Maximum Mod Amount": 1,
-              "Minimum Mod Amount": 1,
-              "Available Attachments": {}
-            },
-            "Ammunition Settings": {
-              "Maximum Amount": 0,
-              "Minimum Amount": 0,
-              "Ammo Item Shortname": ""
-            }
           }
         },
         "shotgun.pump": {
@@ -25503,28 +24248,6 @@
           "Display Name (empty = none)": "",
           "Item Minimum": 10,
           "Item Maximum": 10
-        },
-        "icepick.salvaged": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 1,
-          "Item Durability": {
-            "Maximum Durability": 100,
-            "Minimum Durability": 100
-          }
-        },
-        "salvaged.cleaver": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 1,
-          "Item Durability": {
-            "Maximum Durability": 100,
-            "Minimum Durability": 100
-          }
         },
         "ammo.shotgun.fire": {
           "Allow Duplicates": true,
@@ -25775,17 +24498,6 @@
           "Item Minimum": 6,
           "Item Maximum": 6
         },
-        "axe.salvaged": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 1,
-          "Item Durability": {
-            "Maximum Durability": 100,
-            "Minimum Durability": 100
-          }
-        },
         "flamethrower": {
           "Allow Duplicates": true,
           "Skin ID (0 = default)": 0,
@@ -25813,29 +24525,6 @@
           "Item Durability": {
             "Maximum Durability": 100,
             "Minimum Durability": 100
-          }
-        },
-        "minicrossbow": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 1,
-          "Item Durability": {
-            "Maximum Durability": 100,
-            "Minimum Durability": 100
-          },
-          "Item Properties": {
-            "Weapon Attachments": {
-              "Maximum Mod Amount": 1,
-              "Minimum Mod Amount": 1,
-              "Available Attachments": {}
-            },
-            "Ammunition Settings": {
-              "Maximum Amount": 0,
-              "Minimum Amount": 0,
-              "Ammo Item Shortname": ""
-            }
           }
         },
         "shotgun.pump": {
@@ -26118,28 +24807,6 @@
           "Display Name (empty = none)": "",
           "Item Minimum": 10,
           "Item Maximum": 10
-        },
-        "icepick.salvaged": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 1,
-          "Item Durability": {
-            "Maximum Durability": 100,
-            "Minimum Durability": 100
-          }
-        },
-        "salvaged.cleaver": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 1,
-          "Item Durability": {
-            "Maximum Durability": 100,
-            "Minimum Durability": 100
-          }
         },
         "ammo.shotgun.fire": {
           "Allow Duplicates": true,
@@ -29102,6 +27769,20 @@
             "Minimum Durability": 100
           }
         },
+        "pants": {
+          "Allow Duplicates": true,
+          "Skin ID (0 = default)": 0,
+          "Display Name (empty = none)": "",
+          "Item Minimum": 1,
+          "Item Maximum": 1
+        },
+        "hoodie": {
+          "Allow Duplicates": true,
+          "Skin ID (0 = default)": 0,
+          "Display Name (empty = none)": "",
+          "Item Minimum": 1,
+          "Item Maximum": 1
+        },
         "jacket": {
           "Allow Duplicates": true,
           "Skin ID (0 = default)": 0,
@@ -29232,6 +27913,13 @@
             "Minimum Durability": 100
           }
         },
+        "shoes.boots": {
+          "Allow Duplicates": true,
+          "Skin ID (0 = default)": 0,
+          "Display Name (empty = none)": "",
+          "Item Minimum": 1,
+          "Item Maximum": 1
+        },
         "bow.compound": {
           "Allow Duplicates": true,
           "Skin ID (0 = default)": 0,
@@ -29259,6 +27947,20 @@
             "Maximum Durability": 100,
             "Minimum Durability": 100
           }
+        },
+        "roadsign.kilt": {
+          "Allow Duplicates": true,
+          "Skin ID (0 = default)": 0,
+          "Display Name (empty = none)": "",
+          "Item Minimum": 1,
+          "Item Maximum": 1
+        },
+        "smallbackpack": {
+          "Allow Duplicates": true,
+          "Skin ID (0 = default)": 0,
+          "Display Name (empty = none)": "",
+          "Item Minimum": 1,
+          "Item Maximum": 1
         },
         "salvaged.sword": {
           "Allow Duplicates": true,
@@ -29324,6 +28026,27 @@
             }
           }
         },
+        "roadsign.gloves": {
+          "Allow Duplicates": true,
+          "Skin ID (0 = default)": 0,
+          "Display Name (empty = none)": "",
+          "Item Minimum": 1,
+          "Item Maximum": 1
+        },
+        "roadsign.jacket": {
+          "Allow Duplicates": true,
+          "Skin ID (0 = default)": 0,
+          "Display Name (empty = none)": "",
+          "Item Minimum": 1,
+          "Item Maximum": 1
+        },
+        "coffeecan.helmet": {
+          "Allow Duplicates": true,
+          "Skin ID (0 = default)": 0,
+          "Display Name (empty = none)": "",
+          "Item Minimum": 1,
+          "Item Maximum": 1
+        },
         "salvaged.cleaver": {
           "Allow Duplicates": true,
           "Skin ID (0 = default)": 0,
@@ -29354,62 +28077,6 @@
           "Item Maximum": 1
         },
         "weapon.mod.flashlight": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 1
-        },
-        "coffeecan.helmet": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 1
-        },
-        "hoodie": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 1
-        },
-        "pants": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 1
-        },
-        "roadsign.gloves": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 1
-        },
-        "roadsign.jacket": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 1
-        },
-        "smallbackpack": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 1
-        },
-        "roadsign.kilt": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 1
-        },
-        "shoes.boots": {
           "Allow Duplicates": true,
           "Skin ID (0 = default)": 0,
           "Display Name (empty = none)": "",
@@ -30796,6 +29463,20 @@
             "Minimum Durability": 100
           }
         },
+        "pants": {
+          "Allow Duplicates": true,
+          "Skin ID (0 = default)": 0,
+          "Display Name (empty = none)": "",
+          "Item Minimum": 1,
+          "Item Maximum": 1
+        },
+        "hoodie": {
+          "Allow Duplicates": true,
+          "Skin ID (0 = default)": 0,
+          "Display Name (empty = none)": "",
+          "Item Minimum": 1,
+          "Item Maximum": 1
+        },
         "jacket": {
           "Allow Duplicates": true,
           "Skin ID (0 = default)": 0,
@@ -30926,6 +29607,13 @@
             "Minimum Durability": 100
           }
         },
+        "shoes.boots": {
+          "Allow Duplicates": true,
+          "Skin ID (0 = default)": 0,
+          "Display Name (empty = none)": "",
+          "Item Minimum": 1,
+          "Item Maximum": 1
+        },
         "bow.compound": {
           "Allow Duplicates": true,
           "Skin ID (0 = default)": 0,
@@ -30953,6 +29641,20 @@
             "Maximum Durability": 100,
             "Minimum Durability": 100
           }
+        },
+        "roadsign.kilt": {
+          "Allow Duplicates": true,
+          "Skin ID (0 = default)": 0,
+          "Display Name (empty = none)": "",
+          "Item Minimum": 1,
+          "Item Maximum": 1
+        },
+        "smallbackpack": {
+          "Allow Duplicates": true,
+          "Skin ID (0 = default)": 0,
+          "Display Name (empty = none)": "",
+          "Item Minimum": 1,
+          "Item Maximum": 1
         },
         "salvaged.sword": {
           "Allow Duplicates": true,
@@ -31018,6 +29720,27 @@
             }
           }
         },
+        "roadsign.gloves": {
+          "Allow Duplicates": true,
+          "Skin ID (0 = default)": 0,
+          "Display Name (empty = none)": "",
+          "Item Minimum": 1,
+          "Item Maximum": 1
+        },
+        "roadsign.jacket": {
+          "Allow Duplicates": true,
+          "Skin ID (0 = default)": 0,
+          "Display Name (empty = none)": "",
+          "Item Minimum": 1,
+          "Item Maximum": 1
+        },
+        "coffeecan.helmet": {
+          "Allow Duplicates": true,
+          "Skin ID (0 = default)": 0,
+          "Display Name (empty = none)": "",
+          "Item Minimum": 1,
+          "Item Maximum": 1
+        },
         "salvaged.cleaver": {
           "Allow Duplicates": true,
           "Skin ID (0 = default)": 0,
@@ -31048,62 +29771,6 @@
           "Item Maximum": 1
         },
         "weapon.mod.flashlight": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 1
-        },
-        "coffeecan.helmet": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 1
-        },
-        "hoodie": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 1
-        },
-        "pants": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 1
-        },
-        "roadsign.gloves": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 1
-        },
-        "roadsign.jacket": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 1
-        },
-        "smallbackpack": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 1
-        },
-        "roadsign.kilt": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 1
-        },
-        "shoes.boots": {
           "Allow Duplicates": true,
           "Skin ID (0 = default)": 0,
           "Display Name (empty = none)": "",
