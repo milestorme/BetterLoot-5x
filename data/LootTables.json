@@ -5,7 +5,7 @@
         "Max Blueprints": 1,
         "Maximum Scrap Amount": 5,
         "Minimum Scrap Amount": 4,
-        "Maximum Amount of Items": 2,
+        "Maximum Amount of Items": 3,
         "Minimum Amount of Items": 2
       },
       "Loot Profiles": [
@@ -110,20 +110,6 @@
           "Display Name (empty = none)": "",
           "Item Minimum": 3,
           "Item Maximum": 5
-        },
-        "basicblueprintfragment": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 1
-        },
-        "advancedblueprintfragment": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 1
         }
       },
       "Guaranteed Items": {},
@@ -134,7 +120,7 @@
         "Max Blueprints": 1,
         "Maximum Scrap Amount": 5,
         "Minimum Scrap Amount": 4,
-        "Maximum Amount of Items": 2,
+        "Maximum Amount of Items": 3,
         "Minimum Amount of Items": 2
       },
       "Loot Profiles": [],
@@ -226,20 +212,6 @@
           "Display Name (empty = none)": "",
           "Item Minimum": 3,
           "Item Maximum": 5
-        },
-        "basicblueprintfragment": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 1
-        },
-        "advancedblueprintfragment": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 1
         }
       },
       "Guaranteed Items": {},
@@ -385,27 +357,12 @@
           "Item Minimum": 1,
           "Item Maximum": 1
         },
-        "crossbow": {
+        "smgbody": {
           "Allow Duplicates": true,
           "Skin ID (0 = default)": 0,
           "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 1,
-          "Item Durability": {
-            "Maximum Durability": 100,
-            "Minimum Durability": 100
-          },
-          "Item Properties": {
-            "Weapon Attachments": {
-              "Maximum Mod Amount": 1,
-              "Minimum Mod Amount": 1,
-              "Available Attachments": {}
-            },
-            "Ammunition Settings": {
-              "Spawn Probability": 0,
-              "Ammo Item Shortname": ""
-            }
-          }
+          "Item Minimum": 2,
+          "Item Maximum": 4
         },
         "semibody": {
           "Allow Duplicates": true,
@@ -441,20 +398,6 @@
           "Display Name (empty = none)": "",
           "Item Minimum": 8,
           "Item Maximum": 12
-        },
-        "arrow.bone": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 5,
-          "Item Maximum": 10
-        },
-        "arrow.fire": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 5,
-          "Item Maximum": 5
         },
         "metalblade": {
           "Allow Duplicates": true,
@@ -566,13 +509,6 @@
             "Maximum Durability": 100,
             "Minimum Durability": 100
           }
-        },
-        "smgbody": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 2,
-          "Item Maximum": 4
         }
       },
       "Guaranteed Items": {},
@@ -829,6 +765,13 @@
             }
           }
         },
+        "cctv.camera": {
+          "Allow Duplicates": true,
+          "Skin ID (0 = default)": 0,
+          "Display Name (empty = none)": "",
+          "Item Minimum": 5,
+          "Item Maximum": 5
+        },
         "flamethrower": {
           "Allow Duplicates": true,
           "Skin ID (0 = default)": 0,
@@ -988,13 +931,6 @@
             "Maximum Durability": 100,
             "Minimum Durability": 100
           }
-        },
-        "cctv.camera": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 5,
-          "Item Maximum": 5
         }
       },
       "Guaranteed Items": {},
@@ -1571,6 +1507,34 @@
             }
           }
         },
+        "metalpipe": {
+          "Allow Duplicates": true,
+          "Skin ID (0 = default)": 0,
+          "Display Name (empty = none)": "",
+          "Item Minimum": 5,
+          "Item Maximum": 5
+        },
+        "roadsigns": {
+          "Allow Duplicates": true,
+          "Skin ID (0 = default)": 0,
+          "Display Name (empty = none)": "",
+          "Item Minimum": 5,
+          "Item Maximum": 5
+        },
+        "sewingkit": {
+          "Allow Duplicates": true,
+          "Skin ID (0 = default)": 0,
+          "Display Name (empty = none)": "",
+          "Item Minimum": 5,
+          "Item Maximum": 5
+        },
+        "techparts": {
+          "Allow Duplicates": true,
+          "Skin ID (0 = default)": 0,
+          "Display Name (empty = none)": "",
+          "Item Minimum": 2,
+          "Item Maximum": 4
+        },
         "trap.bear": {
           "Allow Duplicates": true,
           "Skin ID (0 = default)": 0,
@@ -1592,6 +1556,27 @@
             "Maximum Durability": 100,
             "Minimum Durability": 100
           }
+        },
+        "metalblade": {
+          "Allow Duplicates": true,
+          "Skin ID (0 = default)": 0,
+          "Display Name (empty = none)": "",
+          "Item Minimum": 5,
+          "Item Maximum": 5
+        },
+        "sheetmetal": {
+          "Allow Duplicates": true,
+          "Skin ID (0 = default)": 0,
+          "Display Name (empty = none)": "",
+          "Item Minimum": 5,
+          "Item Maximum": 5
+        },
+        "cctv.camera": {
+          "Allow Duplicates": true,
+          "Skin ID (0 = default)": 0,
+          "Display Name (empty = none)": "",
+          "Item Minimum": 5,
+          "Item Maximum": 5
         },
         "flameturret": {
           "Allow Duplicates": true,
@@ -1617,6 +1602,13 @@
           "Display Name (empty = none)": "",
           "Item Minimum": 1,
           "Item Maximum": 1
+        },
+        "metalspring": {
+          "Allow Duplicates": true,
+          "Skin ID (0 = default)": 0,
+          "Display Name (empty = none)": "",
+          "Item Minimum": 5,
+          "Item Maximum": 5
         },
         "riot.helmet": {
           "Allow Duplicates": true,
@@ -1778,12 +1770,19 @@
           "Allow Duplicates": true,
           "Skin ID (0 = default)": 0,
           "Display Name (empty = none)": "",
-          "Item Minimum": 2,
+          "Item Minimum": 3,
           "Item Maximum": 3,
           "Item Durability": {
             "Maximum Durability": 100,
             "Minimum Durability": 100
           }
+        },
+        "targeting.computer": {
+          "Allow Duplicates": true,
+          "Skin ID (0 = default)": 0,
+          "Display Name (empty = none)": "",
+          "Item Minimum": 5,
+          "Item Maximum": 5
         },
         "water.catcher.small": {
           "Allow Duplicates": true,
@@ -1798,69 +1797,6 @@
           "Display Name (empty = none)": "",
           "Item Minimum": 1,
           "Item Maximum": 1
-        },
-        "targeting.computer": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 5,
-          "Item Maximum": 5
-        },
-        "cctv.camera": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 5,
-          "Item Maximum": 5
-        },
-        "metalpipe": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 5,
-          "Item Maximum": 5
-        },
-        "metalspring": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 5,
-          "Item Maximum": 5
-        },
-        "metalblade": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 5,
-          "Item Maximum": 5
-        },
-        "roadsigns": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 5,
-          "Item Maximum": 5
-        },
-        "sewingkit": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 5,
-          "Item Maximum": 5
-        },
-        "sheetmetal": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 5,
-          "Item Maximum": 5
-        },
-        "techparts": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 4
         }
       },
       "Guaranteed Items": {},
@@ -2031,27 +1967,12 @@
             "Minimum Durability": 100
           }
         },
-        "crossbow": {
+        "metalpipe": {
           "Allow Duplicates": true,
           "Skin ID (0 = default)": 0,
           "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 1,
-          "Item Durability": {
-            "Maximum Durability": 100,
-            "Minimum Durability": 100
-          },
-          "Item Properties": {
-            "Weapon Attachments": {
-              "Maximum Mod Amount": 1,
-              "Minimum Mod Amount": 1,
-              "Available Attachments": {}
-            },
-            "Ammunition Settings": {
-              "Spawn Probability": 0,
-              "Ammo Item Shortname": ""
-            }
-          }
+          "Item Minimum": 5,
+          "Item Maximum": 5
         },
         "ammo.rifle": {
           "Allow Duplicates": true,
@@ -2059,20 +1980,6 @@
           "Display Name (empty = none)": "",
           "Item Minimum": 10,
           "Item Maximum": 16
-        },
-        "arrow.bone": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 5,
-          "Item Maximum": 8
-        },
-        "arrow.fire": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 3,
-          "Item Maximum": 6
         },
         "jackhammer": {
           "Allow Duplicates": true,
@@ -2092,22 +1999,12 @@
           "Item Minimum": 12,
           "Item Maximum": 18
         },
-        "bow.hunting": {
+        "cctv.camera": {
           "Allow Duplicates": true,
           "Skin ID (0 = default)": 0,
           "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 1,
-          "Item Durability": {
-            "Maximum Durability": 100,
-            "Minimum Durability": 100
-          },
-          "Item Properties": {
-            "Ammunition Settings": {
-              "Spawn Probability": 0,
-              "Ammo Item Shortname": ""
-            }
-          }
+          "Item Minimum": 5,
+          "Item Maximum": 5
         },
         "diving.fins": {
           "Allow Duplicates": true,
@@ -2255,21 +2152,7 @@
           "Item Minimum": 4,
           "Item Maximum": 6
         },
-        "cctv.camera": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 5,
-          "Item Maximum": 5
-        },
         "targeting.computer": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 5,
-          "Item Maximum": 5
-        },
-        "metalpipe": {
           "Allow Duplicates": true,
           "Skin ID (0 = default)": 0,
           "Display Name (empty = none)": "",
@@ -4437,7 +4320,7 @@
         "Max Blueprints": 1,
         "Maximum Scrap Amount": 5,
         "Minimum Scrap Amount": 4,
-        "Maximum Amount of Items": 2,
+        "Maximum Amount of Items": 3,
         "Minimum Amount of Items": 2
       },
       "Loot Profiles": [
@@ -4559,7 +4442,7 @@
         "Max Blueprints": 1,
         "Maximum Scrap Amount": 5,
         "Minimum Scrap Amount": 4,
-        "Maximum Amount of Items": 2,
+        "Maximum Amount of Items": 3,
         "Minimum Amount of Items": 2
       },
       "Loot Profiles": [],
@@ -5031,6 +4914,13 @@
             }
           }
         },
+        "cctv.camera": {
+          "Allow Duplicates": true,
+          "Skin ID (0 = default)": 0,
+          "Display Name (empty = none)": "",
+          "Item Minimum": 5,
+          "Item Maximum": 5
+        },
         "flamethrower": {
           "Allow Duplicates": true,
           "Skin ID (0 = default)": 0,
@@ -5190,13 +5080,6 @@
             "Maximum Durability": 100,
             "Minimum Durability": 100
           }
-        },
-        "cctv.camera": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 5,
-          "Item Maximum": 5
         }
       },
       "Guaranteed Items": {},
@@ -5927,6 +5810,34 @@
             }
           }
         },
+        "metalpipe": {
+          "Allow Duplicates": true,
+          "Skin ID (0 = default)": 0,
+          "Display Name (empty = none)": "",
+          "Item Minimum": 5,
+          "Item Maximum": 5
+        },
+        "roadsigns": {
+          "Allow Duplicates": true,
+          "Skin ID (0 = default)": 0,
+          "Display Name (empty = none)": "",
+          "Item Minimum": 5,
+          "Item Maximum": 5
+        },
+        "sewingkit": {
+          "Allow Duplicates": true,
+          "Skin ID (0 = default)": 0,
+          "Display Name (empty = none)": "",
+          "Item Minimum": 5,
+          "Item Maximum": 5
+        },
+        "techparts": {
+          "Allow Duplicates": true,
+          "Skin ID (0 = default)": 0,
+          "Display Name (empty = none)": "",
+          "Item Minimum": 5,
+          "Item Maximum": 5
+        },
         "trap.bear": {
           "Allow Duplicates": true,
           "Skin ID (0 = default)": 0,
@@ -5948,6 +5859,27 @@
             "Maximum Durability": 100,
             "Minimum Durability": 100
           }
+        },
+        "metalblade": {
+          "Allow Duplicates": true,
+          "Skin ID (0 = default)": 0,
+          "Display Name (empty = none)": "",
+          "Item Minimum": 5,
+          "Item Maximum": 5
+        },
+        "sheetmetal": {
+          "Allow Duplicates": true,
+          "Skin ID (0 = default)": 0,
+          "Display Name (empty = none)": "",
+          "Item Minimum": 5,
+          "Item Maximum": 5
+        },
+        "cctv.camera": {
+          "Allow Duplicates": true,
+          "Skin ID (0 = default)": 0,
+          "Display Name (empty = none)": "",
+          "Item Minimum": 5,
+          "Item Maximum": 5
         },
         "flameturret": {
           "Allow Duplicates": true,
@@ -5973,6 +5905,13 @@
           "Display Name (empty = none)": "",
           "Item Minimum": 1,
           "Item Maximum": 1
+        },
+        "metalspring": {
+          "Allow Duplicates": true,
+          "Skin ID (0 = default)": 0,
+          "Display Name (empty = none)": "",
+          "Item Minimum": 5,
+          "Item Maximum": 5
         },
         "riot.helmet": {
           "Allow Duplicates": true,
@@ -6141,6 +6080,13 @@
             "Minimum Durability": 100
           }
         },
+        "targeting.computer": {
+          "Allow Duplicates": true,
+          "Skin ID (0 = default)": 0,
+          "Display Name (empty = none)": "",
+          "Item Minimum": 5,
+          "Item Maximum": 5
+        },
         "water.catcher.small": {
           "Allow Duplicates": true,
           "Skin ID (0 = default)": 0,
@@ -6154,69 +6100,6 @@
           "Display Name (empty = none)": "",
           "Item Minimum": 1,
           "Item Maximum": 1
-        },
-        "targeting.computer": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 5,
-          "Item Maximum": 5
-        },
-        "cctv.camera": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 5,
-          "Item Maximum": 5
-        },
-        "metalpipe": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 5,
-          "Item Maximum": 5
-        },
-        "metalspring": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 5,
-          "Item Maximum": 5
-        },
-        "metalblade": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 5,
-          "Item Maximum": 5
-        },
-        "roadsigns": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 5,
-          "Item Maximum": 5
-        },
-        "sewingkit": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 5,
-          "Item Maximum": 5
-        },
-        "sheetmetal": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 5,
-          "Item Maximum": 5
-        },
-        "techparts": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 5,
-          "Item Maximum": 5
         }
       },
       "Guaranteed Items": {},
@@ -6268,27 +6151,12 @@
             "Minimum Durability": 100
           }
         },
-        "crossbow": {
+        "metalpipe": {
           "Allow Duplicates": true,
           "Skin ID (0 = default)": 0,
           "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 1,
-          "Item Durability": {
-            "Maximum Durability": 100,
-            "Minimum Durability": 100
-          },
-          "Item Properties": {
-            "Weapon Attachments": {
-              "Maximum Mod Amount": 1,
-              "Minimum Mod Amount": 1,
-              "Available Attachments": {}
-            },
-            "Ammunition Settings": {
-              "Spawn Probability": 0,
-              "Ammo Item Shortname": ""
-            }
-          }
+          "Item Minimum": 5,
+          "Item Maximum": 5
         },
         "ammo.rifle": {
           "Allow Duplicates": true,
@@ -6296,20 +6164,6 @@
           "Display Name (empty = none)": "",
           "Item Minimum": 10,
           "Item Maximum": 16
-        },
-        "arrow.bone": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 5,
-          "Item Maximum": 8
-        },
-        "arrow.fire": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 3,
-          "Item Maximum": 6
         },
         "jackhammer": {
           "Allow Duplicates": true,
@@ -6329,22 +6183,12 @@
           "Item Minimum": 12,
           "Item Maximum": 18
         },
-        "bow.hunting": {
+        "cctv.camera": {
           "Allow Duplicates": true,
           "Skin ID (0 = default)": 0,
           "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 1,
-          "Item Durability": {
-            "Maximum Durability": 100,
-            "Minimum Durability": 100
-          },
-          "Item Properties": {
-            "Ammunition Settings": {
-              "Spawn Probability": 0,
-              "Ammo Item Shortname": ""
-            }
-          }
+          "Item Minimum": 5,
+          "Item Maximum": 5
         },
         "diving.fins": {
           "Allow Duplicates": true,
@@ -6492,21 +6336,7 @@
           "Item Minimum": 4,
           "Item Maximum": 6
         },
-        "cctv.camera": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 5,
-          "Item Maximum": 5
-        },
         "targeting.computer": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 5,
-          "Item Maximum": 5
-        },
-        "metalpipe": {
           "Allow Duplicates": true,
           "Skin ID (0 = default)": 0,
           "Display Name (empty = none)": "",
@@ -7240,6 +7070,13 @@
             }
           }
         },
+        "cctv.camera": {
+          "Allow Duplicates": true,
+          "Skin ID (0 = default)": 0,
+          "Display Name (empty = none)": "",
+          "Item Minimum": 6,
+          "Item Maximum": 6
+        },
         "rifle.lr300": {
           "Allow Duplicates": true,
           "Skin ID (0 = default)": 0,
@@ -7387,12 +7224,26 @@
             }
           }
         },
+        "targeting.computer": {
+          "Allow Duplicates": true,
+          "Skin ID (0 = default)": 0,
+          "Display Name (empty = none)": "",
+          "Item Minimum": 6,
+          "Item Maximum": 6
+        },
         "ammo.rifle.explosive": {
           "Allow Duplicates": true,
           "Skin ID (0 = default)": 0,
           "Display Name (empty = none)": "",
           "Item Minimum": 25,
           "Item Maximum": 74
+        },
+        "ammo.grenadelauncher.he": {
+          "Allow Duplicates": true,
+          "Skin ID (0 = default)": 0,
+          "Display Name (empty = none)": "",
+          "Item Minimum": 10,
+          "Item Maximum": 15
         },
         "multiplegrenadelauncher": {
           "Allow Duplicates": true,
@@ -7408,20 +7259,6 @@
           "Item Minimum": 1,
           "Item Maximum": 2
         },
-        "ammo.grenadelauncher.buckshot": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 10,
-          "Item Maximum": 15
-        },
-        "ammo.grenadelauncher.he": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 10,
-          "Item Maximum": 15
-        },
         "ammo.grenadelauncher.smoke": {
           "Allow Duplicates": true,
           "Skin ID (0 = default)": 0,
@@ -7429,19 +7266,12 @@
           "Item Minimum": 10,
           "Item Maximum": 15
         },
-        "targeting.computer": {
+        "ammo.grenadelauncher.buckshot": {
           "Allow Duplicates": true,
           "Skin ID (0 = default)": 0,
           "Display Name (empty = none)": "",
-          "Item Minimum": 6,
-          "Item Maximum": 6
-        },
-        "cctv.camera": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 6,
-          "Item Maximum": 6
+          "Item Minimum": 10,
+          "Item Maximum": 15
         }
       },
       "Guaranteed Items": {},
@@ -8534,6 +8364,13 @@
             }
           }
         },
+        "ammo.rocket.sam": {
+          "Allow Duplicates": true,
+          "Skin ID (0 = default)": 0,
+          "Display Name (empty = none)": "",
+          "Item Minimum": 5,
+          "Item Maximum": 15
+        },
         "rifle.ak.jungle": {
           "Allow Duplicates": true,
           "Skin ID (0 = default)": 0,
@@ -8599,6 +8436,13 @@
           "Item Minimum": 1,
           "Item Maximum": 1
         },
+        "multiplegrenadelauncher": {
+          "Allow Duplicates": true,
+          "Skin ID (0 = default)": 0,
+          "Display Name (empty = none)": "",
+          "Item Minimum": 1,
+          "Item Maximum": 1
+        },
         "advancedblueprintfragment": {
           "Allow Duplicates": true,
           "Skin ID (0 = default)": 0,
@@ -8613,13 +8457,6 @@
           "Item Minimum": 1,
           "Item Maximum": 1
         },
-        "ammo.rocket.sam": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 5,
-          "Item Maximum": 15
-        },
         "ammo.grenadelauncher.smoke": {
           "Allow Duplicates": true,
           "Skin ID (0 = default)": 0,
@@ -8633,13 +8470,6 @@
           "Display Name (empty = none)": "",
           "Item Minimum": 15,
           "Item Maximum": 20
-        },
-        "multiplegrenadelauncher": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 1
         }
       },
       "Guaranteed Items": {},
@@ -8650,11 +8480,18 @@
         "Max Blueprints": 1,
         "Maximum Scrap Amount": 120,
         "Minimum Scrap Amount": 90,
-        "Maximum Amount of Items": 16,
+        "Maximum Amount of Items": 14,
         "Minimum Amount of Items": 12
       },
       "Loot Profiles": [],
       "Ungrouped Items": {
+        "samsite": {
+          "Allow Duplicates": true,
+          "Skin ID (0 = default)": 0,
+          "Display Name (empty = none)": "",
+          "Item Minimum": 1,
+          "Item Maximum": 1
+        },
         "smg.mp5": {
           "Allow Duplicates": true,
           "Skin ID (0 = default)": 0,
@@ -8861,22 +8698,57 @@
           "Allow Duplicates": true,
           "Skin ID (0 = default)": 0,
           "Display Name (empty = none)": "",
-          "Item Minimum": 8,
+          "Item Minimum": 5,
+          "Item Maximum": 7
+        },
+        "ammo.rocket.sam": {
+          "Allow Duplicates": true,
+          "Skin ID (0 = default)": 0,
+          "Display Name (empty = none)": "",
+          "Item Minimum": 10,
           "Item Maximum": 12
         },
         "explosive.timed": {
           "Allow Duplicates": true,
           "Skin ID (0 = default)": 0,
           "Display Name (empty = none)": "",
-          "Item Minimum": 5,
+          "Item Minimum": 4,
           "Item Maximum": 6
         },
         "ammo.rocket.fire": {
           "Allow Duplicates": true,
           "Skin ID (0 = default)": 0,
           "Display Name (empty = none)": "",
-          "Item Minimum": 10,
-          "Item Maximum": 15
+          "Item Minimum": 5,
+          "Item Maximum": 7
+        },
+        "ammo.rocket.mlrs": {
+          "Allow Duplicates": true,
+          "Skin ID (0 = default)": 0,
+          "Display Name (empty = none)": "",
+          "Item Minimum": 5,
+          "Item Maximum": 7
+        },
+        "ammo.rocket.basic": {
+          "Allow Duplicates": true,
+          "Skin ID (0 = default)": 0,
+          "Display Name (empty = none)": "",
+          "Item Minimum": 5,
+          "Item Maximum": 7
+        },
+        "aiming.module.mlrs": {
+          "Allow Duplicates": true,
+          "Skin ID (0 = default)": 0,
+          "Display Name (empty = none)": "",
+          "Item Minimum": 3,
+          "Item Maximum": 5
+        },
+        "ammo.rocket.seeker": {
+          "Allow Duplicates": true,
+          "Skin ID (0 = default)": 0,
+          "Display Name (empty = none)": "",
+          "Item Minimum": 5,
+          "Item Maximum": 7
         },
         "pistol.prototype17": {
           "Allow Duplicates": true,
@@ -8922,26 +8794,12 @@
           "Item Minimum": 50,
           "Item Maximum": 75
         },
-        "ammo.rocket.mlrs": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 1
-        },
-        "ammo.rocket.basic": {
+        "ammo.grenadelauncher.he": {
           "Allow Duplicates": true,
           "Skin ID (0 = default)": 0,
           "Display Name (empty = none)": "",
           "Item Minimum": 10,
-          "Item Maximum": 15
-        },
-        "ammo.rocket.seeker": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 10,
-          "Item Maximum": 15
+          "Item Maximum": 12
         },
         "multiplegrenadelauncher": {
           "Allow Duplicates": true,
@@ -8955,39 +8813,32 @@
           "Skin ID (0 = default)": 0,
           "Display Name (empty = none)": "",
           "Item Minimum": 10,
-          "Item Maximum": 25
+          "Item Maximum": 12
         },
-        "ammo.grenadelauncher.he": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 10,
-          "Item Maximum": 25
-        },
-        "samsite": {
+        "supply.signal": {
           "Allow Duplicates": true,
           "Skin ID (0 = default)": 0,
           "Display Name (empty = none)": "",
           "Item Minimum": 1,
           "Item Maximum": 1
         },
-        "ammo.rocket.sam": {
+        "metal.facemask.icemask": {
           "Allow Duplicates": true,
           "Skin ID (0 = default)": 0,
           "Display Name (empty = none)": "",
-          "Item Minimum": 15,
-          "Item Maximum": 26
+          "Item Minimum": 1,
+          "Item Maximum": 1
         },
-        "aiming.module.mlrs": {
+        "metal.plate.torso.icevest": {
           "Allow Duplicates": true,
           "Skin ID (0 = default)": 0,
           "Display Name (empty = none)": "",
-          "Item Minimum": 5,
-          "Item Maximum": 5
+          "Item Minimum": 1,
+          "Item Maximum": 1
         }
       },
       "Guaranteed Items": {},
-      "Is Prefab Enabled?": false
+      "Is Prefab Enabled?": true
     },
     "assets/prefabs/npc/patrol helicopter/heli_crate.prefab": {
       "Item Settings": {
@@ -9023,6 +8874,13 @@
           }
         },
         "minigun": {
+          "Allow Duplicates": true,
+          "Skin ID (0 = default)": 0,
+          "Display Name (empty = none)": "",
+          "Item Minimum": 1,
+          "Item Maximum": 1
+        },
+        "samsite": {
           "Allow Duplicates": true,
           "Skin ID (0 = default)": 0,
           "Display Name (empty = none)": "",
@@ -9211,6 +9069,13 @@
           "Item Minimum": 30,
           "Item Maximum": 60
         },
+        "rifle.ak.ice": {
+          "Allow Duplicates": true,
+          "Skin ID (0 = default)": 0,
+          "Display Name (empty = none)": "",
+          "Item Minimum": 1,
+          "Item Maximum": 1
+        },
         "ammo.rifle.hv": {
           "Allow Duplicates": true,
           "Skin ID (0 = default)": 0,
@@ -9248,7 +9113,21 @@
             }
           }
         },
+        "ammo.rocket.sam": {
+          "Allow Duplicates": true,
+          "Skin ID (0 = default)": 0,
+          "Display Name (empty = none)": "",
+          "Item Minimum": 10,
+          "Item Maximum": 20
+        },
         "explosive.timed": {
+          "Allow Duplicates": true,
+          "Skin ID (0 = default)": 0,
+          "Display Name (empty = none)": "",
+          "Item Minimum": 4,
+          "Item Maximum": 6
+        },
+        "ammo.rocket.mlrs": {
           "Allow Duplicates": true,
           "Skin ID (0 = default)": 0,
           "Display Name (empty = none)": "",
@@ -9261,6 +9140,27 @@
           "Display Name (empty = none)": "",
           "Item Minimum": 10,
           "Item Maximum": 12
+        },
+        "rifle.lr300.space": {
+          "Allow Duplicates": true,
+          "Skin ID (0 = default)": 0,
+          "Display Name (empty = none)": "",
+          "Item Minimum": 1,
+          "Item Maximum": 1
+        },
+        "aiming.module.mlrs": {
+          "Allow Duplicates": true,
+          "Skin ID (0 = default)": 0,
+          "Display Name (empty = none)": "",
+          "Item Minimum": 5,
+          "Item Maximum": 5
+        },
+        "ammo.rocket.seeker": {
+          "Allow Duplicates": true,
+          "Skin ID (0 = default)": 0,
+          "Display Name (empty = none)": "",
+          "Item Minimum": 5,
+          "Item Maximum": 15
         },
         "pistol.prototype17": {
           "Allow Duplicates": true,
@@ -9317,26 +9217,12 @@
           "Item Minimum": 1,
           "Item Maximum": 1
         },
-        "ammo.rocket.mlrs": {
+        "metal.facemask.icemask": {
           "Allow Duplicates": true,
           "Skin ID (0 = default)": 0,
           "Display Name (empty = none)": "",
-          "Item Minimum": 5,
-          "Item Maximum": 10
-        },
-        "ammo.rocket.seeker": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 5,
-          "Item Maximum": 15
-        },
-        "ammo.grenadelauncher.smoke": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 10,
-          "Item Maximum": 19
+          "Item Minimum": 1,
+          "Item Maximum": 1
         },
         "ammo.grenadelauncher.he": {
           "Allow Duplicates": true,
@@ -9352,34 +9238,6 @@
           "Item Minimum": 1,
           "Item Maximum": 1
         },
-        "samsite": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 1
-        },
-        "ammo.rocket.sam": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 10,
-          "Item Maximum": 20
-        },
-        "rifle.ak.ice": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 1
-        },
-        "rifle.lr300.space": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 1
-        },
         "metal.plate.torso.icevest": {
           "Allow Duplicates": true,
           "Skin ID (0 = default)": 0,
@@ -9387,23 +9245,23 @@
           "Item Minimum": 1,
           "Item Maximum": 1
         },
-        "metal.facemask.icemask": {
+        "ammo.grenadelauncher.smoke": {
+          "Allow Duplicates": true,
+          "Skin ID (0 = default)": 0,
+          "Display Name (empty = none)": "",
+          "Item Minimum": 10,
+          "Item Maximum": 19
+        },
+        "supply.signal": {
           "Allow Duplicates": true,
           "Skin ID (0 = default)": 0,
           "Display Name (empty = none)": "",
           "Item Minimum": 1,
           "Item Maximum": 1
-        },
-        "aiming.module.mlrs": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 5,
-          "Item Maximum": 5
         }
       },
       "Guaranteed Items": {},
-      "Is Prefab Enabled?": false
+      "Is Prefab Enabled?": true
     },
     "assets/rust.ai/agents/npcplayer/humannpc/scientist/scientistnpc_arena.prefab": {
       "Item Settings": {
@@ -10404,8 +10262,8 @@
         "Max Blueprints": 1,
         "Maximum Scrap Amount": 0,
         "Minimum Scrap Amount": 0,
-        "Maximum Amount of Items": 12,
-        "Minimum Amount of Items": 12
+        "Maximum Amount of Items": 6,
+        "Minimum Amount of Items": 6
       },
       "Loot Profiles": [],
       "Ungrouped Items": {
@@ -26017,6 +25875,13 @@
             }
           }
         },
+        "cctv.camera": {
+          "Allow Duplicates": true,
+          "Skin ID (0 = default)": 0,
+          "Display Name (empty = none)": "",
+          "Item Minimum": 6,
+          "Item Maximum": 6
+        },
         "rifle.lr300": {
           "Allow Duplicates": true,
           "Skin ID (0 = default)": 0,
@@ -26164,12 +26029,26 @@
             }
           }
         },
+        "targeting.computer": {
+          "Allow Duplicates": true,
+          "Skin ID (0 = default)": 0,
+          "Display Name (empty = none)": "",
+          "Item Minimum": 6,
+          "Item Maximum": 6
+        },
         "ammo.rifle.explosive": {
           "Allow Duplicates": true,
           "Skin ID (0 = default)": 0,
           "Display Name (empty = none)": "",
           "Item Minimum": 25,
           "Item Maximum": 74
+        },
+        "ammo.grenadelauncher.he": {
+          "Allow Duplicates": true,
+          "Skin ID (0 = default)": 0,
+          "Display Name (empty = none)": "",
+          "Item Minimum": 10,
+          "Item Maximum": 15
         },
         "multiplegrenadelauncher": {
           "Allow Duplicates": true,
@@ -26185,20 +26064,6 @@
           "Item Minimum": 1,
           "Item Maximum": 2
         },
-        "ammo.grenadelauncher.buckshot": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 10,
-          "Item Maximum": 15
-        },
-        "ammo.grenadelauncher.he": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 10,
-          "Item Maximum": 15
-        },
         "ammo.grenadelauncher.smoke": {
           "Allow Duplicates": true,
           "Skin ID (0 = default)": 0,
@@ -26206,19 +26071,12 @@
           "Item Minimum": 10,
           "Item Maximum": 15
         },
-        "targeting.computer": {
+        "ammo.grenadelauncher.buckshot": {
           "Allow Duplicates": true,
           "Skin ID (0 = default)": 0,
           "Display Name (empty = none)": "",
-          "Item Minimum": 6,
-          "Item Maximum": 6
-        },
-        "cctv.camera": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 6,
-          "Item Maximum": 6
+          "Item Minimum": 10,
+          "Item Maximum": 15
         }
       },
       "Guaranteed Items": {},
@@ -28912,7 +28770,7 @@
           "Skin ID (0 = default)": 0,
           "Display Name (empty = none)": "",
           "Item Minimum": 2,
-          "Item Maximum": 4,
+          "Item Maximum": 5,
           "Item Durability": {
             "Maximum Durability": 100,
             "Minimum Durability": 100
@@ -28953,33 +28811,18 @@
           "Item Minimum": 1,
           "Item Maximum": 1
         },
-        "crossbow": {
+        "smgbody": {
           "Allow Duplicates": true,
           "Skin ID (0 = default)": 0,
           "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 1,
-          "Item Durability": {
-            "Maximum Durability": 100,
-            "Minimum Durability": 100
-          },
-          "Item Properties": {
-            "Weapon Attachments": {
-              "Maximum Mod Amount": 1,
-              "Minimum Mod Amount": 1,
-              "Available Attachments": {}
-            },
-            "Ammunition Settings": {
-              "Spawn Probability": 0,
-              "Ammo Item Shortname": ""
-            }
-          }
+          "Item Minimum": 2,
+          "Item Maximum": 4
         },
         "semibody": {
           "Allow Duplicates": true,
           "Skin ID (0 = default)": 0,
           "Display Name (empty = none)": "",
-          "Item Minimum": 3,
+          "Item Minimum": 2,
           "Item Maximum": 5
         },
         "metalpipe": {
@@ -29001,7 +28844,7 @@
           "Skin ID (0 = default)": 0,
           "Display Name (empty = none)": "",
           "Item Minimum": 5,
-          "Item Maximum": 3
+          "Item Maximum": 5
         },
         "ammo.rifle": {
           "Allow Duplicates": true,
@@ -29009,20 +28852,6 @@
           "Display Name (empty = none)": "",
           "Item Minimum": 8,
           "Item Maximum": 12
-        },
-        "arrow.bone": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 5,
-          "Item Maximum": 10
-        },
-        "arrow.fire": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 5,
-          "Item Maximum": 5
         },
         "metalblade": {
           "Allow Duplicates": true,
@@ -29086,7 +28915,7 @@
           "Skin ID (0 = default)": 0,
           "Display Name (empty = none)": "",
           "Item Minimum": 5,
-          "Item Maximum": 3
+          "Item Maximum": 5
         },
         "ammo.shotgun": {
           "Allow Duplicates": true,
@@ -29134,13 +28963,6 @@
             "Maximum Durability": 100,
             "Minimum Durability": 100
           }
-        },
-        "smgbody": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 2,
-          "Item Maximum": 4
         }
       },
       "Guaranteed Items": {},
