@@ -1323,6 +1323,13 @@
           "Item Maximum": 1,
           "Can Convert To Blueprint": true
         },
+        "clothing.mod.armorinsert_metal": {
+          "Allow Duplicates": true,
+          "Skin ID (0 = default)": 0,
+          "Display Name (empty = none)": "",
+          "Item Minimum": 1,
+          "Item Maximum": 1
+        },
         "electric.battery.rechargable.medium": {
           "Allow Duplicates": true,
           "Skin ID (0 = default)": 0,
@@ -1334,13 +1341,6 @@
             "Minimum Durability": 100
           },
           "Can Convert To Blueprint": true
-        },
-        "clothing.mod.armorinsert_metal": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 1
         }
       },
       "Guaranteed Items": {},
@@ -1363,12 +1363,20 @@
           "Allow Duplicates": true,
           "Skin ID (0 = default)": 0,
           "Display Name (empty = none)": "",
-          "Item Minimum": 3,
+          "Item Minimum": 5,
           "Item Maximum": 5,
           "Item Durability": {
             "Maximum Durability": 100,
             "Minimum Durability": 100
           }
+        },
+        "gears": {
+          "Allow Duplicates": true,
+          "Skin ID (0 = default)": 0,
+          "Display Name (empty = none)": "",
+          "Item Minimum": 5,
+          "Item Maximum": 5,
+          "Can Convert To Blueprint": true
         },
         "pants": {
           "Allow Duplicates": true,
@@ -1410,11 +1418,18 @@
           },
           "Can Convert To Blueprint": true
         },
+        "smgbody": {
+          "Allow Duplicates": true,
+          "Skin ID (0 = default)": 0,
+          "Display Name (empty = none)": "",
+          "Item Minimum": 5,
+          "Item Maximum": 6
+        },
         "semibody": {
           "Allow Duplicates": true,
           "Skin ID (0 = default)": 0,
           "Display Name (empty = none)": "",
-          "Item Minimum": 2,
+          "Item Minimum": 5,
           "Item Maximum": 5
         },
         "metalpipe": {
@@ -1557,14 +1572,6 @@
           },
           "Can Convert To Blueprint": true
         },
-        "grenade.beancan": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 5,
-          "Item Maximum": 5,
-          "Can Convert To Blueprint": true
-        },
         "pistol.revolver": {
           "Allow Duplicates": true,
           "Skin ID (0 = default)": 0,
@@ -1613,18 +1620,6 @@
           "Item Maximum": 1,
           "Can Convert To Blueprint": true
         },
-        "salvaged.cleaver": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 1,
-          "Item Durability": {
-            "Maximum Durability": 100,
-            "Minimum Durability": 100
-          },
-          "Can Convert To Blueprint": true
-        },
         "ladder.wooden.wall": {
           "Allow Duplicates": true,
           "Skin ID (0 = default)": 0,
@@ -1644,7 +1639,7 @@
           "Item Minimum": 5,
           "Item Maximum": 5
         },
-        "weapon.mod.flashlight": {
+        "grenade.molotov": {
           "Allow Duplicates": true,
           "Skin ID (0 = default)": 0,
           "Display Name (empty = none)": "",
@@ -1652,7 +1647,31 @@
           "Item Maximum": 1,
           "Can Convert To Blueprint": true
         },
-        "gears": {
+        "pistol.semiauto": {
+          "Allow Duplicates": true,
+          "Skin ID (0 = default)": 0,
+          "Display Name (empty = none)": "",
+          "Item Minimum": 1,
+          "Item Maximum": 1,
+          "Can Convert To Blueprint": true
+        },
+        "rifle.semiauto": {
+          "Allow Duplicates": true,
+          "Skin ID (0 = default)": 0,
+          "Display Name (empty = none)": "",
+          "Item Minimum": 1,
+          "Item Maximum": 1,
+          "Can Convert To Blueprint": true
+        },
+        "smg.thompson": {
+          "Allow Duplicates": true,
+          "Skin ID (0 = default)": 0,
+          "Display Name (empty = none)": "",
+          "Item Minimum": 1,
+          "Item Maximum": 1,
+          "Can Convert To Blueprint": true
+        },
+        "explosive.satchel": {
           "Allow Duplicates": true,
           "Skin ID (0 = default)": 0,
           "Display Name (empty = none)": "",
@@ -1660,12 +1679,37 @@
           "Item Maximum": 5,
           "Can Convert To Blueprint": true
         },
-        "smgbody": {
+        "ammo.pistol": {
           "Allow Duplicates": true,
           "Skin ID (0 = default)": 0,
           "Display Name (empty = none)": "",
-          "Item Minimum": 5,
-          "Item Maximum": 7
+          "Item Minimum": 15,
+          "Item Maximum": 25,
+          "Can Convert To Blueprint": true
+        },
+        "ammo.rifle": {
+          "Allow Duplicates": true,
+          "Skin ID (0 = default)": 0,
+          "Display Name (empty = none)": "",
+          "Item Minimum": 15,
+          "Item Maximum": 26,
+          "Can Convert To Blueprint": true
+        },
+        "ammo.shotgun": {
+          "Allow Duplicates": true,
+          "Skin ID (0 = default)": 0,
+          "Display Name (empty = none)": "",
+          "Item Minimum": 6,
+          "Item Maximum": 12,
+          "Can Convert To Blueprint": true
+        },
+        "shotgun.pump": {
+          "Allow Duplicates": true,
+          "Skin ID (0 = default)": 0,
+          "Display Name (empty = none)": "",
+          "Item Minimum": 1,
+          "Item Maximum": 1,
+          "Can Convert To Blueprint": true
         }
       },
       "Guaranteed Items": {},
@@ -1812,6 +1856,14 @@
       },
       "Loot Profiles": [],
       "Ungrouped Items": {
+        "gears": {
+          "Allow Duplicates": true,
+          "Skin ID (0 = default)": 0,
+          "Display Name (empty = none)": "",
+          "Item Minimum": 5,
+          "Item Maximum": 5,
+          "Can Convert To Blueprint": true
+        },
         "chainsaw": {
           "Allow Duplicates": true,
           "Skin ID (0 = default)": 0,
@@ -1824,6 +1876,13 @@
           },
           "Can Convert To Blueprint": true
         },
+        "semibody": {
+          "Allow Duplicates": true,
+          "Skin ID (0 = default)": 0,
+          "Display Name (empty = none)": "",
+          "Item Minimum": 1,
+          "Item Maximum": 1
+        },
         "metalpipe": {
           "Allow Duplicates": true,
           "Skin ID (0 = default)": 0,
@@ -1832,12 +1891,27 @@
           "Item Maximum": 5,
           "Can Convert To Blueprint": true
         },
+        "roadsigns": {
+          "Allow Duplicates": true,
+          "Skin ID (0 = default)": 0,
+          "Display Name (empty = none)": "",
+          "Item Minimum": 5,
+          "Item Maximum": 5,
+          "Can Convert To Blueprint": true
+        },
+        "techparts": {
+          "Allow Duplicates": true,
+          "Skin ID (0 = default)": 0,
+          "Display Name (empty = none)": "",
+          "Item Minimum": 5,
+          "Item Maximum": 5
+        },
         "ammo.rifle": {
           "Allow Duplicates": true,
           "Skin ID (0 = default)": 0,
           "Display Name (empty = none)": "",
           "Item Minimum": 15,
-          "Item Maximum": 15,
+          "Item Maximum": 25,
           "Can Convert To Blueprint": true
         },
         "jackhammer": {
@@ -1851,12 +1925,27 @@
             "Minimum Durability": 100
           }
         },
+        "metalblade": {
+          "Allow Duplicates": true,
+          "Skin ID (0 = default)": 0,
+          "Display Name (empty = none)": "",
+          "Item Minimum": 5,
+          "Item Maximum": 5,
+          "Can Convert To Blueprint": true
+        },
+        "sheetmetal": {
+          "Allow Duplicates": true,
+          "Skin ID (0 = default)": 0,
+          "Display Name (empty = none)": "",
+          "Item Minimum": 5,
+          "Item Maximum": 5
+        },
         "ammo.pistol": {
           "Allow Duplicates": true,
           "Skin ID (0 = default)": 0,
           "Display Name (empty = none)": "",
           "Item Minimum": 15,
-          "Item Maximum": 18,
+          "Item Maximum": 26,
           "Can Convert To Blueprint": true
         },
         "cctv.camera": {
@@ -1866,12 +1955,20 @@
           "Item Minimum": 5,
           "Item Maximum": 5
         },
+        "metalspring": {
+          "Allow Duplicates": true,
+          "Skin ID (0 = default)": 0,
+          "Display Name (empty = none)": "",
+          "Item Minimum": 5,
+          "Item Maximum": 5,
+          "Can Convert To Blueprint": true
+        },
         "ammo.shotgun": {
           "Allow Duplicates": true,
           "Skin ID (0 = default)": 0,
           "Display Name (empty = none)": "",
           "Item Minimum": 6,
-          "Item Maximum": 10,
+          "Item Maximum": 12,
           "Can Convert To Blueprint": true
         },
         "knife.combat": {
@@ -1899,7 +1996,7 @@
           "Skin ID (0 = default)": 0,
           "Display Name (empty = none)": "",
           "Item Minimum": 15,
-          "Item Maximum": 15,
+          "Item Maximum": 25,
           "Can Convert To Blueprint": true
         },
         "ammo.pistol.hv": {
@@ -1907,7 +2004,7 @@
           "Skin ID (0 = default)": 0,
           "Display Name (empty = none)": "",
           "Item Minimum": 15,
-          "Item Maximum": 15,
+          "Item Maximum": 25,
           "Can Convert To Blueprint": true
         },
         "rifle.semiauto": {
@@ -1958,72 +2055,19 @@
           "Allow Duplicates": true,
           "Skin ID (0 = default)": 0,
           "Display Name (empty = none)": "",
-          "Item Minimum": 4,
-          "Item Maximum": 6,
+          "Item Minimum": 6,
+          "Item Maximum": 12,
           "Can Convert To Blueprint": true
         },
         "ammo.shotgun.slug": {
           "Allow Duplicates": true,
           "Skin ID (0 = default)": 0,
           "Display Name (empty = none)": "",
-          "Item Minimum": 4,
-          "Item Maximum": 6,
+          "Item Minimum": 6,
+          "Item Maximum": 12,
           "Can Convert To Blueprint": true
         },
         "targeting.computer": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 5,
-          "Item Maximum": 5
-        },
-        "semibody": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 1
-        },
-        "metalspring": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 5,
-          "Item Maximum": 5,
-          "Can Convert To Blueprint": true
-        },
-        "sheetmetal": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 5,
-          "Item Maximum": 5
-        },
-        "metalblade": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 5,
-          "Item Maximum": 5,
-          "Can Convert To Blueprint": true
-        },
-        "gears": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 5,
-          "Item Maximum": 5,
-          "Can Convert To Blueprint": true
-        },
-        "roadsigns": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 5,
-          "Item Maximum": 5,
-          "Can Convert To Blueprint": true
-        },
-        "techparts": {
           "Allow Duplicates": true,
           "Skin ID (0 = default)": 0,
           "Display Name (empty = none)": "",
@@ -5679,6 +5723,13 @@
           "Item Maximum": 1,
           "Can Convert To Blueprint": true
         },
+        "clothing.mod.armorinsert_metal": {
+          "Allow Duplicates": true,
+          "Skin ID (0 = default)": 0,
+          "Display Name (empty = none)": "",
+          "Item Minimum": 1,
+          "Item Maximum": 1
+        },
         "electric.battery.rechargable.medium": {
           "Allow Duplicates": true,
           "Skin ID (0 = default)": 0,
@@ -5690,13 +5741,6 @@
             "Minimum Durability": 100
           },
           "Can Convert To Blueprint": true
-        },
-        "clothing.mod.armorinsert_metal": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 1
         }
       },
       "Guaranteed Items": {},
@@ -5719,12 +5763,20 @@
           "Allow Duplicates": true,
           "Skin ID (0 = default)": 0,
           "Display Name (empty = none)": "",
-          "Item Minimum": 3,
+          "Item Minimum": 5,
           "Item Maximum": 5,
           "Item Durability": {
             "Maximum Durability": 100,
             "Minimum Durability": 100
           }
+        },
+        "gears": {
+          "Allow Duplicates": true,
+          "Skin ID (0 = default)": 0,
+          "Display Name (empty = none)": "",
+          "Item Minimum": 5,
+          "Item Maximum": 5,
+          "Can Convert To Blueprint": true
         },
         "pants": {
           "Allow Duplicates": true,
@@ -5766,11 +5818,18 @@
           },
           "Can Convert To Blueprint": true
         },
+        "smgbody": {
+          "Allow Duplicates": true,
+          "Skin ID (0 = default)": 0,
+          "Display Name (empty = none)": "",
+          "Item Minimum": 5,
+          "Item Maximum": 6
+        },
         "semibody": {
           "Allow Duplicates": true,
           "Skin ID (0 = default)": 0,
           "Display Name (empty = none)": "",
-          "Item Minimum": 2,
+          "Item Minimum": 5,
           "Item Maximum": 5
         },
         "metalpipe": {
@@ -5913,14 +5972,6 @@
           },
           "Can Convert To Blueprint": true
         },
-        "grenade.beancan": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 5,
-          "Item Maximum": 5,
-          "Can Convert To Blueprint": true
-        },
         "pistol.revolver": {
           "Allow Duplicates": true,
           "Skin ID (0 = default)": 0,
@@ -5969,18 +6020,6 @@
           "Item Maximum": 1,
           "Can Convert To Blueprint": true
         },
-        "salvaged.cleaver": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 1,
-          "Item Durability": {
-            "Maximum Durability": 100,
-            "Minimum Durability": 100
-          },
-          "Can Convert To Blueprint": true
-        },
         "ladder.wooden.wall": {
           "Allow Duplicates": true,
           "Skin ID (0 = default)": 0,
@@ -6000,7 +6039,7 @@
           "Item Minimum": 5,
           "Item Maximum": 5
         },
-        "weapon.mod.flashlight": {
+        "grenade.molotov": {
           "Allow Duplicates": true,
           "Skin ID (0 = default)": 0,
           "Display Name (empty = none)": "",
@@ -6008,7 +6047,31 @@
           "Item Maximum": 1,
           "Can Convert To Blueprint": true
         },
-        "gears": {
+        "pistol.semiauto": {
+          "Allow Duplicates": true,
+          "Skin ID (0 = default)": 0,
+          "Display Name (empty = none)": "",
+          "Item Minimum": 1,
+          "Item Maximum": 1,
+          "Can Convert To Blueprint": true
+        },
+        "rifle.semiauto": {
+          "Allow Duplicates": true,
+          "Skin ID (0 = default)": 0,
+          "Display Name (empty = none)": "",
+          "Item Minimum": 1,
+          "Item Maximum": 1,
+          "Can Convert To Blueprint": true
+        },
+        "smg.thompson": {
+          "Allow Duplicates": true,
+          "Skin ID (0 = default)": 0,
+          "Display Name (empty = none)": "",
+          "Item Minimum": 1,
+          "Item Maximum": 1,
+          "Can Convert To Blueprint": true
+        },
+        "explosive.satchel": {
           "Allow Duplicates": true,
           "Skin ID (0 = default)": 0,
           "Display Name (empty = none)": "",
@@ -6016,12 +6079,37 @@
           "Item Maximum": 5,
           "Can Convert To Blueprint": true
         },
-        "smgbody": {
+        "ammo.pistol": {
           "Allow Duplicates": true,
           "Skin ID (0 = default)": 0,
           "Display Name (empty = none)": "",
-          "Item Minimum": 5,
-          "Item Maximum": 7
+          "Item Minimum": 15,
+          "Item Maximum": 25,
+          "Can Convert To Blueprint": true
+        },
+        "ammo.rifle": {
+          "Allow Duplicates": true,
+          "Skin ID (0 = default)": 0,
+          "Display Name (empty = none)": "",
+          "Item Minimum": 15,
+          "Item Maximum": 26,
+          "Can Convert To Blueprint": true
+        },
+        "ammo.shotgun": {
+          "Allow Duplicates": true,
+          "Skin ID (0 = default)": 0,
+          "Display Name (empty = none)": "",
+          "Item Minimum": 6,
+          "Item Maximum": 12,
+          "Can Convert To Blueprint": true
+        },
+        "shotgun.pump": {
+          "Allow Duplicates": true,
+          "Skin ID (0 = default)": 0,
+          "Display Name (empty = none)": "",
+          "Item Minimum": 1,
+          "Item Maximum": 1,
+          "Can Convert To Blueprint": true
         }
       },
       "Guaranteed Items": {},
@@ -6040,6 +6128,14 @@
       },
       "Loot Profiles": [],
       "Ungrouped Items": {
+        "gears": {
+          "Allow Duplicates": true,
+          "Skin ID (0 = default)": 0,
+          "Display Name (empty = none)": "",
+          "Item Minimum": 5,
+          "Item Maximum": 5,
+          "Can Convert To Blueprint": true
+        },
         "chainsaw": {
           "Allow Duplicates": true,
           "Skin ID (0 = default)": 0,
@@ -6052,6 +6148,13 @@
           },
           "Can Convert To Blueprint": true
         },
+        "semibody": {
+          "Allow Duplicates": true,
+          "Skin ID (0 = default)": 0,
+          "Display Name (empty = none)": "",
+          "Item Minimum": 1,
+          "Item Maximum": 1
+        },
         "metalpipe": {
           "Allow Duplicates": true,
           "Skin ID (0 = default)": 0,
@@ -6060,12 +6163,27 @@
           "Item Maximum": 5,
           "Can Convert To Blueprint": true
         },
+        "roadsigns": {
+          "Allow Duplicates": true,
+          "Skin ID (0 = default)": 0,
+          "Display Name (empty = none)": "",
+          "Item Minimum": 5,
+          "Item Maximum": 5,
+          "Can Convert To Blueprint": true
+        },
+        "techparts": {
+          "Allow Duplicates": true,
+          "Skin ID (0 = default)": 0,
+          "Display Name (empty = none)": "",
+          "Item Minimum": 5,
+          "Item Maximum": 5
+        },
         "ammo.rifle": {
           "Allow Duplicates": true,
           "Skin ID (0 = default)": 0,
           "Display Name (empty = none)": "",
           "Item Minimum": 15,
-          "Item Maximum": 15,
+          "Item Maximum": 25,
           "Can Convert To Blueprint": true
         },
         "jackhammer": {
@@ -6079,12 +6197,27 @@
             "Minimum Durability": 100
           }
         },
+        "metalblade": {
+          "Allow Duplicates": true,
+          "Skin ID (0 = default)": 0,
+          "Display Name (empty = none)": "",
+          "Item Minimum": 5,
+          "Item Maximum": 5,
+          "Can Convert To Blueprint": true
+        },
+        "sheetmetal": {
+          "Allow Duplicates": true,
+          "Skin ID (0 = default)": 0,
+          "Display Name (empty = none)": "",
+          "Item Minimum": 5,
+          "Item Maximum": 5
+        },
         "ammo.pistol": {
           "Allow Duplicates": true,
           "Skin ID (0 = default)": 0,
           "Display Name (empty = none)": "",
           "Item Minimum": 15,
-          "Item Maximum": 18,
+          "Item Maximum": 26,
           "Can Convert To Blueprint": true
         },
         "cctv.camera": {
@@ -6094,12 +6227,20 @@
           "Item Minimum": 5,
           "Item Maximum": 5
         },
+        "metalspring": {
+          "Allow Duplicates": true,
+          "Skin ID (0 = default)": 0,
+          "Display Name (empty = none)": "",
+          "Item Minimum": 5,
+          "Item Maximum": 5,
+          "Can Convert To Blueprint": true
+        },
         "ammo.shotgun": {
           "Allow Duplicates": true,
           "Skin ID (0 = default)": 0,
           "Display Name (empty = none)": "",
           "Item Minimum": 6,
-          "Item Maximum": 10,
+          "Item Maximum": 12,
           "Can Convert To Blueprint": true
         },
         "knife.combat": {
@@ -6127,7 +6268,7 @@
           "Skin ID (0 = default)": 0,
           "Display Name (empty = none)": "",
           "Item Minimum": 15,
-          "Item Maximum": 15,
+          "Item Maximum": 25,
           "Can Convert To Blueprint": true
         },
         "ammo.pistol.hv": {
@@ -6135,7 +6276,7 @@
           "Skin ID (0 = default)": 0,
           "Display Name (empty = none)": "",
           "Item Minimum": 15,
-          "Item Maximum": 15,
+          "Item Maximum": 25,
           "Can Convert To Blueprint": true
         },
         "rifle.semiauto": {
@@ -6186,72 +6327,19 @@
           "Allow Duplicates": true,
           "Skin ID (0 = default)": 0,
           "Display Name (empty = none)": "",
-          "Item Minimum": 4,
-          "Item Maximum": 6,
+          "Item Minimum": 6,
+          "Item Maximum": 12,
           "Can Convert To Blueprint": true
         },
         "ammo.shotgun.slug": {
           "Allow Duplicates": true,
           "Skin ID (0 = default)": 0,
           "Display Name (empty = none)": "",
-          "Item Minimum": 4,
-          "Item Maximum": 6,
+          "Item Minimum": 6,
+          "Item Maximum": 12,
           "Can Convert To Blueprint": true
         },
         "targeting.computer": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 5,
-          "Item Maximum": 5
-        },
-        "semibody": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 1
-        },
-        "metalspring": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 5,
-          "Item Maximum": 5,
-          "Can Convert To Blueprint": true
-        },
-        "sheetmetal": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 5,
-          "Item Maximum": 5
-        },
-        "metalblade": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 5,
-          "Item Maximum": 5,
-          "Can Convert To Blueprint": true
-        },
-        "gears": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 5,
-          "Item Maximum": 5,
-          "Can Convert To Blueprint": true
-        },
-        "roadsigns": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 5,
-          "Item Maximum": 5,
-          "Can Convert To Blueprint": true
-        },
-        "techparts": {
           "Allow Duplicates": true,
           "Skin ID (0 = default)": 0,
           "Display Name (empty = none)": "",
@@ -7242,6 +7330,20 @@
           "Item Minimum": 1,
           "Item Maximum": 1
         },
+        "electric.generator.small": {
+          "Allow Duplicates": false,
+          "Skin ID (0 = default)": 0,
+          "Display Name (empty = none)": "",
+          "Item Minimum": 1,
+          "Item Maximum": 1
+        },
+        "advancedblueprintfragment": {
+          "Allow Duplicates": true,
+          "Skin ID (0 = default)": 0,
+          "Display Name (empty = none)": "",
+          "Item Minimum": 1,
+          "Item Maximum": 1
+        },
         "ammo.grenadelauncher.smoke": {
           "Allow Duplicates": true,
           "Skin ID (0 = default)": 0,
@@ -7255,13 +7357,6 @@
           "Display Name (empty = none)": "",
           "Item Minimum": 10,
           "Item Maximum": 15
-        },
-        "advancedblueprintfragment": {
-          "Allow Duplicates": true,
-          "Skin ID (0 = default)": 0,
-          "Display Name (empty = none)": "",
-          "Item Minimum": 1,
-          "Item Maximum": 1
         }
       },
       "Guaranteed Items": {},
@@ -7668,6 +7763,13 @@
         },
         "multiplegrenadelauncher": {
           "Allow Duplicates": true,
+          "Skin ID (0 = default)": 0,
+          "Display Name (empty = none)": "",
+          "Item Minimum": 1,
+          "Item Maximum": 1
+        },
+        "electric.generator.small": {
+          "Allow Duplicates": false,
           "Skin ID (0 = default)": 0,
           "Display Name (empty = none)": "",
           "Item Minimum": 1,
@@ -8093,6 +8195,13 @@
         },
         "multiplegrenadelauncher": {
           "Allow Duplicates": true,
+          "Skin ID (0 = default)": 0,
+          "Display Name (empty = none)": "",
+          "Item Minimum": 1,
+          "Item Maximum": 1
+        },
+        "electric.generator.small": {
+          "Allow Duplicates": false,
           "Skin ID (0 = default)": 0,
           "Display Name (empty = none)": "",
           "Item Minimum": 1,
@@ -33748,37 +33857,10 @@
     }
   },
   "Loot Groups": {
-    "example_group": {
-      "Enabled?": false,
+    "Loot Groups": {
+      "Enabled?": true,
       "Guaranteed Items": {},
-      "Item List": {
-        "lmg.m249": {
-          "Item Probability (1-100)": 100,
-          "Item Amount": {
-            "Allow Duplicates": true,
-            "Skin ID (0 = default)": 0,
-            "Display Name (empty = none)": "",
-            "Item Minimum": 1,
-            "Item Maximum": 2,
-            "Item Durability": {
-              "Maximum Durability": 100,
-              "Minimum Durability": 100
-            },
-            "Item Properties": {
-              "Weapon Attachments": {
-                "Maximum Mod Amount": 1,
-                "Minimum Mod Amount": 1,
-                "Available Attachments": {}
-              },
-              "Ammunition Settings": {
-                "Maximum Amount": 0,
-                "Minimum Amount": 0,
-                "Ammo Item Shortname": ""
-              }
-            }
-          }
-        }
-      }
+      "Item List": {}
     }
   }
 }
